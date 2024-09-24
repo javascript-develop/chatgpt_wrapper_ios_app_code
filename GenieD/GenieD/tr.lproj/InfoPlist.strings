@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GenieD
+
+  Created by OK on 12.04.2023.
+  
+*/
+
+NSCameraUsageDescription = "Kamerana erişmek için fotoğraf ve videolar çekmek zorundayız.";
+NSPhotoLibraryUsageDescription = "Bu, sizin sohbet görüşmelerinize fotoğrafları sorunsuzca içe aktarmanıza olanak sağlayacaktır.";

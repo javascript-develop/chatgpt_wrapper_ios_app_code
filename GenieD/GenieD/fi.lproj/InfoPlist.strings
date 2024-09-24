@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GenieD
+
+  Created by OK on 12.04.2023.
+  
+*/
+
+NSCameraUsageDescription = "Tarvitsemme pääsyn kameraasi ottamaan valokuvia ja videoita.";
+NSPhotoLibraryUsageDescription = "Tämä mahdollistaa kuvien saumattoman tuonnin keskusteluihisi.";

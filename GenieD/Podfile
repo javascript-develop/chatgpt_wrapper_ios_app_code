@@ -1,0 +1,35 @@
+# Uncomment the next line to define a global platform for your project
+ #platform :ios, '9.0'
+
+target 'GenieD' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Crashlytics'
+  pod 'FirebaseAppCheck'
+  pod 'SPIndicator'
+  pod 'SwiftyStoreKit'
+  pod 'KeychainSwift', '~> 20.0'
+  pod 'lottie-ios'
+  pod 'GoogleSignIn'
+  pod 'GoogleAPIClientForREST/Drive'
+  pod 'URLImage'
+end
+
+
+# Integrate Google drive into iOS app in 2021
+# https://www.haibosfashion.com/posts/integrate%20google%20drive%20into%20ios%20app%20in%202021/
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        target.build_configurations.each do |config|
+            config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '11.0'
+        end
+    end
+end
+
+#installer.pods_project.build_configurations.each do |config|
+#    config.build_settings["EXCLUDED_ARCHS[sdk=iphonesimulator*]"] = "arm64"
+#end

@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Leo ile Sohbet Et";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Herhangi bir görev, soru veya sohbet için 7/24 kullanılabilir kişisel AI asistanınız Leo'ya hoş geldiniz. Leo'yu iş, kişisel yaşam veya sadece eğlenceli bir sohbet için kullanmanın ne kadar kolay ve keyifli olduğunu size gösterelim.";
+"Leo Pro Tips" = "Leo Pro İpuçları";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Doğal dili kullanın: Leo, doğal dil anlama yeteneği için tasarlanmıştır, bu nedenle sorular sormaktan veya konuşma tonunuzla konuşmaktan çekinmeyin. Farklı komutları deneyin: Leo sadece soruları cevaplamakla kalmaz, çok daha fazlasını yapabilir, bu nedenle farklı komutları deneyin ve neler yapabileceğini görün. Sohbeti devam ettirin: Leo her zaman sohbet etmeye hazırdır, bu nedenle sohbeti devam ettirin ve nereye gideceğini görün.";
+"Enable Notifications" = "Bildirimleri Etkinleştirin";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Bildirimleri etkinleştirerek her zaman güncel kalın ve önemli bilgileri kaçırmayın.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Devam ederek, <BUTTON><PRIVACY>Gizlilik Politikamızı<BUTTON> ve <BUTTON><TERMS>Kullanım Koşullarımızı<BUTTON> kabul etmiş olursunuz.";
+"Continue" = "Devam";
+
+//Home
+"Ask anything" = "İstediğin her şeyi sor";
+"Get instant answers. Start asking now!" = "Anında cevaplar alın. Şimdi sormaya başlayın!";
+"Dialog" = "Diyalog";
+"Get answers with your personal assistant, Leo" = "Kişisel asistanınız Leo ile cevaplar alın";
+"Start" = "Başlat";
+"Try Leo 3 days for free. Tap to activate premium." = "Leo'yu 3 gün ücretsiz deneyin. Premium'u etkinleştirmek için dokunun.";
+"Tap below to start" = "Başlamak için aşağıya dokunun";
+
+//Side menu
+"Questions" = "Sorular";
+"My Chats" = "Sohbetlerim";
+"History" = "Geçmiş";
+"Get chatting now! Start your conversation with Leo today." = "Şimdi sohbet etmeye başlayın! Bugün Leo ile konuşmanıza başlayın.";
+
+//Settings
+"OK" = "Tamam";
+"Language" = "Dil";
+"Your Plan" = "Planınız";
+"Voice" = "Ses";
+"Support" = "Destek";
+"Restore Purchases" = "Satın Alımları Geri Yükle";
+"About" = "Hakkında";
+"Rate Us" = "Bizi Değerlendirin";
+"Share with Friends" = "Arkadaşlarla Paylaş";
+"Restored Successfully" = "Başarıyla Geri Yüklendi";
+"Terms of Use" = "Kullanım Şartları";
+"Privacy Policy" = "Gizlilik Politikası";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Sohbet Etmenin En Akıllı Yolu.";
+"Unlock endless knowledge with Leo." = "Leo ile sınırsız bilgiye erişimi açın.";
+"Ask smarter, live better with Leo." = "Leo ile daha akıllı sorular sorun, daha iyi yaşayın.";
+"Features" = "Özellikler";
+"Limited Questions and Answers" = "Sınırlı Sorular ve Cevaplar";
+"Most Advanced AI Model" = "En Gelişmiş Yapay Zeka Modeli";
+"Higher Word Limit" = "Yüksek Kelime Limiti";
+"Unlimited Questions & Answers" = "Sınırsız Sorular ve Cevaplar";
+"Dialogs (AI remembers chat history)" = "Diyaloglar (AI sohbet geçmişini hatırlar)";
+"Back" = "Geri";
+"Skip" = "Atla";
+"Your Current Plan" = "Geçerli Planınız";
+"Try 3 Days for Free" = "3 Gün Ücretsiz Deneyin";
+"<PRICE_WITH_CURRENCY>/week" = "Haftalık <PRICE_WITH_CURRENCY>.";
+"<PRICE_WITH_CURRENCY>/year" = "Yıllık <PRICE_WITH_CURRENCY>.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 günlük ücretsiz deneme sürümü, sonra haftalık <PRICE_WITH_CURRENCY>.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 günlük ücretsiz deneme sürümü, sonra yıllık <PRICE_WITH_CURRENCY>.";
+"Secured with iTunes. Cancel anytime" = "iTunes ile güvence altına alındı. İstediğiniz zaman iptal edebilirsiniz.";
+//
+"Subscription purchased" = "Abonelik satın alındı";
+"Nothing to Restore" = "Geri Yüklenecek Birşey Yok";
+"Restore failed" = "Geri Yükleme Başarısız Oldu";
+"Unknown error. Please contact support" = "Bilinmeyen hata. Lütfen destek ile iletişime geçin";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Üzgünüz, bilinmeyen bir nedenle satın alma işlemi mümkün değil. Lütfen daha sonra tekrar deneyin.";
+"The purchase cannot be completed. Please, change your account or device" = "Satın alma tamamlanamıyor. Lütfen hesabınızı veya cihazınızı değiştirin.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Satın alımınız reddedildi. Lütfen ödeme ayrıntılarını kontrol edin ve hesabınızda yeterli fon olduğundan emin olun.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Seçilen ödeme yöntemi için satın alma mevcut değil. Lütfen ödeme yönteminizin çevrimiçi satın alma yapmanıza izin verdiğinden emin olun.";
+"This product is not available in your region. Please, change the store and try again" = "Bu ürün bölgenizde mevcut değil. Lütfen mağazayı değiştirin ve tekrar deneyin.";
+"Access to cloud service information is not allowed" = "Bulut hizmeti bilgilerine erişim izin verilmiyor.";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Cihazınız internete bağlı olmadığından satın alma işlemi tamamlanamıyor. Lütfen daha sonra tekrar deneyin ve stabil bir internet bağlantınız olduğundan emin olun.";
+"Sorry, an error has occurred" = "Üzgünüz, bir hata oluştu";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Satın alma işlemi, AppStore'un kullanım şartlarını kabul etmemeniz nedeniyle tamamlanamıyor. Lütfen ayarlarda onayınızı onaylayın ve ardından satın almaya geri dönün.";
+"An error has occurred. Please, try again later" = "Bir hata oluştu. Lütfen daha sonra tekrar deneyin.";
+"The promotional offer is invalid or expired" = "Promosyon teklifi geçersiz veya süresi dolmuştur.";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Maalesef, promosyon kodu uygulanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Üzgünüz, promosyon teklifi uygulanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Maalesef, satın alma işlemi tamamlanamadı. Lütfen daha sonra tekrar deneyin.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Haftalık ücretsiz paketinizde <numberofquestions> soru kaldı. Sınırsız sorular için yükseltme yapın.";
+"Upgrade to unlimited" = "Sınırsız için yükseltme yapın";
+"Upgrade" = "Yükseltme";
+
+//Chat
+"Are you sure you want start a new chat?" = "Yeni bir sohbet başlatmak istediğinizden emin misiniz?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Devam etmek yeni bir sohbet başlatacak ve bu sohbeti sohbet geçmişinden hala erişebilirsiniz.";
+"No" = "Hayır";
+"Yes" = "Evet";
+"Are you sure you want to delete?" = "Silmek istediğinizden emin misiniz?";
+"By proceeding, you'll lose access to this chat." = "Devam ederek, bu sohbete erişiminizi kaybedeceksiniz.";
+"Give this one more chance." = "Buna bir şans daha verin";
+"Your answer will be more detailed this time!" = "Bu sefer cevabınız daha detaylı olacak!";
+"Try Again" = "Tekrar Dene";
+"Are you not satisfied?" = "Memnun değil misiniz?";
+"Ask new question" = "Yeni bir soru sor";
+//
+"Explain" = "Açıklamak";
+"Explain Bitcoin" = "Bitcoin'i açıkla";
+"How does the internet work, explain like I am 5 years old" = "İnternet nasıl çalışır, 5 yaşındaymış gibi açıkla";
+"Write & Edit" = "Yazma ve Düzenleme";
+"Write a tweet about global warming" = "Küresel ısınma hakkında bir tweet yazın";
+"Write a poem about flowers and love" = "Çiçekler ve aşk hakkında bir şiir yazın";
+"Write a rap song lyrics about being smart" = "Zeki olmak hakkında bir rap şarkı sözü yazın";
+"Translate" = "Çevir";
+"Write a tweet about global warming in Korean" = "Bana küresel ısınma hakkında bir tweet Korece yaz";
+"Write an email" = "E-posta yazın";
+"Write an email to decline the offer but request a discount." = "Teklifi reddetmek için bir e-posta yazın ancak bir indirim talep edin.";
+"Get recipes" = "Yemek tarifleri almak";
+"How to make banana pancakes" = "Muzlu pankek nasıl yapılır";
+"Do Math" = "Matematik yap";
+"Solve this math problem: 3^(9)÷3^(2)" = "Bu matematik problemi çözün: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Dilediğini sor";
+"Ask me grade 12 math questions" = "Bana 12. sınıf matematik soruları sor";
+"Ask me questions as a job interviewer" = "Beni iş görüşmesi yapar gibi sorularla röportaj edin";
+"Tell me a joke about a kangaroo" = "Bana kanguru hakkında bir şaka söyle";
+"Write an essay about Global Warming. Maximum 200 words." = "Küresel Isınma hakkında bir deneme yazın. Maksimum 200 kelime.";
+"Business" = "İş kurmak";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "İnternet üzerinden kadın ayakkabıları satan şirketim için 10 farklı marka adı oluşturun. Modern bir marka adı istiyorum. Hedef kitlem 30 yaşın altındaki kadınlar. .com alan adının internet üzerinde kullanılabilir olduğundan emin olun.";
+"Ask for help" = "Yardım iste";
+"What's the best marketing channel for second-hand electronics in America?" = "Türkiye'de ikinci el elektronikler için en iyi pazarlama kanalı nedir?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Günlük sınırına ulaşıldı. Sınırsız yanıtlar için abone olun.";
+"Please try again later" = "Lütfen daha sonra tekrar deneyin";
+"Copied" = "Kopyalandı";
+"Speak your mind to Leo" = "Leo'ya düşüncelerinizi söyleyin";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Bu ayar sohbet ekranındaki ses simgesine tıklayarak geçersiz kılınabilir.";
+"Spoken Responses" = "Konuşulan Yanıtlar";
+//
+"Share" = "Paylaş";
+
+"Error" = "Hata";
+"Camera access is denied." = "Kamera erişimi reddedildi.";
+"Photo Library access is denied." = "Fotoğraf Kütüphanesine erişim reddedildi.";
+"Cancel" = "İptal";
+"Settings" = "Ayarlar";
+"Choose image" = "Resim seçin";
+"Camera" = "Kamera";
+"Gallery" = "Galeri";
+"What is this image about?" = "Bu resim neyle ilgili?";
+"Write an Instagram caption for this image." = "Bu resim için bir Instagram altyazısı yazın.";
+"PDF/Document Summary (Coming Soon)" = "PDF/Belge Özeti (Yakında)";
+"Summarise picture" = "Resmi birkaç kelimeyle özetle";
+"Upload a photo" = "Fotoğraf yükle";
+"No connection" = "Bağlantı yok";
+"We couldn't connect to the internet. Please check network settings and try again." = "Bağlanamadık İnternete. Lütfen ağ ayarlarını kontrol edin ve tekrar deneyin.";

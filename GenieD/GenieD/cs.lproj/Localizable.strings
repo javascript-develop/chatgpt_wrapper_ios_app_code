@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Chat s Leem";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Vítejte v ChatLeu, vašem osobním asistentovi AI k dispozici 24/7, který vám pomůže s jakýmkoli úkolem, otázkou nebo konverzací. Dovolte nám ukázat vám, jak snadné a příjemné je používání ChatLea pro práci, osobní život nebo jen zábavný chat.";
+"Leo Pro Tips" = "Tipy Leo Pro";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Využijte přirozeného jazyka: Leo je navržen tak, aby rozuměl přirozenému jazyku, takže se nebojte klást otázky a mluvit konverzačním tónem. Vyzkoušejte různé příkazy: Leo umí dělat mnohem víc než jen odpovídat na otázky, takže vyzkoušejte různé příkazy, abyste viděli, co dokáže. Udržujte konverzaci v chodu: Leo je vždy připraven k chatování, takže udržujte konverzaci v chodu a uvidíte, kam vás to dovede.";
+"Enable Notifications" = "Povolit oznámení";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Povolením oznámení zajistíte, že budete vždy aktuální a nikdy nezmeškáte žádné důležité informace.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Pokračováním vyjadřujete souhlas se naší <BUTTON><PRIVACY>zásadou ochrany osobních údajů<BUTTON> a <BUTTON><TERMS>podmínkami použití<BUTTON>.";
+"Continue" = "Pokračovat";
+
+//Home
+"Ask anything" = "Zeptejte se cokoliv";
+"Get instant answers. Start asking now!" = "Získejte okamžité odpovědi. Začněte se ptát hned teď!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Získejte odpovědi s vaším osobním asistentem, Chat Leem";
+"Start" = "Začít";
+"Try Leo 3 days for free. Tap to activate premium." = "Vyzkoušejte Leo 3 dny zdarma. Klepněte pro aktivaci prémiového přístupu.";
+"Tap below to start" = "Klepněte níže pro spuštění";
+
+//Side menu
+"Questions" = "Otázky";
+"My Chats" = "Moje Konverzace";
+"History" = "Historie";
+"Get chatting now! Start your conversation with Leo today." = "Začněte si povídat hned teď! Začněte svůj rozhovor s ChatLeem ještě dnes.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Jazyk";
+"Your Plan" = "Váš plán";
+"Voice" = "Hlas";
+"Support" = "Podpora";
+"Restore Purchases" = "Obnovit nákupy";
+"About" = "O nás";
+"Rate Us" = "Ohodnoťte nás";
+"Share with Friends" = "Sdílet s přáteli";
+"Restored Successfully" = "Obnoveno úspěšně";
+"Terms of Use" = "Podmínky užití";
+"Privacy Policy" = "Zásady ochrany osobních údajů";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Prémiový";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Nejchytřejší způsob, jak chatovat, konec.";
+"Unlock endless knowledge with Leo." = "Odemkněte nekonečné znalosti s ChatLeem.";
+"Ask smarter, live better with Leo." = "Zeptejte se chytřeji, žijte lépe s ChatLeem.";
+"Features" = "Vlastnosti";
+"Limited Questions and Answers" = "Omezeným otázkám a odpovědím";
+"Most Advanced AI Model" = "Nejvyspělejší model AI";
+"Higher Word Limit" = "Vyšší limit slov";
+"Unlimited Questions & Answers" = "Neomezené otázky a odpovědi";
+"Dialogs (AI remembers chat history)" = "Dialogy (AI pamatuje historii chatu)";
+"Back" = "Zpět";
+"Skip" = "Přeskočit";
+"Your Current Plan" = "Váš aktuální plán";
+"Try 3 Days for Free" = "Vyzkoušejte 3 dny zdarma";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> týdně.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> ročně.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Tři dny bezplatného zkušebního období, poté <PRICE_WITH_CURRENCY> týdně.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Tři dny bezplatného zkušebního období, poté <PRICE_WITH_CURRENCY> ročně. ";
+"Secured with iTunes. Cancel anytime" = "Zabezpečeno pomocí iTunes. Kdykoliv můžete zrušit.";
+//
+"Subscription purchased" = "Zakoupena předplatné";
+"Nothing to Restore" = "Nic k obnovení";
+"Restore failed" = "Obnovení se nezdařilo";
+"Unknown error. Please contact support" = "Neznámá chyba. Kontaktujte prosím podporu.";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Bohužel, nákup není k dispozici z neznámého důvodu. Zkuste to prosím později znovu.";
+"The purchase cannot be completed. Please, change your account or device" = "Nákup nelze dokončit. Prosím, změňte svůj účet nebo zařízení.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Vaše platba byla zamítnuta. Zkontrolujte, prosím, detaily platby a ujistěte se, že máte dostatek prostředků na účtu.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Nákup není k dispozici pro zvolený způsob platby. Ujistěte se, že váš způsob platby umožňuje nákupy online.";
+"This product is not available in your region. Please, change the store and try again" = "Tento produkt není k dispozici ve vašem regionu. Prosím, změňte obchod a zkuste to znovu.";
+"Access to cloud service information is not allowed" = " Přístup k informacím o cloudové službě není povolen";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Nákup nelze dokončit, protože váš zařízení není připojeno k internetu. Zkuste to prosím později se stabilním připojením k internetu.";
+"Sorry, an error has occurred" = "Omlouváme se, došlo k chybě";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Nákup nelze dokončit, protože jste nepřijali podmínky použití AppStore. Potvrďte svůj souhlas v nastavení a poté se vraťte k nákupu";
+"An error has occurred. Please, try again later" = "Došlo k chybě. Prosím, zkuste to později.";
+"The promotional offer is invalid or expired" = "Propagační nabídka není platná nebo vypršela";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Je nám líto, došlo k chybě při použití promo kódu. Prosím, zkuste to později.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Omlouváme se, při použití promo nabídky došlo k chybě. Zkuste to prosím později znovu";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Bohužel, nákup nelze dokončit. Zkuste to prosím později znovu.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "V týdenním bezplatném balíčku vám zbývá <numberofquestions> otázek. Upgradujte na neomezené otázky.";
+"Upgrade to unlimited" = "Upgradujte na neomezené";
+"Upgrade" = "Upgradovat";
+
+//Chat
+"Are you sure you want start a new chat?" = "Jste si jisti, že chcete zahájit nový chat?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Pokračování zahájí nový chat a stále budete moci přistupovat k tomuto chatu z historie chatu.";
+"No" = "Ne";
+"Yes" = "Ano";
+"Are you sure you want to delete?" = "Opravdu chcete smazat?";
+"By proceeding, you'll lose access to this chat." = "Pokud budete pokračovat, ztratíte přístup k této konverzaci.";
+"Give this one more chance." = "Dejte tomu ještě jednu šanci";
+"Your answer will be more detailed this time!" = "Tentokrát bude vaše odpověď podrobnější!";
+"Try Again" = "Zkuste to znovu";
+"Are you not satisfied?" = "Nejste spokojený?";
+"Ask new question" = "Položte novou otázku";
+//
+"Explain" = "Vysvětlit";
+"Explain Bitcoin" = "Vysvětlete Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Jak funguje internet, vysvětli jako kdyby ti bylo pět let";
+"Write & Edit" = "Psaní a editace";
+"Write a tweet about global warming" = "Napište tweet o globálním oteplování";
+"Write a poem about flowers and love" = "Napište báseň o květech a lásce";
+"Write a rap song lyrics about being smart" = "Napište text rapové písně o tom, jak být chytrý";
+"Translate" = "Přeložit";
+"Write a tweet about global warming in Korean" = "Napiš mi tweet o globálním oteplování v korejštině";
+"Write an email" = "Napište e-mail";
+"Write an email to decline the offer but request a discount." = "Napište e-mail na odmítnutí nabídky, ale požádejte o slevu.";
+"Get recipes" = "Získat recepty na jídlo";
+"How to make banana pancakes" = "Jak udělat banánové palačinky";
+"Do Math" = "Spočítej to";
+"Solve this math problem: 3^(9)÷3^(2)" = "Vyřešte tento matematický problém: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Zeptejte se na cokoliv";
+"Ask me grade 12 math questions" = "Polož mi otázky z matematiky 12. ročníku";
+"Ask me questions as a job interviewer" = "Ptátejte se mě jako zaměstnavatel na pohovoru";
+"Tell me a joke about a kangaroo" = "Řekni mi vtip o klokanovi";
+"Write an essay about Global Warming. Maximum 200 words." = "Napište esej o globálním oteplování. Maximum 200 slov.";
+"Business" = "Podnikání";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Vygenerujte 10 různých obchodních značek pro mou společnost, která bude prodávat dámské boty na internetu. Chci moderní název značky. Mým cílovým publikem jsou ženy mladší 30 let. Ujistěte se, že doména .com je k dispozici na internetu.";
+"Ask for help" = "Požádat o pomoc";
+"What's the best marketing channel for second-hand electronics in America?" = "Jaký je nejlepší marketingový kanál pro použitou elektroniku v České republice?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Byl dosažen denní limit. Přihlaste se k odběru neomezených odpovědí.";
+"Please try again later" = "Zkuste to prosím později";
+"Copied" = "Zkopírováno";
+"Speak your mind to Leo" = "Řekněte svůj názor Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Tuto volbu lze přepsat na chatovací obrazovce klepnutím na ikonu zvuku.";
+"Spoken Responses" = "Mluvené odpovědi";
+//
+"Share" = "Sdílet";
+
+"Error" = "Chyba";
+"Camera access is denied." = "Přístup k fotoaparátu je zamítnut.";
+"Photo Library access is denied." = "Přístup k fotografické knihovně je zamítnut.";
+"Cancel" = "Zrušit";
+"Settings" = "Nastavení";
+"Choose image" = "Vyberte obrázek";
+"Camera" = "Kamera";
+"Gallery" = "Galerie";
+"What is this image about?" = "O čem tato obrázek je?";
+"Write an Instagram caption for this image." = "Napište popisek na Instagram pro tuto fotografii.";
+"PDF/Document Summary (Coming Soon)" = "Shrnutí PDF/Dokumentu (Brzy k dispozici)";
+"Summarise picture" = "Shrňte obrázek do pár slov";
+"Upload a photo" = "Nahrajte fotografii";
+"No connection" = "Žádné spojení";
+"We couldn't connect to the internet. Please check network settings and try again." = "Nemůžeme se připojit k internetu. Zkontrolujte prosím nastavení sítě a zkuste to znovu.";

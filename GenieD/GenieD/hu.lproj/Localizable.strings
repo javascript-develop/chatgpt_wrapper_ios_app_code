@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Beszélj Leo-val";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Üdvözöljük a Leo-ban, az Ön személyes AI asszisztensében, amely 24/7 rendelkezésre áll, hogy segítsen bármilyen feladattal, kérdéssel vagy beszélgetéssel. Hadd mutassuk meg, milyen könnyű és élvezetes a Leo használata munkához, személyes élethez vagy csak egy szórakoztató beszélgetéshez.";
+"Leo Pro Tips" = "Leo Pro Tippek";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Használja a természetes nyelvet: A Leo úgy van tervezve, hogy megértse a természetes nyelvet, így ne féljen kérdéseket feltenni és beszélgető hangnemben beszélni. Próbáljon ki különböző parancsokat: A Leo sokkal többet tud, mint csak válaszolni a kérdésekre, így próbáljon ki különböző parancsokat, hogy lássa, mit tud csinálni. Tartsa fenn a beszélgetést: A Leo mindig kész beszélgetni, így folytassa a beszélgetést, és nézze meg, hová vezeti.";
+"Enable Notifications" = "Értesítések engedélyezése";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Engedélyezze az értesítéseket, hogy mindig naprakész legyen és ne maradjon le semmilyen fontos információról.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "A további használatával elfogadja <BUTTON><PRIVACY>Adatvédelmi irányelveinket<BUTTON> és a <BUTTON><TERMS>Felhasználási feltételeket<BUTTON>.";
+"Continue" = "Folytatás";
+
+//Home
+"Ask anything" = "Kérdezz bármit";
+"Get instant answers. Start asking now!" = "Azonnali válaszokat kap. Kezdje el most kérdezni!";
+"Dialog" = "Párbeszéd";
+"Get answers with your personal assistant, Leo" = "Kapjon válaszokat a személyes asszisztensével, a Leo-val.";
+"Start" = "Indítás";
+"Try Leo 3 days for free. Tap to activate premium." = "Próbálja ki a Leo-t 3 napig ingyenesen. Koppintson a prémium aktiválásához.";
+"Tap below to start" = "Kattintson az induláshoz lent";
+
+//Side menu
+"Questions" = "Kérdések";
+"My Chats" = "Az Üzeneteim";
+"History" = "Előzmények";
+"Get chatting now! Start your conversation with Leo today." = "Kezdje el a beszélgetést a Leo-val még ma!";
+
+//Settings
+"OK" = "Rendben";
+"Language" = "Nyelv";
+"Your Plan" = "Az Ön tervének";
+"Voice" = "Hang";
+"Support" = "Támogatás";
+"Restore Purchases" = "Vásárlások helyreállítása";
+"About" = "Névjegy";
+"Rate Us" = "Értékeljen minket";
+"Share with Friends" = "Ossza meg barátaival";
+"Restored Successfully" = "Sikeresen helyreállítva.";
+"Terms of Use" = "Felhasználási feltételek";
+"Privacy Policy" = "Adatvédelmi irányelvek";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Prémium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: A legegyszerűbb módja a chatelésnek.";
+"Unlock endless knowledge with Leo." = "Oldja fel az örökös tudást a Leo-val.";
+"Ask smarter, live better with Leo." = "Kérdezzen okosabban, éljen jobban a Leo-val.";
+"Features" = "Jellemzők";
+"Limited Questions and Answers" = "Korlátozott kérdések és válaszok";
+"Most Advanced AI Model" = "Legfejlettebb AI modell";
+"Higher Word Limit" = "Magasabb szólimit";
+"Unlimited Questions & Answers" = "Korlátlan kérdések és válaszok";
+"Dialogs (AI remembers chat history)" = "Párbeszédek (az AI emlékszik a chatelési előzményekre)";
+"Back" = "Vissza";
+"Skip" = "Kihagyás";
+"Your Current Plan" = "Az aktuális tervje";
+"Try 3 Days for Free" = "Próbálja ki 3 napig ingyen";
+"<PRICE_WITH_CURRENCY>/week" = "Hetente <PRICE_WITH_CURRENCY>.";
+"<PRICE_WITH_CURRENCY>/year" = "Évente <PRICE_WITH_CURRENCY>.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 napos ingyenes próbaidőszak, majd hetente <PRICE_WITH_CURRENCY>.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 napos ingyenes próbaidőszak, majd évente <PRICE_WITH_CURRENCY>.";
+"Secured with iTunes. Cancel anytime" = "Biztonságos az iTunes-szal. Bármikor lemondható.";
+//
+"Subscription purchased" = "Előfizetés vásárolva";
+"Nothing to Restore" = "Nincs mit visszaállítani";
+"Restore failed" = "A helyreállítás sikertelen volt";
+"Unknown error. Please contact support" = "Ismeretlen hiba. Kérjük, lépjen kapcsolatba a támogatással";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Sajnáljuk, a vásárlás ismeretlen okok miatt nem elérhető. Kérjük, próbálkozzon később újra.";
+"The purchase cannot be completed. Please, change your account or device" = "A vásárlás nem fejeződhet be. Kérjük, változtasson a fiókján vagy az eszközén.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "A vásárlás sikertelen volt. Kérjük, ellenőrizze a fizetési adatokat, és győződjön meg róla, hogy elegendő pénz áll rendelkezésre a számláján.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Az adott fizetési mód nem érhető el a vásárláshoz. Ellenőrizze, hogy a fizetési módja lehetővé teszi az online vásárlást.";
+"This product is not available in your region. Please, change the store and try again" = "Ez a termék nem érhető el a régiódban. Kérjük, változtass boltot és próbáld újra.";
+"Access to cloud service information is not allowed" = "Hungarian - Az felhőszolgáltatás információkhoz való hozzáférés nem engedélyezett";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Az vásárlás nem hajtható végre, mert az eszköz nem csatlakozik az internethez. Kérjük, próbálkozzon újra később stabil internetkapcsolattal.";
+"Sorry, an error has occurred" = "Sajnáljuk, hiba történt";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Az áru megvásárlása nem hajtható végre, mert nem fogadta el az AppStore használati feltételeit. Kérjük, erősítse meg beleegyezését a beállításokban, majd térjen vissza a vásárláshoz.";
+"An error has occurred. Please, try again later" = "Hiba történt. Kérjük, próbálja meg később újra.";
+"The promotional offer is invalid or expired" = "A promóciós ajánlat érvénytelen vagy lejárt";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Sajnáljuk, hiba történt a promóciós kód alkalmazásakor. Kérjük, próbálja újra később.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Sajnáljuk, hiba történt a promóciós ajánlat alkalmazása során. Kérjük, próbálja újra később.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Sajnáljuk, nem lehet végrehajtani a vásárlást. Kérjük, próbálja meg később.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Még <numberofquestions> kérdés van a heti ingyenes csomagjában. Frissítse az korlátlan kérdésekért.";
+"Upgrade to unlimited" = "Frissítse az korlátlanra";
+"Upgrade" = "Frissítés";
+
+//Chat
+"Are you sure you want start a new chat?" = "Biztosan új beszélgetést szeretne kezdeni?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "A folytatás egy új beszélgetést indít el, és még mindig hozzáférhetsz ehhez a beszélgetéshez a beszélgetési előzményekből.";
+"No" = "Nem";
+"Yes" = "Igen";
+"Are you sure you want to delete?" = "Biztosan törölni szeretné?";
+"By proceeding, you'll lose access to this chat." = "A folytatással elveszítheti a hozzáférést ehhez a csevegéshez.";
+"Give this one more chance." = "Adj neki még egy esélyt";
+"Your answer will be more detailed this time!" = "Ezúttal részletesebb lesz a válaszod!";
+"Try Again" = "Próbálja újra";
+"Are you not satisfied?" = "Nem elégedett?";
+"Ask new question" = "Új kérdést tegyen fel";
+//
+"Explain" = "Magyarázni";
+"Explain Bitcoin" = "Magyarázza el a Bitcoint";
+"How does the internet work, explain like I am 5 years old" = "Hogyan működik az internet, magyarázd el mintha 5 éves lennél";
+"Write & Edit" = "Írás és szerkesztés";
+"Write a tweet about global warming" = "Írj egy tweetet a globális felmelegedésről";
+"Write a poem about flowers and love" = "Írj egy verset a virágokról és a szerelemről";
+"Write a rap song lyrics about being smart" = "Írj rap dal szövegeket arról, hogy okosnak lenni";
+"Translate" = "Fordítás";
+"Write a tweet about global warming in Korean" = "Írj nekem egy tweetet a globális felmelegedésről koreaiul";
+"Write an email" = "Írjon egy e-mailt";
+"Write an email to decline the offer but request a discount." = "Írjon egy e-mailt a felajánlás visszautasításához, de kérjen kedvezményt.";
+"Get recipes" = "Ételrecepteket kapni";
+"How to make banana pancakes" = "Hogyan készítsünk banános palacsintát";
+"Do Math" = "Matekozz";
+"Solve this math problem: 3^(9)÷3^(2)" = "Old meg ezt a matematikai problémát: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Kérdezzen bármit";
+"Ask me grade 12 math questions" = "Kérdezz tőlem 12. osztályos matekfeladatokat";
+"Ask me questions as a job interviewer" = "Kérdezzen tőlem kérdéseket állásinterjúztatóként";
+"Tell me a joke about a kangaroo" = "Mondj nekem egy viccet egy kengururól";
+"Write an essay about Global Warming. Maximum 200 words." = "Írjon egy esszét a globális felmelegedésről. Legfeljebb 200 szó.";
+"Business" = "Üzlet";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Készítsen 10 különböző márkanevet a cégemnek, amely női cipőket fog az interneten értékesíteni. Egy modern márkanévre van szükségem. Célközönségem a 30 év alatti nők. Győződjön meg arról, hogy a .com tartomány elérhető az interneten.";
+"Ask for help" = "Segítség kérés";
+"What's the best marketing channel for second-hand electronics in America?" = "Mi a legjobb marketingcsatorna használt elektronikai termékek számára Magyarországon?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Elérte a napi korlátot. Iratkozzon fel a korlátlan válaszokért.";
+"Please try again later" = "Kérjük, próbálja újra később";
+"Copied" = "Másolva";
+"Speak your mind to Leo" = "Mondd el gondolataidat Leónak";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Ez a beállítás felülírható a csevegőablakban a hang ikonra koppintva.";
+"Spoken Responses" = "Szóbeli válaszok";
+//
+"Share" = "Megosztás";
+
+"Error" = "Hiba";
+"Camera access is denied." = "A kamera hozzáférését megtagadták.";
+"Photo Library access is denied." = "A fényképtár hozzáférését megtagadták.";
+"Cancel" = "Mégse";
+"Settings" = "Beállítások";
+"Choose image" = "Válasszon egy képet";
+"Camera" = "Kamera";
+"Gallery" = "Galéria";
+"What is this image about?" = "Mi látható ezen a képen?";
+"Write an Instagram caption for this image." = "Írj egy Instagram-feliratot erre a képre.";
+"PDF/Document Summary (Coming Soon)" = "PDF/Dokumentum összefoglaló (Hamarosan elérhető)";
+"Summarise picture" = "Áttekintse a képet néhány szóban";
+"Upload a photo" = "Töltsön fel egy képet";
+"No connection" = "Nincs kapcsolat";
+"We couldn't connect to the internet. Please check network settings and try again." = "Nem tudtunk csatlakozni az internethez. Kérjük, ellenőrizze a hálózati beállításokat, és próbálja meg újra.";

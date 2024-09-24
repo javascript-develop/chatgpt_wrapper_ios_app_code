@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GenieD
+
+  Created by OK on 12.04.2023.
+  
+*/
+
+NSCameraUsageDescription = "Vi skal have adgang til din kamera for at tage billeder og videoer.";
+NSPhotoLibraryUsageDescription = "Dette vil lade dig nemt importere billeder til dine chat-samtaler.";

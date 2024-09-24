@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Чат з Лео";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Ласкаво просимо до Leo, вашого персонального AI-асистента, доступного 24/7, щоб допомогти з будь-яким завданням, запитанням або розмовою. Дозвольте нам показати вам, наскільки легко і приємно використовувати Leo для роботи, особистого життя або просто для розважального чатування.";
+"Leo Pro Tips" = "Підказки про Leo Pro";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Використовуйте природну мову: Leo розроблений, щоб розуміти природну мову, тому не бійтеся задавати запитання і говорити розмовним тоном. Спробуйте різні команди: Leo може багато більше, ніж просто відповідати на запитання, тому спробуйте різні команди, щоб побачити, що він може зробити. Продовжуйте розмову: Leo завжди готовий до розмови, тому продовжуйте розмову і побачите, куди вона вас занесе.";
+"Enable Notifications" = "Увімкнути повідомлення";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Увімкніть повідомлення, щоб бути в курсі останніх подій і не пропустити жодної важливої інформації.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Продовжуючи, ви погоджуєтеся з нашою <BUTTON><PRIVACY>Політикою конфіденційності<BUTTON> та <BUTTON><TERMS>Умовами використання<BUTTON>.";
+"Continue" = "Продовжити";
+
+//Home
+"Ask anything" = "Запитуйте будь-що";
+"Get instant answers. Start asking now!" = "Отримуйте миттєві відповіді. Почніть запитувати зараз!";
+"Dialog" = "Діалог";
+"Get answers with your personal assistant, Leo" = "Отримуйте відповіді від вашого персонального асистента, Leo";
+"Start" = "Почати";
+"Try Leo 3 days for free. Tap to activate premium." = "Спробуйте Leo безкоштовно на 3 дні. Натисніть, щоб активувати преміум-версію.";
+"Tap below to start" = "Натисніть нижче, щоб почати";
+
+//Side menu
+"Questions" = "Питання";
+"My Chats" = "Мої чати";
+"History" = "Історія";
+"Get chatting now! Start your conversation with Leo today." = "Розпочніть розмову з Leo вже зараз!";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Мова";
+"Your Plan" = "Ваш план";
+"Voice" = "Голос";
+"Support" = "Підтримка";
+"Restore Purchases" = "Відновлення покупок";
+"About" = "Про нас";
+"Rate Us" = "Оцінити нас";
+"Share with Friends" = "Поділитися з друзями";
+"Restored Successfully" = "Успішно відновлено";
+"Terms of Use" = "Умови використання";
+"Privacy Policy" = "Політика конфіденційності";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Преміум";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Найрозумніший спосіб чатувати, період.";
+"Unlock endless knowledge with Leo." = "Розблокуйте нескінченні знання з Leo.";
+"Ask smarter, live better with Leo." = "Задавайте розумні запитання, живіть краще з Leo.";
+"Features" = "Особливості";
+"Limited Questions and Answers" = "Обмежені запитання та відповіді";
+"Most Advanced AI Model" = "Найбільш розроблена модель AI";
+"Higher Word Limit" = "Вищий ліміт слів";
+"Unlimited Questions & Answers" = "Необмежені питання та відповіді";
+"Dialogs (AI remembers chat history)" = "Діалоги (ШІ пам'ятає історію чату)";
+"Back" = "Назад";
+"Skip" = "Пропустити";
+"Your Current Plan" = "Ваш поточний план";
+"Try 3 Days for Free" = "Спробуйте безкоштовно 3 дні";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> на тиждень.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> на рік.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3-денний безкоштовний пробний період, після чого <PRICE_WITH_CURRENCY> на тиждень.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3-денний безкоштовний пробний період, після чого <PRICE_WITH_CURRENCY> на рік.";
+"Secured with iTunes. Cancel anytime" = "Захищено iTunes. Скасуйте у будь-який час.";
+//
+"Subscription purchased" = "Підписка придбана";
+"Nothing to Restore" = "Нічого відновлювати";
+"Restore failed" = "Відновлення не вдалося";
+"Unknown error. Please contact support" = "Невідома помилка. Будь ласка, зверніться до підтримки";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Вибачте, покупка недоступна з невідомої причини. Будь ласка, спробуйте ще раз пізніше.";
+"The purchase cannot be completed. Please, change your account or device" = "Покупку неможливо завершити. Будь ласка, змініть свій обліковий запис або пристрій.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Вашу покупку відхилено. Будь ласка, перевірте дані платежу та переконайтеся, що на вашому рахунку достатньо коштів.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Покупка недоступна для обраного способу оплати. Переконайтеся, що ваш спосіб оплати дозволяє здійснювати покупки в Інтернеті.";
+"This product is not available in your region. Please, change the store and try again" = "Цей продукт недоступний у вашому регіоні. Будь ласка, змініть магазин та спробуйте ще раз.";
+"Access to cloud service information is not allowed" = "Доступ до інформації про хмарні сервіси не дозволяється.";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Покупка не може бути завершена, оскільки ваш пристрій не підключений до Інтернету. Спробуйте ще раз пізніше зі стабільним Інтернет-з'єднанням.";
+"Sorry, an error has occurred" = "Вибачте, сталася помилка";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Покупку не можливо завершити через те, що ви не прийняли умови використання AppStore. Будь ласка, підтвердіть свою згоду в налаштуваннях, а потім поверніться до покупки.";
+"An error has occurred. Please, try again later" = "Сталася помилка. Будь ласка, спробуйте ще раз пізніше.";
+"The promotional offer is invalid or expired" = "Промоакція недійсна або закінчилася термін дії.";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Вибачте, сталася помилка при застосуванні промокоду. Будь ласка, спробуйте знову пізніше.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Вибачте, сталася помилка при застосуванні промо-пропозиції. Будь ласка, спробуйте знову пізніше.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Вибачте, не вдалося завершити покупку. Спробуйте знову пізніше.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "У вашому щотижневому безкоштовному пакеті залишилось <numberofquestions> запитань. Оновіть для необмежених запитань.";
+"Upgrade to unlimited" = "Оновіть до необмеженого";
+"Upgrade" = "Оновлення";
+
+//Chat
+"Are you sure you want start a new chat?" = "Ви впевнені, що хочете почати новий чат?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Продовження запустить новий чат, і ви все ще зможете отримати доступ до цього чату з історії чату.";
+"No" = "Ні";
+"Yes" = "Так";
+"Are you sure you want to delete?" = "Ви впевнені, що хочете видалити?";
+"By proceeding, you'll lose access to this chat." = "Продовжуючи, ви втратите доступ до цього чату.";
+"Give this one more chance." = "Дайте цьому ще один шанс";
+"Your answer will be more detailed this time!" = "Ваша відповідь буде більш деталізованою цього разу!";
+"Try Again" = "Спробуйте знову";
+"Are you not satisfied?" = "Ви не задоволені?";
+"Ask new question" = "Задати нове запитання";
+//
+"Explain" = "Пояснювати";
+"Explain Bitcoin" = "Поясніть Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Як працює Інтернет, поясни, наче тобі 5 років";
+"Write & Edit" = "Письмо та редагування";
+"Write a tweet about global warming" = "Напишіть твіт про глобальне потепління";
+"Write a poem about flowers and love" = "Напишіть вірш про квіти та кохання";
+"Write a rap song lyrics about being smart" = "Напишіть реп-пісню про розумність";
+"Translate" = "Перекласти";
+"Write a tweet about global warming in Korean" = "Напишіть для мене твіт про глобальне потепління на корейській мові";
+"Write an email" = "Напишіть електронний лист";
+"Write an email to decline the offer but request a discount." = "Напишіть електронний лист, щоб відмовитися від пропозиції, але запросити знижку.";
+"Get recipes" = "Отримати рецепти їжі";
+"How to make banana pancakes" = "Як зробити бананові млинці";
+"Do Math" = "Розв'яжіть математику";
+"Solve this math problem: 3^(9)÷3^(2)" = "Вирішіть цю математичну задачу: 3^(9)÷3^(2) ";
+//
+"Ask Anything" = "Запитуйте будь-що";
+"Ask me grade 12 math questions" = "Задавайте мені питання з математики 12 класу";
+"Ask me questions as a job interviewer" = "Задавайте мені питання як роботодавець на співбесіді";
+"Tell me a joke about a kangaroo" = "Розкажіть мені жарт про кенгуру";
+"Write an essay about Global Warming. Maximum 200 words." = "Напишіть есе про глобальне потепління. Максимум 200 слів.";
+"Business" = "Бізнес";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Створіть 10 різних назв брендів для моєї компанії, яка буде продавати жіноче взуття в Інтернеті. Я хочу сучасне брендове ім'я. Моя цільова аудиторія - жінки до 30 років. Переконайтеся, що домен .com доступний в Інтернеті.";
+"Ask for help" = "Попросити допомоги";
+"What's the best marketing channel for second-hand electronics in America?" = "Який є найкращий маркетинговий канал для вторинної електроніки в Україні?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Досягнуто щоденного ліміту. Підпишіться на необмежені відповіді.";
+"Please try again later" = "Будь ласка, спробуйте знову пізніше";
+"Copied" = "Скопійовано";
+"Speak your mind to Leo" = "Скажіть свою думку Лео";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Цей параметр можна перевизначити на екрані чату, клацнувши значок звуку.";
+"Spoken Responses" = "Голосові відповіді";
+//
+"Share" = "Поділитися";
+
+"Error" = "Помилка";
+"Camera access is denied." = "Доступ до камери відхилено.";
+"Photo Library access is denied." = "Доступ до фотобібліотеки відхилено.";
+"Cancel" = "Скасувати";
+"Settings" = "Налаштування";
+"Choose image" = "Виберіть зображення";
+"Camera" = "Камера";
+"Gallery" = "Галерея";
+"What is this image about?" = "Про що це зображення?";
+"Write an Instagram caption for this image." = "Напишіть підпис в Instagram для цього зображення.";
+"PDF/Document Summary (Coming Soon)" = "Короткий опис PDF/Документу (Незабаром)";
+"Summarise picture" = "Стисніть зображення до декількох слів";
+"Upload a photo" = "Завантажте фото";
+"No connection" = "Немає з'єднання";
+"We couldn't connect to the internet. Please check network settings and try again." = "Не вдалося підключитися до Інтернету. Будь ласка, перевірте налаштування мережі та спробуйте ще раз.";

@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "レオとチャットする";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Leoへようこそ。あなたの個人的なAIアシスタントであり、タスク、質問、または会話について24時間365日利用可能です。Leoを仕事、個人の生活、またはただの楽しいチャットに使用することがどれだけ簡単で楽しいかをお見せしましょう。";
+"Leo Pro Tips" = "Leo Pro Tips";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "自然言語を活用してください。Leoは自然言語を理解するように設計されているため、質問をすることや会話のトーンを自然にすることを躊躇しないでください。 異なるコマンドを試してください。Leoは質問に答えるだけでなく、多くのことができるため、異なるコマンドを試してみて、何ができるかを確認してください。 会話を続けてください。Leoはいつでもチャットに対応できるため、会話を続けて、どこに連れて行かれるかを見てください。";
+"Enable Notifications" = "通知を有効にする";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "通知を有効にして、最新情報を把握し、重要な情報を見逃さないようにしてください。";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "続行することで、<BUTTON><PRIVACY>プライバシーポリシー<BUTTON>および<BUTTON><TERMS>利用規約<BUTTON>に同意することになります。";
+"Continue" = "続ける";
+
+//Home
+"Ask anything" = " 何でも聞いてください ";
+"Get instant answers. Start asking now!" = "即座に回答を取得してください。今すぐ質問をしてみてください！";
+"Dialog" = "ダイアログ";
+"Get answers with your personal assistant, Leo" = "あなたの個人的なアシスタントLeoに質問をしてください。";
+"Start" = "開始する";
+"Try Leo 3 days for free. Tap to activate premium." = "Leoを3日間無料で試してみてください。プレミアムをアクティブにするにはタップしてください。";
+"Tap below to start" = "下の部分をタップして開始してください";
+
+//Side menu
+"Questions" = "質問";
+"My Chats" = "マイチャット";
+"History" = "履歴";
+"Get chatting now! Start your conversation with Leo today." = "今すぐチャットを開始してください！今日からLeoとの会話を始めましょう。";
+
+//Settings
+"OK" = "OK";
+"Language" = "言語";
+"Your Plan" = "あなたのプラン";
+"Voice" = "音声";
+"Support" = "サポート";
+"Restore Purchases" = "購入を復元する";
+"About" = "紹介";
+"Rate Us" = "評価する";
+"Share with Friends" = "友達に共有する";
+"Restored Successfully" = "復元されました";
+"Terms of Use" = "利用規約";
+"Privacy Policy" = "プライバシーポリシー";
+
+//Paywall
+"Lite" = "ライト";
+"Pro" = "プロ";
+"Premium" = "プレミアム";
+"Leo: The Smartest Way to Chat, Period." = "Leo：最もスマートなチャットの方法。";
+"Unlock endless knowledge with Leo." = "Leoで無限の知識を解除してください。";
+"Ask smarter, live better with Leo." = "Leoを使ってよりスマートに質問し、よりよく生きてください。";
+"Features" = "特徴";
+"Limited Questions and Answers" = "制限された質問と回答";
+"Most Advanced AI Model" = "最先端のAIモデル";
+"Higher Word Limit" = "より高い単語制限";
+"Unlimited Questions & Answers" = "無制限の質問と回答";
+"Dialogs (AI remembers chat history)" = "ダイアログ（AIはチャット履歴を覚えています）";
+"Back" = "戻る";
+"Skip" = "スキップ";
+"Your Current Plan" = "あなたの現在のプラン";
+"Try 3 Days for Free" = "3日間無料で試してみてください";
+"<PRICE_WITH_CURRENCY>/week" = "週に<PRICE_WITH_CURRENCY>。";
+"<PRICE_WITH_CURRENCY>/year" = "年に<PRICE_WITH_CURRENCY>。";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3日間の無料トライアル後、週に<PRICE_WITH_CURRENCY>。";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3日間の無料トライアル後、年に<PRICE_WITH_CURRENCY>。";
+"Secured with iTunes. Cancel anytime" = "iTunesで保護されています。いつでもキャンセル可能";
+//
+"Subscription purchased" = "購読済み ";
+"Nothing to Restore" = "復元するものがありません ";
+"Restore failed" = "復元に失敗しました ";
+"Unknown error. Please contact support" = "不明なエラー。サポートに連絡してください ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "申し訳ありませんが、原因不明のため購入が利用できません。後でもう一度お試しください ";
+"The purchase cannot be completed. Please, change your account or device" = "購入を完了できません。アカウントまたはデバイスを変更してください。";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "購入が拒否されました。支払いの詳細を確認し、あなたのアカウントに十分な資金があることを確認してください。";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "選択された支払い方法では購入できません。オンライン購入が可能な支払い方法を使用してください。";
+"This product is not available in your region. Please, change the store and try again" = "この製品は、お使いの地域で利用できません。ストアを変更して、もう一度お試しください。";
+"Access to cloud service information is not allowed" = " クラウドサービス情報へのアクセスは許可されていません";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "デバイスがインターネットに接続されていないため、購入を完了できません。安定したインターネット接続で後でもう一度お試しください。";
+"Sorry, an error has occurred" = "申し訳ありません、エラーが発生しました";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "アプリストアの利用規約に同意していないため、購入を完了できません。設定で同意を確認した後、再度購入に進んでください。";
+"An error has occurred. Please, try again later" = "エラーが発生しました。後でもう一度お試しください。";
+"The promotional offer is invalid or expired" = "プロモーションオファーが無効または期限切れです";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "申し訳ありませんが、プロモーションコードの適用中にエラーが発生しました。後でもう一度お試しください。";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "申し訳ありませんが、プロモーションオファーの適用中にエラーが発生しました。後でもう一度お試しください。";
+"Sorry, your purchase cannot be completed. Please, try again later" = "申し訳ありませんが、ご購入いただけません。後でもう一度お試しください。";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "毎週の無料パッケージには残り<numberofquestions>件の質問があります。 無制限の質問にアップグレードしてください。";
+"Upgrade to unlimited" = "無制限にアップグレードする";
+"Upgrade" = "アップグレード";
+
+//Chat
+"Are you sure you want start a new chat?" = "新しいチャットを開始してもよろしいですか？";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "続行すると新しいチャットが開始され、このチャットには引き続きチャット履歴からアクセスできます。";
+"No" = "いいえ";
+"Yes" = "はい";
+"Are you sure you want to delete?" = "削除してもよろしいですか？";
+"By proceeding, you'll lose access to this chat." = "進むと、このチャットにアクセスできなくなります。";
+"Give this one more chance." = "もう一度チャンスを与えてください";
+"Your answer will be more detailed this time!" = "今回はもう少し詳しく回答してください。";
+"Try Again" = "もう一度試す";
+"Are you not satisfied?" = "満足していませんか？";
+"Ask new question" = "新しい質問をする ";
+//
+"Explain" = "説明する";
+"Explain Bitcoin" = "ビットコインを説明してください";
+"How does the internet work, explain like I am 5 years old" = "インターネットはどのように機能するのですか、5歳児のように説明してください";
+"Write & Edit" = "書く＆編集する";
+"Write a tweet about global warming" = "地球温暖化についてのツイートを書く";
+"Write a poem about flowers and love" = "花と愛についての詩を書く";
+"Write a rap song lyrics about being smart" = "賢明であることについてのラップソングの歌詞を書く";
+"Translate" = "翻訳する";
+"Write a tweet about global warming in Korean" = "韓国語で地球温暖化に関するツイートを書いてください。";
+"Write an email" = "メールを書く ";
+"Write an email to decline the offer but request a discount." = "オファーを断るメールを書き、割引を要求します。";
+"Get recipes" = "料理のレシピを手に入れる";
+"How to make banana pancakes" = "バナナパンケーキの作り方";
+"Do Math" = "数学をする";
+"Solve this math problem: 3^(9)÷3^(2)" = "この数学問題を解いてください：3^(9)÷3^(2) ";
+//
+"Ask Anything" = "何でも聞いてください";
+"Ask me grade 12 math questions" = "12年生の数学の問題を聞いてください";
+"Ask me questions as a job interviewer" = "就職面接官として私に質問してください";
+"Tell me a joke about a kangaroo" = "カンガルーのジョークを教えて";
+"Write an essay about Global Warming. Maximum 200 words." = "地球温暖化についてのエッセイを書いてください。最大200語。";
+"Business" = "ビジネス";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "私の会社のために、インターネットで女性用の靴を販売する10の異なるブランド名を生成してください。モダンなブランド名が欲しいです。私のターゲットオーディエンスは30歳以下の女性です。インターネット上で.comドメインが利用可能であることを確認してください。";
+"Ask for help" = "助けを求める";
+"What's the best marketing channel for second-hand electronics in America?" = "日本における中古電子製品の最良のマーケティングチャンネルは何ですか？";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "本日の利用制限に達しました。無制限の回答を受け取るために購読してください。";
+"Please try again later" = "後でもう一度お試しください";
+"Copied" = "コピーしました";
+"Speak your mind to Leo" = "Leoとチャットしてください";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "この設定は、チャット画面でサウンドアイコンをタップすることで上書きできます。";
+"Spoken Responses" = "話された回答";
+//
+"Share" = "共有する";
+
+"Error" = "エラー";
+"Camera access is denied." = "カメラへのアクセスが拒否されました。";
+"Photo Library access is denied." = "写真ライブラリへのアクセスが拒否されました。";
+"Cancel" = "キャンセル";
+"Settings" = "設定";
+"Choose image" = "画像を選択";
+"Camera" = "カメラ";
+"Gallery" = "ギャラリー";
+"What is this image about?" = "この画像は何についてですか？";
+"Write an Instagram caption for this image." = "この画像のためにInstagramキャプションを書いてください。";
+"PDF/Document Summary (Coming Soon)" = "PDF/文書サマリー（近日公開予定）";
+"Summarise picture" = "画像を数語で要約する";
+"Upload a photo" = "写真をアップロードする";
+"No connection" = "接続なし";
+"We couldn't connect to the internet. Please check network settings and try again." = "インターネットに接続できませんでした。ネットワーク設定を確認して、もう一度お試しください。";

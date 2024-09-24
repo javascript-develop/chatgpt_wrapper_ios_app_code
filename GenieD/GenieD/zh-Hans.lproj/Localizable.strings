@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "与Leo聊天";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "欢迎使用Leo，您的私人人工智能助手，全天候为您解决任何任务、问题或对话。让我们向您展示，如何轻松、愉快地在工作、个人生活中使用Leo，或只是愉快的聊天。";
+"Leo Pro Tips" = "Leo 专业技巧";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "使用自然语言：Leo被设计为能够理解自然语言，所以不要害怕提问并以对话的方式交流。 尝试不同的命令：Leo可以做的不仅仅是回答问题，所以尝试不同的命令来看看它能做什么。 保持对话：Leo随时准备好聊天，所以继续对话，看看会有什么新的发现。";
+"Enable Notifications" = "启用通知";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "启用通知以确保您保持最新并不会错过任何重要信息。";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "继续操作即表示您同意我们的<BUTTON><PRIVACY>隐私政策<BUTTON>和<BUTTON><TERMS>使用条款<BUTTON>。";
+"Continue" = "继续";
+
+//Home
+"Ask anything" = "问任何问题";
+"Get instant answers. Start asking now!" = "立即获得答案。现在开始提问吧！";
+"Dialog" = "对话框";
+"Get answers with your personal assistant, Leo" = "通过您的个人助手Leo获得答案";
+"Start" = "开始";
+"Try Leo 3 days for free. Tap to activate premium." = "免费试用Leo 3天。点击激活高级版。";
+"Tap below to start" = "点击下方开始";
+
+//Side menu
+"Questions" = "问题";
+"My Chats" = "我的聊天";
+"History" = "历史";
+"Get chatting now! Start your conversation with Leo today." = "现在开始聊天吧！今天就开始与Leo对话吧。";
+
+//Settings
+"OK" = "好的";
+"Language" = "语言";
+"Your Plan" = "您的计划";
+"Voice" = "语音";
+"Support" = "支持";
+"Restore Purchases" = "恢复购买";
+"About" = "关于我们";
+"Rate Us" = "评分";
+"Share with Friends" = "与朋友分享";
+"Restored Successfully" = "成功恢复";
+"Terms of Use" = "使用条款";
+"Privacy Policy" = "隐私政策";
+
+//Paywall
+"Lite" = "Lite版";
+"Pro" = "Pro版";
+"Premium" = "高级";
+"Leo: The Smartest Way to Chat, Period." = "Leo: 智慧聊天的最佳选择。";
+"Unlock endless knowledge with Leo." = "解锁无限知识，尽在Leo。";
+"Ask smarter, live better with Leo." = "解锁无限知识，尽在Leo。";
+"Features" = "特征";
+"Limited Questions and Answers" = "有限问题和答案";
+"Most Advanced AI Model" = "最先进的AI模型";
+"Higher Word Limit" = "更高的字数限制";
+"Unlimited Questions & Answers" = "无限制的问题和答案";
+"Dialogs (AI remembers chat history)" = "对话框（人工智能记忆聊天历史）";
+"Back" = "返回";
+"Skip" = "跳过";
+"Your Current Plan" = "您当前的计划";
+"Try 3 Days for Free" = "免费尝试3天";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> 元/周。";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> 元/年。";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3天免费试用，然后每周 <PRICE_WITH_CURRENCY>。";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3天免费试用，然后每年 <PRICE_WITH_CURRENCY>。";
+"Secured with iTunes. Cancel anytime" = "通过iTunes进行保护。随时取消";
+//
+"Subscription purchased" = "已购订阅 ";
+"Nothing to Restore" = "没有可恢复的内容";
+"Restore failed" = "恢复失败 ";
+"Unknown error. Please contact support" = "未知错误，请联系支持 ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "抱歉，由于未知原因，购买不可用。请稍后再试 ";
+"The purchase cannot be completed. Please, change your account or device" = "购买无法完成。请更换您的帐户或设备。";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "您的购买被拒绝。请检查付款明细，确保您的账户有足够的资金。";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "所选付款方式无法购买。请确保您的付款方式允许您进行在线购买。";
+"This product is not available in your region. Please, change the store and try again" = "此产品不在您的地区提供。请更改商店并重试。";
+"Access to cloud service information is not allowed" = "云服务信息不允许访问";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "由于设备未连接到互联网，无法完成购买。请稍后使用稳定的互联网连接再次尝试。";
+"Sorry, an error has occurred" = "抱歉，出现了错";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "购买无法完成，因为您尚未接受AppStore的使用条款。请在设置中确认您的同意，然后返回购买";
+"An error has occurred. Please, try again later" = "出现错误。请稍后再试。";
+"The promotional offer is invalid or expired" = "促销优惠无效或已过期";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "抱歉，应用促销代码时出错。请稍后再试。";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "抱歉，在应用促销优惠时发生了错误。请稍后再试";
+"Sorry, your purchase cannot be completed. Please, try again later" = "抱歉，无法完成您的购买。请稍后再试。";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "您的每周免费套餐中还剩下<numberofquestions>个问题。 升级以获取无限问题。";
+"Upgrade to unlimited" = "升级到无限制";
+"Upgrade" = "升级";
+
+//Chat
+"Are you sure you want start a new chat?" = "您确定要开始一个新的聊天吗？";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "继续将开始一个新的聊天，您仍然可以从聊天历史记录中访问此聊天。";
+"No" = "不";
+"Yes" = "是";
+"Are you sure you want to delete?" = "你确定要删除吗";
+"By proceeding, you'll lose access to this chat." = "继续操作，您将失去对此聊天的访问权限。";
+"Give this one more chance." = "给它一个机会";
+"Your answer will be more detailed this time!" = "你的答案这次会更加详细！";
+"Try Again" = "再试一次";
+"Are you not satisfied?" = "你不满意吗？";
+"Ask new question" = "提出新问题 ";
+//
+"Explain" = "解释";
+"Explain Bitcoin" = "解释比特币";
+"How does the internet work, explain like I am 5 years old" = "请用五岁小孩能懂的方式解释互联网如何工作";
+"Write & Edit" = "写作和编辑";
+"Write a tweet about global warming" = "写一条关于全球变暖的推文";
+"Write a poem about flowers and love" = "写一首关于花和爱的诗";
+"Write a rap song lyrics about being smart" = "写一首关于聪明的说唱歌曲的歌词";
+"Translate" = "翻译";
+"Write a tweet about global warming in Korean" = "给我写一个关于全球变暖的推文（韩语）";
+"Write an email" = "写一封电子邮件 ";
+"Write an email to decline the offer but request a discount." = "写一封电子邮件，拒绝提议但要求折扣。";
+"Get recipes" = "获取食谱";
+"How to make banana pancakes" = "如何制作香蕉薄饼";
+"Do Math" = "做数学题";
+"Solve this math problem: 3^(9)÷3^(2)" = "解决这个数学问题：3^(9)÷3^(2) ";
+//
+"Ask Anything" = "问任何问题";
+"Ask me grade 12 math questions" = "问我高二数学问题";
+"Ask me questions as a job interviewer" = "以面试官的身份问我问题";
+"Tell me a joke about a kangaroo" = "给我讲个关于袋鼠的笑话";
+"Write an essay about Global Warming. Maximum 200 words." = "写一篇关于全球变暖的文章。最多200个字。";
+"Business" = "商业";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "为我公司生成10个不同的品牌名称，公司将在互联网上销售女鞋。我想要一个现代化的品牌名称。我的目标受众是30岁以下的女性。确保在互联网上可以获得.com域名。";
+"Ask for help" = "寻求帮助";
+"What's the best marketing channel for second-hand electronics in America?" = "在中国二手电子产品的最佳营销渠道是什么？";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "已达每日使用限制，请订阅以获得无限答案。";
+"Please try again later" = "请稍后再试";
+"Copied" = "已复制";
+"Speak your mind to Leo" = "说出你的想法给Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "在聊天屏幕上点击声音图标可以覆盖此设置。";
+"Spoken Responses" = "口头回应";
+//
+"Share" = "分享";
+
+"Error" = "错误";
+"Camera access is denied." = "访问相机被拒绝。";
+"Photo Library access is denied." = "访问图片库被拒绝。";
+"Cancel" = "取消";
+"Settings" = "设置";
+"Choose image" = "选择图片";
+"Camera" = "相机";
+"Gallery" = "画廊";
+"What is this image about?" = "这张图片是关于什么的？";
+"Write an Instagram caption for this image." = "为这张图片写一个微博标题。";
+"PDF/Document Summary (Coming Soon)" = "PDF/文件摘要（即将推出）";
+"Summarise picture" = "用几个词概括图片";
+"Upload a photo" = "上传照片";
+"No connection" = "无连接";
+"We couldn't connect to the internet. Please check network settings and try again." = "我们无法连接到互联网。请检查网络设置，然后重试。";

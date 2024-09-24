@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GenieD
+
+  Created by OK on 12.04.2023.
+  
+*/
+
+NSCameraUsageDescription = "हमें तस्वीरें और वीडियो लेने के लिए आपके कैमरे तक पहुंचना होगा।";
+NSPhotoLibraryUsageDescription = "यह आपको अपने चैट वार्तालापों में तस्वीरें सीधे आयात करने में मदद करेगा।";

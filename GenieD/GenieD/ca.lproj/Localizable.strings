@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Xateja amb Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Benvingut a Leo, el teu assistent personal d'intel·ligència artificial disponible 24/7 per ajudar en qualsevol tasca, pregunta o conversa. Deixa que et mostrem com és fàcil i agradable utilitzar Leo per a la teva feina, vida personal o xatejar.";
+"Leo Pro Tips" = "Consells de Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Fes ús de llenguatge natural: Leo està dissenyat per entendre el llenguatge natural, així que no tinguis por de fer preguntes i parlar amb un to conversacional. Prova diferents comandes: Leo pot fer molt més que respondre preguntes, així que prova diferents comandes per veure què pot fer. Mantén la conversa en curs: Leo sempre està llest per xatejar, així que mantén la conversa en curs i veure on et porta.";
+"Enable Notifications" = "Activar les notificacions";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Activa les notificacions per assegurar-te de estar actualitzat i no perdre cap informació important.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "En continuar, accepteu la nostra <BUTTON><PRIVACY>Política de privacitat<BUTTON> i les <BUTTON><TERMS>Condicions d'ús<BUTTON>.";
+"Continue" = "Continua";
+
+//Home
+"Ask anything" = "Pregunta el que vulguis";
+"Get instant answers. Start asking now!" = "Obtingueu respostes instantànies. Comenceu a preguntar ara mateix!";
+"Dialog" = "Diàleg";
+"Get answers with your personal assistant, Leo" = "Obtingueu respostes amb el vostre assistent personal, Leo";
+"Start" = "Iniciar";
+"Try Leo 3 days for free. Tap to activate premium." = "Prova Leo 3 dies de franc. Toqueu per activar el premium.";
+"Tap below to start" = "Premeu a continuació per començar";
+
+//Side menu
+"Questions" = "Preguntes";
+"My Chats" = "Les Meves Converses";
+"History" = "Història";
+"Get chatting now! Start your conversation with Leo today." = "Comenceu a xatejar ara mateix! Inicieu la vostra conversa amb Leo avui mateix.";
+
+//Settings
+"OK" = "D'acord";
+"Language" = "Idioma";
+"Your Plan" = "El vostre pla";
+"Voice" = "Veu";
+"Support" = "Suport";
+"Restore Purchases" = "Restaurar compreses";
+"About" = "Quant a nosaltres";
+"Rate Us" = "Valoreu-nos";
+"Share with Friends" = "Compartiu amb amics";
+"Restored Successfully" = "Restauració satisfactòria";
+"Terms of Use" = "Termes d’ús";
+"Privacy Policy" = "Política de privacitat";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: La manera més intel·ligent de xatejar, punt.";
+"Unlock endless knowledge with Leo." = "Desbloqueja un coneixement infinit amb Leo.";
+"Ask smarter, live better with Leo." = "Pregunteu de manera més intel·ligent, viu millor amb Leo.";
+"Features" = "Característiques";
+"Limited Questions and Answers" = "Preguntes i respostes limitades";
+"Most Advanced AI Model" = "Model d’IA més avançat";
+"Higher Word Limit" = "Límit de paraula superior";
+"Unlimited Questions & Answers" = "Preguntes i respostes il·limitades";
+"Dialogs (AI remembers chat history)" = "Diàlegs (IA recorda l'historial de xat)";
+"Back" = "Enrere";
+"Skip" = "Saltar";
+"Your Current Plan" = "El vostre pla actual";
+"Try 3 Days for Free" = "Proveu 3 dies gratis";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> per setmana.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> per any.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 dies de prova gratuïta, després <PRICE_WITH_CURRENCY> per setmana.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 dies de prova gratuïta, després <PRICE_WITH_CURRENCY> per any.";
+"Secured with iTunes. Cancel anytime" = "Segur amb iTunes. Cancel·la en qualsevol moment";
+//
+"Subscription purchased" = "Subscripció comprada";
+"Nothing to Restore" = "Res a restaurar";
+"Restore failed" = "Error en la restauració";
+"Unknown error. Please contact support" = "Error desconegut. Si us plau, contacteu amb suport";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Ho sentim, la compra no està disponible per una raó desconeguda. Si us plau, intenta-ho més tard";
+"The purchase cannot be completed. Please, change your account or device" = "La compra no es pot completar. Si us plau, canvieu el vostre compte o dispositiu.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "La seva compra ha estat rebutjada. Si us plau, comprovi els detalls de pagament i assegureu-vos que hi ha suficients fons al seu compte.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "La compra no està disponible per al mètode de pagament seleccionat. Assegureu-vos que el vostre mètode de pagament us permet realitzar compres en línia.";
+"This product is not available in your region. Please, change the store and try again" = "Aquest producte no està disponible a la vostra regió. Si us plau, canvieu la botiga i torneu-ho a provar.";
+"Access to cloud service information is not allowed" = "No s'admet l'accés a la informació del servei de núvol";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "La compra no es pot completar perquè el teu dispositiu no està connectat a Internet. Si us plau, intenta-ho més tard amb una connexió a Internet estable.";
+"Sorry, an error has occurred" = "Ho sentim, ha ocorregut un error";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "La compra no es pot completar perquè no heu acceptat els termes d'ús de l'AppStore. Si us plau, confirmeu el vostre consentiment a la configuració i torneu a la compra";
+"An error has occurred. Please, try again later" = "S'ha produït un error. Si us plau, torni a intentar-ho més tard.";
+"The promotional offer is invalid or expired" = "L'oferta promocional no és vàlida o ha caducat";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Ho sentim, s'ha produït un error en aplicar el codi promocional. Si us plau, torneu-ho a provar més tard";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Ho sentim, s'ha produït un error en aplicar l'oferta promocional. Si us plau, torneu-ho a provar més tard";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Ho sentim, no es pot completar la compra. Si us plau, torneu a intentar-ho més tard.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Queden <numberofquestions> preguntes a la teva quota setmanal gratuïta. Actualitza per preguntes il·limitades.";
+"Upgrade to unlimited" = "Actualitza a il·limitat";
+"Upgrade" = "Actualitza";
+
+//Chat
+"Are you sure you want start a new chat?" = "Esteu segur que voleu iniciar un nou xat?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Continuar iniciarà una nova conversa i encara podràs accedir a aquesta conversa des de l'historial de xats.";
+"No" = "No";
+"Yes" = "Sí";
+"Are you sure you want to delete?" = "Esteu segur que voleu eliminar-ho?";
+"By proceeding, you'll lose access to this chat." = "Si continues, perdràs l'accés a aquest xat.";
+"Give this one more chance." = "Dona-li una altra oportunitat";
+"Your answer will be more detailed this time!" = "La teva resposta serà més detallada aquesta vegada!";
+"Try Again" = "Torni a provar";
+"Are you not satisfied?" = "No estàs satisfet?";
+"Ask new question" = "Fes una nova pregunta";
+//
+"Explain" = "Explicar";
+"Explain Bitcoin" = "Explica Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Com funciona Internet, explica com si tinguessis 5 anys";
+"Write & Edit" = "Escriure i editar";
+"Write a tweet about global warming" = "Escriu un tuit sobre el canvi climàtic";
+"Write a poem about flowers and love" = "Escriu un poema sobre flors i amor";
+"Write a rap song lyrics about being smart" = "Escriu lletres de cançó de rap sobre ser intel·ligent";
+"Translate" = "Tradueix";
+"Write a tweet about global warming in Korean" = "Escriu-me un tuit sobre el canvi climàtic en coreà";
+"Write an email" = "Escriu un correu electrònic";
+"Write an email to decline the offer but request a discount." = "Escriu un correu electrònic per rebutjar l'oferta però sol·licitar un descompte.";
+"Get recipes" = "Obtenir receptes de menjar";
+"How to make banana pancakes" = "Com fer pastissos de plàtan";
+"Do Math" = "Fes matemàtiques";
+"Solve this math problem: 3^(9)÷3^(2)" = "Resol aquest problema matemàtic: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Pregunta qualsevol cosa";
+"Ask me grade 12 math questions" = "Pregunteu-me preguntes de matemàtiques de 12è curs";
+"Ask me questions as a job interviewer" = "Fes-me preguntes com a entrevistador/a de feina";
+"Tell me a joke about a kangaroo" = "Digues-me una broma sobre un cangur";
+"Write an essay about Global Warming. Maximum 200 words." = "Escriu un assaig sobre el canvi climàtic global. Màxim 200 paraules.";
+"Business" = "Negoci";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Genera 10 noms de marca diferents per a la meva empresa que vendrà sabates de dona a través d'Internet. Vull un nom de marca modern. El meu públic objectiu són dones menors de 30 anys. Assegura't que el domini .com estigui disponible a Internet.";
+"Ask for help" = "Demana ajuda";
+"What's the best marketing channel for second-hand electronics in America?" = "Quin és el millor canal de màrqueting per a la tecnologia de segona mà a Catalunya?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "S'ha assolit el límit diari. Subscriu-te per a respostes il·limitades.";
+"Please try again later" = "Si us plau, intenta-ho més tard";
+"Copied" = "Copiat";
+"Speak your mind to Leo" = "Expressa el teu pensament a Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Aquesta configuració es pot anul·lar a la pantalla de xat punxant a l'icona de so.";
+"Spoken Responses" = "Respostes parlades";
+//
+"Share" = "Compartir";
+
+"Error" = "Error";
+"Camera access is denied." = "L'accés a la càmera està denegat.";
+"Photo Library access is denied." = "L'accés a la biblioteca de fotos està denegat.";
+"Cancel" = "Cancel·lar";
+"Settings" = "Configuració";
+"Choose image" = "Tria una imatge";
+"Camera" = "Càmera";
+"Gallery" = "Galeria";
+"What is this image about?" = "De què tracta aquesta imatge?";
+"Write an Instagram caption for this image." = "Escriu una llegenda d’Instagram per a aquesta imatge.";
+"PDF/Document Summary (Coming Soon)" = "Resum del PDF/document (Properament disponible)";
+"Summarise picture" = "Resumir la imatge en poques paraules";
+"Upload a photo" = "Puja una foto";
+"No connection" = "Sense connexió";
+"We couldn't connect to the internet. Please check network settings and try again." = "No hem pogut connectar a internet. Si us plau, comproveu la configuració de la xarxa i torneu-ho a provar.";

@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Keskustele Leon kanssa";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Tervetuloa Leo-asiakaspalveluun! Henkilökohtainen tekoälyassistenttisi on käytettävissäsi 24/7 auttamassa tehtävissäsi, vastaamassa kysymyksiisi tai vain keskustelemassa kanssasi. Anna meidän näyttää, kuinka helppoa ja hauskaa Leon käyttö voi olla työssä, henkilökohtaisessa elämässä tai vain rennossa jutustelussa.";
+"Leo Pro Tips" = "Leo -vinkit";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Käytä luonnollista kieltä: Leo on suunniteltu ymmärtämään luonnollista kieltä, joten älä epäröi kysyä kysymyksiä ja puhua rennolla sävyllä. Kokeile erilaisia. Jatka keskustelua: Leo on aina valmis jutustelemaan, joten jatka keskustelua ja katso, minne se vie sinut.";
+"Enable Notifications" = "Ota ilmoitukset käyttöön";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Ota ilmoitukset käyttöön, jotta pysyt ajan tasalla etkä missaa tärkeitä tietoja.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Jatkamalla hyväksyt <BUTTON><PRIVACY>tietosuojakäytäntömme<BUTTON> ja <BUTTON><TERMS>käyttöehdot<BUTTON>.";
+"Continue" = "Jatka";
+
+//Home
+"Ask anything" = "Kysy mitä tahansa";
+"Get instant answers. Start asking now!" = "Saat heti vastauksia. Aloita kysyminen nyt!";
+"Dialog" = "Dialogi";
+"Get answers with your personal assistant, Leo" = "Saat vastauksia henkilökohtaiselta avustajaltasi, Leolta.";
+"Start" = "Aloita";
+"Try Leo 3 days for free. Tap to activate premium." = "Kokeile Leoa 3 päivää ilmaiseksi. Napauta aktivoidaksesi premiumin.";
+"Tap below to start" = "Napauta aloittaaksesi";
+
+//Side menu
+"Questions" = "Kysymykset";
+"My Chats" = "Keskusteluni";
+"History" = "Historia";
+"Get chatting now! Start your conversation with Leo today." = "Aloita keskustelu Leon kanssa nyt!";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Kieli";
+"Your Plan" = "Suunnitelmasi";
+"Voice" = "Ääni";
+"Support" = "Tuki";
+"Restore Purchases" = "Palauta ostokset";
+"About" = "Tietoa meistä";
+"Rate Us" = "Arvostele meidät";
+"Share with Friends" = "Jaa ystävien kanssa";
+"Restored Successfully" = "Palautettu onnistuneesti";
+"Terms of Use" = "Käyttöehdot";
+"Privacy Policy" = "Tietosuojakäytäntö";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Älykkäin tapa keskustella, piste.";
+"Unlock endless knowledge with Leo." = "Avaa rajaton tietämys Leon avulla.";
+"Ask smarter, live better with Leo." = "Kysy fiksummin, elä paremmin Leon avulla.";
+"Features" = "Ominaisuudet";
+"Limited Questions and Answers" = "Rajallinen kysymysten ja vastausten määrä";
+"Most Advanced AI Model" = "Edistynein tekoälymalli";
+"Higher Word Limit" = "Korkeampi sanaraja";
+"Unlimited Questions & Answers" = "Rajattomat kysymykset ja vastaukset";
+"Dialogs (AI remembers chat history)" = "Dialogit (tekoäly muistaa keskusteluhistorian)";
+"Back" = "Takaisin";
+"Skip" = "Ohittaa";
+"Your Current Plan" = "Nykyinen suunnitelmasi";
+"Try 3 Days for Free" = "Kokeile 3 päivää ilmaiseksi";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> viikossa.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> vuodessa. ";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 päivän ilmainen kokeilujakso, jonka jälkeen <PRICE_WITH_CURRENCY> viikossa.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 päivän ilmainen kokeilujakso, jonka jälkeen <PRICE_WITH_CURRENCY> vuodessa.";
+"Secured with iTunes. Cancel anytime" = "Suojattu iTunesilla. Peruuta milloin tahansa.";
+//
+"Subscription purchased" = "Tilauksen ostettu";
+"Nothing to Restore" = "Ei palautettavaa";
+"Restore failed" = "Palautus epäonnistui";
+"Unknown error. Please contact support" = "Tuntematon virhe. Ota yhteyttä tukeen";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Pahoittelut, ostaminen ei ole mahdollista tuntemattomasta syystä. Yritä myöhemmin uudelleen.";
+"The purchase cannot be completed. Please, change your account or device" = "Ostoprosessia ei voida suorittaa loppuun. Vaihda tilisi tai laitteesi.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Ostoksesi hylättiin. Tarkista maksutiedot ja varmista, että tililläsi on riittävästi varoja.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Ostoa ei ole saatavilla valitulle maksutavalle. Varmista, että maksutapasi sallii online-ostokset.";
+"This product is not available in your region. Please, change the store and try again" = "Tämä tuote ei ole saatavilla alueellasi. Vaihda kauppa ja yritä uudelleen.";
+"Access to cloud service information is not allowed" = "Pilvipalvelutietojen käyttö ei ole sallittu";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Osto ei voi valmistua, koska laitteesi ei ole yhteydessä internettiin. Yritä myöhemmin uudelleen vakaiden internet-yhteyksien kanssa.";
+"Sorry, an error has occurred" = "Pahoittelemme, tapahtui virhe";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Ostoa ei voi suorittaa, koska et ole hyväksynyt AppStoren käyttöehtoja. Vahvista suostumuksesi asetuksissa ja palaa sitten ostokseen";
+"An error has occurred. Please, try again later" = "Virhe. Yritä myöhemmin uudelleen.";
+"The promotional offer is invalid or expired" = "Tarjouskampanja ei ole voimassa tai se on vanhentunut";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Valitettavasti tapahtui virhe kampanjakoodia käytettäessä. Yritä myöhemmin uudelleen.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Pahoittelemme, tapahtui virhe tarjouskoodia käytettäessä. Yritä myöhemmin uudelleen";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Pahoittelut, ostoksen tekeminen ei ole tällä hetkellä mahdollista. Yritä myöhemmin uudelleen.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Sinulla on <numberofquestions> kysymystä jäljellä viikoittaisessa ilmaispaketissasi. Päivitä rajattomiin kysymyksiin.";
+"Upgrade to unlimited" = "Päivitä rajattomiin";
+"Upgrade" = "Päivitys";
+
+//Chat
+"Are you sure you want start a new chat?" = "Oletko varma, että haluat aloittaa uuden keskustelun?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Jatkaminen aloittaa uuden keskustelun, ja voit silti käyttää tätä keskustelua chat-historiasta.";
+"No" = "Ei";
+"Yes" = "Kyllä";
+"Are you sure you want to delete?" = "Haluatko varmasti poistaa sen?";
+"By proceeding, you'll lose access to this chat." = "Jos jatkat, menetät pääsyn tähän keskusteluun.";
+"Give this one more chance." = "Anna tälle vielä yksi mahdollisuus";
+"Your answer will be more detailed this time!" = "Vastauksesi on tällä kertaa yksityiskohtaisempi!";
+"Try Again" = "Yritä uudelleen";
+"Are you not satisfied?" = "Ettekö ole tyytyväinen?";
+"Ask new question" = "Kysy uutta kysymystä";
+//
+"Explain" = "Selittää";
+"Explain Bitcoin" = "Selitä Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Miten internet toimii, selitä kuin 5-vuotiaalle";
+"Write & Edit" = "Kirjoita ja muokkaa";
+"Write a tweet about global warming" = "Kirjoita twiitti ilmastonmuutoksesta";
+"Write a poem about flowers and love" = "Kirjoita runo kukista ja rakkaudesta";
+"Write a rap song lyrics about being smart" = "Kirjoita rap-kappaleen sanat siitä, miten olla älykäs";
+"Translate" = "Käännä";
+"Write a tweet about global warming in Korean" = "Kirjoita minulle ilmastonmuutoksesta tweet koreaksi";
+"Write an email" = "Kirjoita sähköposti";
+"Write an email to decline the offer but request a discount." = "Kirjoita sähköposti, jossa hylkäät tarjouksen, mutta pyydät alennusta.";
+"Get recipes" = "Hae ruokaohjeita";
+"How to make banana pancakes" = "Miten tehdä banaanipannukakkuja";
+"Do Math" = "Laske";
+"Solve this math problem: 3^(9)÷3^(2)" = "Ratkaise tämä matemaattinen ongelma: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Kysy mitä tahansa";
+"Ask me grade 12 math questions" = "Kysy minulta lukion 12. luokan matematiikan kysymyksiä";
+"Ask me questions as a job interviewer" = "Kysy minulta kysymyksiä työhaastattelijan roolissa";
+"Tell me a joke about a kangaroo" = "Kerro minulle vitsi kengurusta";
+"Write an essay about Global Warming. Maximum 200 words." = "Kirjoita essee ilmastonmuutoksesta. Korkeintaan 200 sanaa.";
+"Business" = "Liiketoiminta";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Generoi 10 erilaista brändinimeä yritykselleni, joka myy naisten kenkiä verkossa. Haluan modernin brändinimen. Kohdeyleisöni on alle 30-vuotiaat naiset. Varmista, että .com-verkkotunnus on saatavilla.";
+"Ask for help" = "Pyydä apua";
+"What's the best marketing channel for second-hand electronics in America?" = "Mikä on paras markkinointikanava käytetylle elektroniikalle Suomessa?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Päivittäinen raja saavutettu. Tilaa rajattomat vastaukset.";
+"Please try again later" = "Yritä myöhemmin uudelleen";
+"Copied" = "Kopioitu";
+"Speak your mind to Leo" = "Kerro ajatuksesi Leolle";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Tämän asetuksen voi ohittaa napauttamalla äänikuvaketta keskustelunäytössä.";
+"Spoken Responses" = "Puheelliset vastaukset";
+//
+"Share" = "Jaa";
+
+"Error" = "Virhe";
+"Camera access is denied." = "Kameran käyttö on evätty.";
+"Photo Library access is denied." = "Kuvakirjaston käyttö on evätty.";
+"Cancel" = "Peruuta";
+"Settings" = "Asetukset";
+"Choose image" = "Valitse kuva";
+"Camera" = "Kamera";
+"Gallery" = "Galleria";
+"What is this image about?" = "Mitä tämä kuva kertoo?";
+"Write an Instagram caption for this image." = "Kirjoita Instagram-kuvateksti tälle kuvalle.";
+"PDF/Document Summary (Coming Soon)" = "PDF- tai asiakirjaseloste (Tulossa pian)";
+"Summarise picture" = "Yhteenveto kuvasta muutamalla sanalla";
+"Upload a photo" = "Lataa kuva";
+"No connection" = "Ei yhteyttä";
+"We couldn't connect to the internet. Please check network settings and try again." = "Emme voineet yhdistää internetiin. Tarkista verkkotiedot ja yritä uudelleen.";

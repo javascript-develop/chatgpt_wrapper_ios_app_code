@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Chat with Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat.";
+"Leo Pro Tips" = "Leo Pro Tips";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you.";
+"Enable Notifications" = "Enable Notifications";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Enable notifications to ensure that you stay up-to-date and never miss any important information.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>.";
+"Continue" = "Continue";
+
+//Home
+"Ask anything" = "Ask anything";
+"Get instant answers. Start asking now!" = "Get instant answers. Start asking now!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Get answers with your personal assistant, Leo";
+"Start" = "Start";
+"Try Leo 3 days for free. Tap to activate premium." = "Try Leo 3 days for free. Tap to activate premium.";
+"Tap below to start" = "Tap below to start";
+
+//Side menu
+"Questions" = "Questions";
+"My Chats" = "My Chats";
+"History" = "History";
+"Get chatting now! Start your conversation with Leo today." = "Get chatting now! Start your conversation with Leo today.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Language";
+"Your Plan" = "Your Plan";
+"Voice" = "Voice";
+"Support" = "Support";
+"Restore Purchases" = "Restore Purchases";
+"About" = "About";
+"Rate Us" = "Rate Us";
+"Share with Friends" = "Share with Friends";
+"Restored Successfully" = "Restored Successfully";
+"Terms of Use" = "Terms of Use";
+"Privacy Policy" = "Privacy Policy";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: The Smartest Way to Chat, Period.";
+"Unlock endless knowledge with Leo." = "Unlock endless knowledge with Leo.";
+"Ask smarter, live better with Leo." = "Ask smarter, live better with Leo.";
+"Features" = "Features";
+"Limited Questions and Answers" = "Limited Questions and Answers";
+"Most Advanced AI Model" = "Most Advanced AI Model";
+"Higher Word Limit" = "Higher Word Limit";
+"Unlimited Questions & Answers" = "Unlimited Questions & Answers";
+"Dialogs (AI remembers chat history)" = "Dialogs (AI remembers chat history)";
+"Back" = "Back";
+"Skip" = "Skip";
+"Your Current Plan" = "Your Current Plan";
+"Try 3 Days for Free" = "Try 3 Days for Free";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY>/week";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY>/year";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 days free trial, then <PRICE_WITH_CURRENCY>/week";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 days free trial, then <PRICE_WITH_CURRENCY>/year";
+"Secured with iTunes. Cancel anytime" = "Secured with iTunes. Cancel anytime";
+//
+"Subscription purchased" = "Subscription purchased";
+"Nothing to Restore" = "Nothing to Restore";
+"Restore failed" = "Restore failed";
+"Unknown error. Please contact support" = "Unknown error. Please contact support";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Sorry, the purchase is unavailable for an unknown reason. Please try again later.";
+"The purchase cannot be completed. Please, change your account or device" = "The purchase cannot be completed. Please, change your account or device.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases.";
+"This product is not available in your region. Please, change the store and try again" = "This product is not available in your region. Please, change the store and try again.";
+"Access to cloud service information is not allowed" = "Access to cloud service information is not allowed";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection.";
+"Sorry, an error has occurred" = "Sorry, an error has occurred";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase";
+"An error has occurred. Please, try again later" = "An error has occurred. Please, try again later.";
+"The promotional offer is invalid or expired" = "The promotional offer is invalid or expired";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Sorry, an error has occurred when applying the promo code. Please, try again later";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Sorry, an error has occurred when applying the promo offer. Please, try again later";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Sorry, your purchase cannot be completed. Please, try again later.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions.";
+"Upgrade to unlimited" = "Upgrade to unlimited";
+"Upgrade" = "Upgrade";
+
+//Chat
+"Are you sure you want start a new chat?" = "Are you sure you want start a new chat?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Proceeding will start a new chat and you can still access this chat from chat history.";
+"No" = "No";
+"Yes" = "Yes";
+"Are you sure you want to delete?" = "Are you sure you want to delete?";
+"By proceeding, you'll lose access to this chat." = "By proceeding, you'll lose access to this chat.";
+"Give this one more chance." = "Give this one more chance.";
+"Your answer will be more detailed this time!" = "Your answer will be more detailed this time!";
+"Try Again" = "Try Again";
+"Are you not satisfied?" = "Are you not satisfied?";
+"Ask new question" = "Ask a new question";
+//
+"Explain" = "Explain";
+"Explain Bitcoin" = "Explain Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "How does the internet work, explain like I am 5 years old";
+"Write & Edit" = "Write & Edit";
+"Write a tweet about global warming" = "Write a tweet about global warming";
+"Write a poem about flowers and love" = "Write a poem about flowers and love";
+"Write a rap song lyrics about being smart" = "Write rap song lyrics about being smart";
+"Translate" = "Translate";
+"Write a tweet about global warming in Korean" = "Write me a tweet about global warming in Korean";
+"Write an email" = "Write an email";
+"Write an email to decline the offer but request a discount." = "Write an email to decline the offer but request a discount.";
+"Get recipes" = "Get food recipes";
+"How to make banana pancakes" = "How to make banana pancakes";
+"Do Math" = "Do Math";
+"Solve this math problem: 3^(9)÷3^(2)" = "Solve this math problem: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Ask Anything";
+"Ask me grade 12 math questions" = "Ask me grade 12 math questions";
+"Ask me questions as a job interviewer" = "Ask me questions as a job interviewer";
+"Tell me a joke about a kangaroo" = "Tell me a joke about a kangaroo";
+"Write an essay about Global Warming. Maximum 200 words." = "Write an essay about global warming. Maximum 200 words.";
+"Business" = "Business";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet.";
+"Ask for help" = "Ask for help";
+"What's the best marketing channel for second-hand electronics in America?" = "What's the best marketing channel for second-hand electronics in Australia?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Daily limit reached. Subscribe for unlimited answers.";
+"Please try again later" = "Please try again later";
+"Copied" = "Copied";
+"Speak your mind to Leo" = "Speak your mind to Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "This setting can be overriden on the chat screen by tapping on the sound icon.";
+"Spoken Responses" = "Spoken Responses";
+//
+"Share" = "Share";
+
+"Error" = "Error";
+"Camera access is denied." = "Camera access is denied.";
+"Photo Library access is denied." = "Photo Library access is denied.";
+"Cancel" = "Cancel";
+"Settings" = "Settings";
+"Choose image" = "Choose an image";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"What is this image about?" = "What is this image about?";
+"Write an Instagram caption for this image." = "Write an Instagram caption for this image.";
+"PDF/Document Summary (Coming Soon)" = "PDF/Document Summary (Coming Soon)";
+"Summarise picture" = "Describe the picture in a few words";
+"Upload a photo" = "Upload a photo";
+"No connection" = "No connection";
+"We couldn't connect to the internet. Please check network settings and try again." = "We couldn't connect to the internet. Please check network settings and try again.";

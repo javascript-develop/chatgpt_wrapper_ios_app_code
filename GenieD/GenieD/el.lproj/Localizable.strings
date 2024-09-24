@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Συνομιλία με τον Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Καλώς ήρθατε στο Leo, τον προσωπικό σας AI βοηθό που είναι διαθέσιμος 24/7 για να βοηθήσει σε οποιαδήποτε εργασία, ερώτηση ή συζήτηση. Αφήστε μας να σας δείξουμε πόσο εύκολο και ευχάριστο είναι να χρησιμοποιήσετε το Leo για τη δουλειά, την προσωπική ζωή ή απλά για μια διασκεδαστική συζήτηση.";
+"Leo Pro Tips" = "Συμβουλές για το Leo Pro";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Χρησιμοποιήστε φυσική γλώσσα: Το Leo είναι σχεδιασμένο να κατανοήσει τη φυσική γλώσσα, οπότε μην φοβάστε να κάνετε ερωτήσεις και να μιλάτε σε μια συνομιλητική τόνο. Δοκιμάστε διαφορετικές εντολές: Το Leo μπορεί να κάνει πολλά περισσότερα από απλές απαντήσεις σε ερωτήσεις, οπότε δοκιμάστε διαφορετικές εντολές για να δείτε τι μπορεί να κάνει. Κρατήστε τη συνομιλία συνεχή: Το Leo είναι πάντα έτοιμο να συνομιλήσει, οπότε συνεχίστε τη συζήτηση και δείτε πού θα σας οδηγήσει.";
+"Enable Notifications" = "Ενεργοποιήστε τις ειδοποιήσεις";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Ενεργοποιήστε τις ειδοποιήσεις για να είστε ενημερωμένοι και να μη χάσετε ποτέ καμία σημαντική πληροφορία.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Συνεχίζοντας, συμφωνείτε με την <BUTTON><PRIVACY>Πολιτική Απορρήτου<BUTTON> και τους <BUTTON><TERMS>Όρους Χρήσης<BUTTON> μας.";
+"Continue" = "Συνέχισε";
+
+//Home
+"Ask anything" = "Ρωτήστε οτιδήποτε";
+"Get instant answers. Start asking now!" = "Λάβετε αμέσως απαντήσεις. Ξεκινήστε τις ερωτήσεις σας τώρα!";
+"Dialog" = "Διάλογος";
+"Get answers with your personal assistant, Leo" = "Λάβετε απαντήσεις με τον προσωπικό σας βοηθό, το Leo.";
+"Start" = "Έναρξη";
+"Try Leo 3 days for free. Tap to activate premium." = "Δοκιμάστε το Leo 3 ημέρες δωρεάν. Πατήστε για ενεργοποίηση του προηγμένου.";
+"Tap below to start" = "Πατήστε παρακάτω για να ξεκινήσετε";
+
+//Side menu
+"Questions" = "Ερωτήσεις";
+"My Chats" = "Οι Συνομιλίες μου";
+"History" = "Ιστορικό";
+"Get chatting now! Start your conversation with Leo today." = "Ξεκινήστε τη συνομιλία σας με το Leo σήμερα.";
+
+//Settings
+"OK" = "Εντάξει";
+"Language" = "Γλώσσα";
+"Your Plan" = "Ο πλάνος σας";
+"Voice" = "Φωνή";
+"Support" = "Υποστήριξη";
+"Restore Purchases" = "Επαναφορά αγορών";
+"About" = "Περί";
+"Rate Us" = "Αξιολογήστε μας";
+"Share with Friends" = "Κοινοποίηση με φίλους";
+"Restored Successfully" = "Επαναφέρθηκε με επιτυχία";
+"Terms of Use" = "Όροι χρήσης";
+"Privacy Policy" = "Πολιτική Απορρήτου";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Πρεμιέρα";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Η Έξυπνη Μέθοδος για την Συνομιλία, Περίοδος.";
+"Unlock endless knowledge with Leo." = "Ξεκλειδώστε ατελείωτες γνώσεις με το Leo.";
+"Ask smarter, live better with Leo." = "Ρωτήστε πιο έξυπνα, ζήστε καλύτερα με το Leo.";
+"Features" = "Χαρακτηριστικά";
+"Limited Questions and Answers" = "Περιορισμένες Ερωτήσεις και Απαντήσεις";
+"Most Advanced AI Model" = "Πιο προηγμένο μοντέλο ΤΝ";
+"Higher Word Limit" = "Υψηλότερο Όριο Λέξεων";
+"Unlimited Questions & Answers" = "Απεριόριστες Ερωτήσεις και Απαντήσεις";
+"Dialogs (AI remembers chat history)" = "Διάλογοι (Η ΤΑΙΝΙΑ θυμάται το ιστορικό συνομιλίας)";
+"Back" = "Πίσω";
+"Skip" = "Παραλείπω";
+"Your Current Plan" = "Το Πακέτο σας";
+"Try 3 Days for Free" = "Δοκιμάστε το Δωρεάν για 3 Ημέρες";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> ανά εβδομάδα.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> ανά έτος.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Δωρεάν δοκιμαστική περίοδος 3 ημερών, στη συνέχεια <PRICE_WITH_CURRENCY> ανά εβδομάδα. ";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Δωρεάν δοκιμαστική περίοδος 3 ημερών, στη συνέχεια <PRICE_WITH_CURRENCY> ανά έτος. ";
+"Secured with iTunes. Cancel anytime" = "Ασφαλίζεται με το iTunes. Ακυρώστε οποιαδήποτε στιγμή.";
+//
+"Subscription purchased" = "Εγγραφή αγορασμένη ";
+"Nothing to Restore" = "Τίποτα για ανάκτηση ";
+"Restore failed" = "Αποκατάσταση απέτυχε";
+"Unknown error. Please contact support" = "Άγνωστο σφάλμα. Επικοινωνήστε με την υποστήριξη ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Λυπούμαστε, η αγορά δεν είναι διαθέσιμη για άγνωστο λόγο. Παρακαλούμε δοκιμάστε ξανά αργότερα.";
+"The purchase cannot be completed. Please, change your account or device" = "Η αγορά δεν μπορεί να ολοκληρωθεί. Παρακαλώ, αλλάξτε τον λογαριασμό ή τη συσκευή σας.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Η αγορά σας απορρίφθηκε. Παρακαλώ ελέγξτε τις λεπτομέρειες πληρωμής και βεβαιωθείτε ότι υπάρχουν αρκετά κεφάλαια στον λογαριασμό σας. ";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Η αγορά δεν είναι διαθέσιμη για την επιλεγμένη μέθοδο πληρωμής. Βεβαιωθείτε ότι η μέθοδος πληρωμής σας επιτρέπει να κάνετε online αγορές.";
+"This product is not available in your region. Please, change the store and try again" = "Αυτό το προϊόν δεν είναι διαθέσιμο στην περιοχή σας. Παρακαλώ αλλάξτε το κατάστημα και προσπαθήστε ξανά.";
+"Access to cloud service information is not allowed" = "Δεν επιτρέπεται η πρόσβαση στις πληροφορίες της υπηρεσίας σύννεφου";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Η αγορά δεν μπορεί να ολοκληρωθεί επειδή η συσκευή σας δεν είναι συνδεδεμένη στο διαδίκτυο. Παρακαλούμε, δοκιμάστε ξανά αργότερα με σταθερή σύνδεση στο διαδίκτυο.";
+"Sorry, an error has occurred" = "Λυπούμαστε, συνέβη ένα σφάλμα";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Η αγορά δεν μπορεί να ολοκληρωθεί επειδή δεν έχετε αποδεχτεί τους όρους χρήσης του AppStore. Παρακαλούμε επιβεβαιώστε τη συγκατάθεσή σας στις ρυθμίσεις και στη συνέχεια επιστρέψτε στην αγορά.";
+"An error has occurred. Please, try again later" = "Παρουσιάστηκε ένα σφάλμα. Παρακαλούμε, δοκιμάστε ξανά αργότερα.";
+"The promotional offer is invalid or expired" = "Η προωθητική προσφορά είναι μη έγκυρη ή έχει λήξει";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Λυπούμαστε, συνέβη ένα σφάλμα κατά την εφαρμογή του προωθητικού κωδικού. Παρακαλώ, προσπαθήστε ξανά αργότερα.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Λυπούμαστε, συνέβη ένα σφάλμα κατά την εφαρμογή της προωθητικής προσφοράς. Παρακαλούμε, δοκιμάστε ξανά αργότερα";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Λυπούμαστε, η αγορά σας δεν μπορεί να ολοκληρωθεί. Παρακαλούμε, προσπαθήστε ξανά αργότερα.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Απομένουν <numberofquestions> ερωτήσεις στο εβδομαδιαίο δωρεάν πακέτο σας. Αναβαθμίστε για απεριόριστες ερωτήσεις.";
+"Upgrade to unlimited" = "Αναβαθμίστε σε απεριόριστο";
+"Upgrade" = "Αναβάθμιση";
+
+//Chat
+"Are you sure you want start a new chat?" = "Είστε σίγουρος ότι θέλετε να ξεκινήσετε μια νέα συνομιλία;";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Η συνέχεια θα ξεκινήσει μια νέα συνομιλία και μπορείτε ακόμα να έχετε πρόσβαση σε αυτήν τη συνομιλία από το ιστορικό συνομιλιών.";
+"No" = "Όχι";
+"Yes" = "Ναι";
+"Are you sure you want to delete?" = "Είστε σίγουρος ότι θέλετε να διαγράψετε;";
+"By proceeding, you'll lose access to this chat." = "Συνεχίζοντας, θα χάσετε την πρόσβαση σε αυτήν τη συνομιλία.";
+"Give this one more chance." = "Δώστε του μια ακόμη ευκαιρία";
+"Your answer will be more detailed this time!" = "Η απάντησή σας θα είναι πιο λεπτομερής αυτή τη φορά!";
+"Try Again" = "Προσπαθήστε ξανά";
+"Are you not satisfied?" = "Δεν είστε ικανοποιημένοι;";
+"Ask new question" = "Κάντε μια νέα ερώτηση ";
+//
+"Explain" = "Εξηγώ";
+"Explain Bitcoin" = "Εξήγησε το Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Πώς λειτουργεί το διαδίκτυο, εξηγημένο σαν να είσαι 5 ετών";
+"Write & Edit" = "Συγγραφή και επεξεργασία";
+"Write a tweet about global warming" = "Γράψτε ένα tweet για την παγκόσμια θέρμανση";
+"Write a poem about flowers and love" = "Γράψτε ένα ποίημα για τα λουλούδια και την αγάπη";
+"Write a rap song lyrics about being smart" = " Γράψτε στίχους τραγουδιού ραπ για το να είσαι έξυπνος";
+"Translate" = "Μετάφραση";
+"Write a tweet about global warming in Korean" = "Γράψε μου ένα tweet σχετικά με την παγκόσμια θέρμανση στα κορεάτικα";
+"Write an email" = "Γράψτε ένα email ";
+"Write an email to decline the offer but request a discount." = "Γράψτε ένα email για την απόρριψη της προσφοράς αλλά ζητήστε έκπτωση";
+"Get recipes" = "Αποκτήστε συνταγές φαγητού";
+"How to make banana pancakes" = "Πώς να φτιάξετε μπανανόψωμο";
+"Do Math" = "Κάνε μαθηματικά";
+"Solve this math problem: 3^(9)÷3^(2)" = "Λύστε αυτό το μαθηματικό πρόβλημα: 3^(9)÷3^(2) ";
+//
+"Ask Anything" = "Ρώτα οτιδήποτε";
+"Ask me grade 12 math questions" = "Ρωτήστε με μαθηματικά ερωτήματα της 12ης τάξης";
+"Ask me questions as a job interviewer" = "Ρωτήστε με ερωτήσεις ως ερωτηθείς σε συνέντευξη εργασίας";
+"Tell me a joke about a kangaroo" = "Πες μου μια αστεία για ένα καγκουρό";
+"Write an essay about Global Warming. Maximum 200 words." = "Γράψτε ένα δοκίμιο σχετικά με την παγκόσμια θέρμανση. Μέγιστος αριθμός λέξεων 200.";
+"Business" = "Επιχείρηση";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Δημιουργήστε 10 διαφορετικά ονόματα εταιρικής ταυτότητας για την εταιρεία μου που θα πουλά γυναικεία παπούτσια στο διαδίκτυο. Θέλω ένα σύγχρονο όνομα εταιρικής ταυτότητας. Ο στόχος μου είναι οι γυναίκες κάτω των 30 ετών. Βεβαιωθείτε ότι το .com domain είναι διαθέσιμο στο διαδίκτυο.";
+"Ask for help" = "Ζητήστε βοήθεια";
+"What's the best marketing channel for second-hand electronics in America?" = "Ποιος είναι ο καλύτερος κανάλι μάρκετινγκ για μεταχειρισμένα ηλεκτρονικά στην Ελλάδα;";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Ημερήσιο όριο επετεύχθη. Εγγραφείτε για απεριόριστες απαντήσεις.";
+"Please try again later" = "Παρακαλώ προσπαθήστε ξανά αργότερα";
+"Copied" = "Αντιγράφηκε";
+"Speak your mind to Leo" = "Πες τη γνώμη σου στον Λέο.";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Αυτή η ρύθμιση μπορεί να αντικατασταθεί στην οθόνη συνομιλίας πατώντας το εικονίδιο ήχου.";
+"Spoken Responses" = "Φωνητικές Απαντήσεις";
+//
+"Share" = "Κοινοποίηση";
+
+"Error" = "Σφάλμα";
+"Camera access is denied." = "Η πρόσβαση στην κάμερα απορρίφθηκε.";
+"Photo Library access is denied." = "Η πρόσβαση στη βιβλιοθήκη φωτογραφιών απορρίφθηκε.";
+"Cancel" = "Ακύρωση";
+"Settings" = "Ρυθμίσεις";
+"Choose image" = "Επιλέξτε μια εικόνα";
+"Camera" = "Κάμερα";
+"Gallery" = "Γκαλερί";
+"What is this image about?" = "Τι προκαλεί αυτή η εικόνα;";
+"Write an Instagram caption for this image." = "Γράψτε μια λεζάντα Instagram για αυτήν την εικόνα.";
+"PDF/Document Summary (Coming Soon)" = "Περίληψη PDF/Εγγράφου (Σύντομα διαθέσιμο)";
+"Summarise picture" = "Συνοψίστε την εικόνα με λίγα λόγια";
+"Upload a photo" = "Ανεβάστε μια φωτογραφία";
+"No connection" = "Καμία σύνδεση";
+"We couldn't connect to the internet. Please check network settings and try again." = "Δεν μπορέσαμε να συνδεθούμε στο διαδίκτυο. Παρακαλούμε ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά.";

@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "लियो के साथ चैट";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "चैटलियो में आपका स्वागत है, जो आपको किसी भी कार्य, प्रश्न या बातचीत में मदद करने के लिए 24/7 उपलब्ध आपका व्यक्तिगत एआई सहायक है। आइए हम आपको दिखाते हैं कि काम, व्यक्तिगत जीवन या सिर्फ एक मजेदार चैट के लिए चैटलियो का उपयोग करना कितना आसान और मजेदार हो सकता है।";
+"Leo Pro Tips" = "लियो के प्रो टिप्स";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "प्राकृतिक भाषा का उपयोग करें: चैटलियो को प्राकृतिक भाषा समझने के लिए डिज़ाइन किया गया है, इसलिए प्रश्न पूछने और बातचीत करने के लिए डरने की आवश्यकता नहीं है। विभिन्न कमांड का उपयोग करें: चैटलियो सिर्फ प्रश्नों का जवाब देने के लिए नहीं है, इसलिए विभिन्न कमांड का उपयोग करें और देखें कि वह क्या कर सकता है। बातचीत जारी रखें: चैटलियो हमेशा चैट करने के लिए तैयार है, इसलिए बातचीत जारी रखें और देखें कि यह आपको कहां ले जाता है।";
+"Enable Notifications" = "सूचनाएं सक्षम करें";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "सूचनाओं को सक्षम करने से सुनिश्च";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "जारी रखने से, आप हमारी <BUTTON><PRIVACY>गोपनीयता नीति<BUTTON> और हमारे <BUTTON><TERMS>उपयोग की शर्तें<BUTTON> से सहमत होते हैं।";
+"Continue" = "जारी रखें";
+
+//Home
+"Ask anything" = "कुछ भी पूछो";
+"Get instant answers. Start asking now!" = "तुरंत जवाब प्राप्त करें। अभी पूछना शुरू करें!";
+"Dialog" = "वार्तालाप";
+"Get answers with your personal assistant, Leo" = "अपने व्यक्तिगत सहायक, Leo के साथ उत्तर प्राप्त करें।";
+"Start" = "शुरू करें";
+"Try Leo 3 days for free. Tap to activate premium." = "3 दिनों के लिए लियो का परीक्षण करें। प्रीमियम सक्रिय करने के लिए टैप करें।";
+"Tap below to start" = "शुरू करने के लिए नीचे टैप करें";
+
+//Side menu
+"Questions" = "प्रश्न";
+"My Chats" = "मेरी चैट";
+"History" = "सूचनाओं को सक्षम करने से सुनिश्च";
+"Get chatting now! Start your conversation with Leo today." = "अभी चैटिंग शुरू करें! आज ही अपनी बातचीत को Leo के साथ शुरू करें।";
+
+//Settings
+"OK" = "ठीक है";
+"Language" = "भाषा";
+"Your Plan" = "आपकी योजना";
+"Voice" = "आवाज";
+"Support" = "समर्थन";
+"Restore Purchases" = "खरीदों को पुनः स्थापित करें";
+"About" = "के बारे में";
+"Rate Us" = "हमें रेट करें";
+"Share with Friends" = "दोस्तों के साथ साझा करें";
+"Restored Successfully" = "सफलतापूर्वक पुनर्स्थापित किया गया";
+"Terms of Use" = "उपयोग की शर्तें";
+"Privacy Policy" = "गोपनीयता नीति";
+
+//Paywall
+"Lite" = "लाइट";
+"Pro" = "प्रो";
+"Premium" = " प्रीमियम";
+"Leo: The Smartest Way to Chat, Period." = "Leo: चैट करने का सबसे अधिक बुद्धिमान तरीका।";
+"Unlock endless knowledge with Leo." = "Leo के साथ असीमित ज्ञान खोलें।";
+"Ask smarter, live better with Leo." = "Leo के साथ बेहतर सवाल पूछें, बेहतर जीएं।";
+"Features" = "विशेषताएँ";
+"Limited Questions and Answers" = "सीमित प्रश्नों और उत्तरों का उपयोग किया जा सकता है";
+"Most Advanced AI Model" = "सबसे उन्नत एआई मॉडल चैटजीपीटी";
+"Higher Word Limit" = "अधिक शब्द सीमा";
+"Unlimited Questions & Answers" = "असीमित प्रश्नों और उत्तरों का उपयोग किया जा सकता है";
+"Dialogs (AI remembers chat history)" = "वार्तालाप (एआई चैट इतिहास को याद रखता है)";
+"Back" = "वापस";
+"Skip" = "छोड़ें";
+"Your Current Plan" = "आपकी वर्तमान योजना";
+"Try 3 Days for Free" = "फ्री के लिए 3 दिनों का परीक्षण करें";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> प्रति सप्ताह।";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> प्रति वर्ष।";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 दिन की नि: शुल्क परीक्षण अवधि, फिर <PRICE_WITH_CURRENCY> प्रति सप्ताह।";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 दिन की नि: शुल्क परीक्षण अवधि, फिर <PRICE_WITH_CURRENCY> प्रति वर्ष। ";
+"Secured with iTunes. Cancel anytime" = "iTunes से सुरक्षित है। कभी भी रद्द करें";
+//
+"Subscription purchased" = "सदस्यता खरीदी ";
+"Nothing to Restore" = "पुनर्स्थापित करने के लिए कुछ नहीं ";
+"Restore failed" = "पुनर्स्थापन असफल ";
+"Unknown error. Please contact support" = "अज्ञात त्रुटि। कृपया समर्थन से संपर्क करें ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "क्षमा करें, एक अज्ञात कारण के लिए खरीदारी अनुपलब्ध है। कृपया बाद में पुनः प्रयास करें। ";
+"The purchase cannot be completed. Please, change your account or device" = "खरीदारी पूर्ण नहीं की जा सकती। कृपया, अपना खाता या डिवाइस बदलें। ";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "आपकी खरीदारी अस्वीकृत हो गई है। कृपया भुगतान विवरणों की जांच करें और सुनिश्चित करें कि आपके खाते में पर्याप्त धन हैं। ";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "चयनित भुगतान विधि के लिए खरीदारी उपलब्ध नहीं है। कृपया सुनिश्चित करें कि आपकी भुगतान विधि आपको ऑनलाइन खरीदारी करने की अनुमति देती है।";
+"This product is not available in your region. Please, change the store and try again" = "यह उत्पाद आपके क्षेत्र में उपलब्ध नहीं है। कृपया स्टोर बदलें और पुनः प्रयास करें।";
+"Access to cloud service information is not allowed" = "क्लाउड सेवा सूचना तक पहुंच अनुमति नहीं है";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "खरीदारी पूरी नहीं की जा सकती क्योंकि आपकी डिवाइस इंटरनेट से कनेक्ट नहीं है। कृपया एक स्थिर इंटरनेट कनेक्शन के साथ बाद में पुन: प्रयास करें।";
+"Sorry, an error has occurred" = "क्षमा करें, एक त्रुटि हुई है";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "खरीदारी पूरी नहीं हो सकती क्योंकि आपने एप स्टोर की उपयोग की शर्तों को स्वीकार नहीं किया है। कृपया सेटिंग में अपनी सहमति की पुष्टि करें और फिर खरीदारी पर वापस जाएं।";
+"An error has occurred. Please, try again later" = "एक त्रुटि हुई है। कृपया बाद में पुनः प्रयास करें।";
+"The promotional offer is invalid or expired" = "प्रचार प्रस्ताव अमान्य है या समय सीमा समाप्त हो गई है";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "माफ़ कीजिए, प्रोमो कोड लागू करते समय एक त्रुटि हुई है। कृपया बाद में फिर से कोशिश करें।";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "क्षमा करें, प्रोमो ऑफ़र लागू करते समय एक त्रुटि हुई है। कृपया, बाद में पुन: प्रयास करें।";
+"Sorry, your purchase cannot be completed. Please, try again later" = "क्षमा करें, आपकी खरीदारी पूरी नहीं की जा सकती। कृपया बाद में पुनः प्रयास करें।";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "आपके साप्ताहिक मुफ्त पैकेज में अब <numberofquestions> सवाल बचे हुए हैं। असीमित सवालों के लिए अपग्रेड करें।";
+"Upgrade to unlimited" = "असीमित के लिए अपग्रेड करें";
+"Upgrade" = "अपग्रेड";
+
+//Chat
+"Are you sure you want start a new chat?" = "क्या आप नए चैट शुरू करना चाहते हैं?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "आगे बढ़ने से एक नई चैट शुरू होगी और आप अभी भी चैट इतिहास से इस चैट तक पहुंच सकते हैं।";
+"No" = "नहीं";
+"Yes" = "हाँ";
+"Are you sure you want to delete?" = "क्या आप वाकई मिटाना चाहते हैं?";
+"By proceeding, you'll lose access to this chat." = "आगे बढ़ने से, आप इस चैट तक पहुंच खो देंगे।";
+"Give this one more chance." = "इसे एक और मौका दो";
+"Your answer will be more detailed this time!" = "आपका उत्तर इस बार अधिक विस्तृत होगा!";
+"Try Again" = "फिर से प्रयास करें";
+"Are you not satisfied?" = "क्या आप खुश नहीं हैं?";
+"Ask new question" = "एक नया सवाल पूछें ";
+//
+"Explain" = "समझाना";
+"Explain Bitcoin" = "बिटकॉइन का विवरण दें";
+"How does the internet work, explain like I am 5 years old" = "इंटरनेट कैसे काम करता है, 5 साल के बच्चे के तरह समझाएं";
+"Write & Edit" = "लेखन और संपादन";
+"Write a tweet about global warming" = "ग्लोबल वार्मिंग के बारे में एक ट्वीट लिखें";
+"Write a poem about flowers and love" = "फूलों और प्यार के बारे में एक कविता लिखें";
+"Write a rap song lyrics about being smart" = "बुद्धिमान होने के बारे में रैप गाने के बोल लिखें";
+"Translate" = "अनुवाद करें";
+"Write a tweet about global warming in Korean" = "मुझे ग्लोबल वार्मिंग के बारे में एक ट्वीट करें। ";
+"Write an email" = "एक ईमेल लिखें ";
+"Write an email to decline the offer but request a discount." = "एक ईमेल लिखें जिसमें आप प्रस्ताव को अस्वीकार करते हैं लेकिन डिस्काउंट की मांग करते हैं। ";
+"Get recipes" = "खाने की रेसिपी पाएं";
+"How to make banana pancakes" = "कैसे बनायें केले के पैनकेक";
+"Do Math" = "गणित करें";
+"Solve this math problem: 3^(9)÷3^(2)" = "इस गणित समस्या का हल करें: 3^(9)÷3^(2) ";
+//
+"Ask Anything" = "कुछ भी पूछिए";
+"Ask me grade 12 math questions" = "मुझसे 12 वीं कक्षा के गणित प्रश्न पूछें";
+"Ask me questions as a job interviewer" = "मुझसे नौकरी साक्षात्कार के रूप में सवाल पूछें";
+"Tell me a joke about a kangaroo" = "एक कंगारू के बारे में मुझे एक चुटकुला सुनाओ";
+"Write an essay about Global Warming. Maximum 200 words." = "ग्लोबल वार्मिंग के बारे में एक निबंध लिखें। अधिकतम 200 शब्द।";
+"Business" = "व्यापार";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "मेरी कंपनी के लिए 10 अलग-अलग ब्रांड नाम उत्पन्न करें जो इंटरनेट पर महिलाओं के जूते बेचेगी। मुझे एक आधुनिक ब्रांड नाम चाहिए। मेरा लक्ष्य युवा महिलाएं जो 30 साल से कम उम्र हैं है। इंटरनेट पर .com डोमेन उपलब्ध होने की सुनिश्चित करें।";
+"Ask for help" = "मदद के लिए पूछें";
+"What's the best marketing channel for second-hand electronics in America?" = "<country> में दूसरे हाथ की इलेक्ट्रॉनिक्स के लिए सबसे अच्छा मार्केटिंग चैनल क्या है?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "दैनिक सीमा पहुँच गई। असीमित जवाब प्राप्त करने के लिए सदस्यता लें।";
+"Please try again later" = "कृपया बाद में पुन: प्रयास करें";
+"Copied" = "कॉपी किया गया";
+"Speak your mind to Leo" = "Leo से अपनी बात कहें";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "यह सेटिंग चैट स्क्रीन पर ध्वनि आइकन पर टैप करके ओवरराइड क";
+"Spoken Responses" = "बोले जवाब";
+//
+"Share" = "साझा करें";
+
+"Error" = "त्रुटि";
+"Camera access is denied." = "कैमरा पहुंच अस्वीकार किया गया है।";
+"Photo Library access is denied." = "फोटो लाइब्रेरी की पहुँच अस्वीकृत है।";
+"Cancel" = "रद्द करें";
+"Settings" = "सेटिंग्स";
+"Choose image" = "एक छवि चुनें";
+"Camera" = "कैमरा";
+"Gallery" = "गैलरी";
+"What is this image about?" = "यह चित्र क्या है?";
+"Write an Instagram caption for this image." = "इस छवि के लिए एक इंस्टाग्राम कैप्शन लिखें।";
+"PDF/Document Summary (Coming Soon)" = "पीडीएफ / दस्तावेज़ सारांश (जल्द ही आ रहा है)";
+"Summarise picture" = "चित्र को कुछ शब्दों में सारांशित कर";
+"Upload a photo" = "एक फोटो अपलोड कर";
+"No connection" = "कोई कनेक्शन नह";
+"We couldn't connect to the internet. Please check network settings and try again." = "हम इंटरनेट से कनेक्ट नहीं कर पाए. कृपया नेटवर्क सेटिंग्स की जाँच करें और पुनः प्रयास करें।";

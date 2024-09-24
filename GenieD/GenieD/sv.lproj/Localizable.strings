@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Chatt med Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Välkommen till Leo, din personliga AI-assistent tillgänglig 24/7 för att hjälpa dig med vilken uppgift, fråga eller konversation som helst. Låt oss visa dig hur lätt och trevligt det är att använda Leo för arbete, personligt liv eller bara en rolig pratstund.";
+"Leo Pro Tips" = "Leo Pro Tips";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Använd naturligt språk: Leo är utformad för att förstå naturligt språk, så var inte rädd för att ställa frågor och tala i en konversations ton. Prova olika kommandon: Leo kan göra mycket mer än bara svara på frågor, så prova olika kommandon för att se vad det kan göra. Håll konversationen igång: Leo är alltid redo att chatta, så håll konversationen igång och se vart den tar dig.";
+"Enable Notifications" = "Aktivera meddelanden";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Aktivera meddelanden för att säkerställa att du är uppdaterad och aldrig missar viktig information.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Genom att fortsätta godkänner du vår <BUTTON><PRIVACY>Integritetspolicy<BUTTON> och våra <BUTTON><TERMS>Användarvillkor<BUTTON>.";
+"Continue" = "Fortsätt";
+
+//Home
+"Ask anything" = "Fråga vad som helst";
+"Get instant answers. Start asking now!" = "Få omedelbara svar. Börja fråga nu!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Få svar med din personliga assistent, Leo";
+"Start" = "Starta";
+"Try Leo 3 days for free. Tap to activate premium." = "Prova Leo gratis i 3 dagar. Tryck för att aktivera premium.";
+"Tap below to start" = "Tryck nedanför för att starta";
+
+//Side menu
+"Questions" = "Frågor";
+"My Chats" = "Mina Chattrum";
+"History" = "Historik";
+"Get chatting now! Start your conversation with Leo today." = "Chatta nu! Börja din konversation med Leo idag.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Språk";
+"Your Plan" = "Ditt plan";
+"Voice" = "Röst";
+"Support" = "Stöd";
+"Restore Purchases" = "Återställ köp";
+"About" = "Om";
+"Rate Us" = "Betygsätt oss";
+"Share with Friends" = "Dela med vänner";
+"Restored Successfully" = "Återställt framgångsrikt";
+"Terms of Use" = "Användarvillkor";
+"Privacy Policy" = "Integritetspolicy";
+
+//Paywall
+"Lite" = "Lätt";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Det smartaste sättet att chatta, punkt.";
+"Unlock endless knowledge with Leo." = "Lås upp oändlig kunskap med Leo.";
+"Ask smarter, live better with Leo." = "Fråga smartare, leva bättre med Leo.";
+"Features" = "Egenskaper";
+"Limited Questions and Answers" = "Begränsade frågor och svar";
+"Most Advanced AI Model" = "Mest avancerade AI-modellen";
+"Higher Word Limit" = "Högre ordgräns";
+"Unlimited Questions & Answers" = "Obegränsade frågor och svar";
+"Dialogs (AI remembers chat history)" = "Dialoger (AI minns chatt historik)";
+"Back" = "Tillbaka";
+"Skip" = "Hoppa över";
+"Your Current Plan" = "Ditt nuvarande plan";
+"Try 3 Days for Free" = "Prova i 3 dagar gratis";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> per vecka.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> per år.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 dagars gratis provperiod, sedan <PRICE_WITH_CURRENCY> per vecka.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 dagars gratis provperiod, sedan <PRICE_WITH_CURRENCY> per år.";
+"Secured with iTunes. Cancel anytime" = "Säkrat med iTunes. Avbryt när som helst.";
+//
+"Subscription purchased" = "Prenumeration köpt";
+"Nothing to Restore" = "Ingenting att återställa";
+"Restore failed" = "Återställning misslyckades";
+"Unknown error. Please contact support" = "Okänt fel. Kontakta supporten";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Tyvärr är köpet inte tillgängligt av okänd anledning. Vänligen försök igen senare.";
+"The purchase cannot be completed. Please, change your account or device" = "Köpet kan inte slutföras. Vänligen ändra ditt konto eller enhet.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Ditt köp nekades. Vänligen kontrollera betalningsuppgifterna och se till att det finns tillräckligt med pengar på ditt konto.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Köpet är inte tillgängligt för det valda betalningsmedlet. Se till att din betalningsmetod tillåter dig att göra köp online.";
+"This product is not available in your region. Please, change the store and try again" = "Denna produkt är inte tillgänglig i din region. Vänligen byt butik och försök igen.";
+"Access to cloud service information is not allowed" = "Åtkomst till information om molntjänster är inte tillåten.";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Köpet kan inte slutföras eftersom din enhet inte är ansluten till internet. Försök igen senare med en stabil internetanslutning.";
+"Sorry, an error has occurred" = "Tyvärr, ett fel uppstod";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Köpet kan inte slutföras eftersom du inte har accepterat användarvillkoren för AppStore. Bekräfta ditt samtycke i inställningarna och gå sedan tillbaka till köpet.";
+"An error has occurred. Please, try again later" = "Ett fel har inträffat. Vänligen försök igen senare.";
+"The promotional offer is invalid or expired" = "Det kampanjerbjudande är ogiltigt eller har löpt ut";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Tyvärr, ett fel inträffade när kampanjkoden skulle appliceras. Försök igen senare.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Tyvärr, ett fel uppstod när du tillämpade kampanjerbjudandet. Försök igen senare.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Tyvärr, ditt köp kan inte slutföras. Försök igen senare.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Du har <numberofquestions> frågor kvar i ditt veckovisa gratispaket. Uppgradera för obegränsade frågor.";
+"Upgrade to unlimited" = "Uppgradera till obegränsat";
+"Upgrade" = "Uppgradering";
+
+//Chat
+"Are you sure you want start a new chat?" = "Är du säker på att du vill starta en ny chatt?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Fortsättning kommer att starta en ny chatt och du kan fortfarande komma åt denna chatt från chatt-historiken.";
+"No" = "Nej";
+"Yes" = "Ja";
+"Are you sure you want to delete?" = "Är du säker på att du vill radera?";
+"By proceeding, you'll lose access to this chat." = "Genom att fortsätta kommer du att förlora tillgång till denna chatt.";
+"Give this one more chance." = "Ge detta en till chans";
+"Your answer will be more detailed this time!" = "Ditt svar kommer att vara mer detaljerat den här gången!";
+"Try Again" = "Försök igen";
+"Are you not satisfied?" = "Är du inte nöjd?";
+"Ask new question" = "Ställ en ny fråga";
+//
+"Explain" = "Förklara";
+"Explain Bitcoin" = "Förklara Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Hur fungerar internet, förklarat som om du vore 5 år gammal";
+"Write & Edit" = "Skriva och redigera";
+"Write a tweet about global warming" = "Skriv en tweet om global uppvärmning";
+"Write a poem about flowers and love" = "Skriv en dikt om blommor och kärlek";
+"Write a rap song lyrics about being smart" = "Skriv rap låttexter om att vara smart";
+"Translate" = "Översätt";
+"Write a tweet about global warming in Korean" = "Skriv en tweet om global uppvärmning på koreanska";
+"Write an email" = "Skriv ett e-postmeddelande";
+"Write an email to decline the offer but request a discount." = "Skriv ett e-postmeddelande för att avböja erbjudandet, men be om en rabatt.";
+"Get recipes" = "Få matrecept";
+"How to make banana pancakes" = "Hur man gör bananpannkakor";
+"Do Math" = "Räkna matte";
+"Solve this math problem: 3^(9)÷3^(2)" = "Lösa detta matematiska problem: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Fråga vad som helst";
+"Ask me grade 12 math questions" = "Fråga mig matematikfrågor från 12:e klass";
+"Ask me questions as a job interviewer" = "Fråga mig frågor som en jobbintervjuare";
+"Tell me a joke about a kangaroo" = "Berätta en rolig historia om en känguru";
+"Write an essay about Global Warming. Maximum 200 words." = "Skriv en essä om global uppvärmning. Max 200 ord.";
+"Business" = "Affärer";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Generera 10 olika varumärkesnamn för mitt företag som kommer att sälja damskor på internet. Jag vill ha ett modernt varumärkesnamn. Min målgrupp är kvinnor under 30 år. Se till att .com-domänen är tillgänglig på internet.";
+"Ask for help" = "Be om hjälp";
+"What's the best marketing channel for second-hand electronics in America?" = "Vilken är den bästa marknadsföringskanalen för begagnade elektronik i Sverige?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Dagligt begränsning uppnådd. Prenumerera för obegränsade svar.";
+"Please try again later" = "Försök igen senare";
+"Copied" = "Kopierat";
+"Speak your mind to Leo" = "Säg vad du tycker till Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Denna inställning kan överridas på chattskärmen genom att trycka på ljudikonen.";
+"Spoken Responses" = "Talade svar";
+//
+"Share" = "Dela";
+
+"Error" = "Fel";
+"Camera access is denied." = "Tillgång till kameran nekades.";
+"Photo Library access is denied." = "Tillgång till fotobiblioteket nekades.";
+"Cancel" = "Avbryt";
+"Settings" = "Inställningar";
+"Choose image" = "Välj bild";
+"Camera" = "Kamera";
+"Gallery" = "Galleri";
+"What is this image about?" = "Vad handlar bilden om?";
+"Write an Instagram caption for this image." = "Skriv en Instagram-beskrivning för den här bilden.";
+"PDF/Document Summary (Coming Soon)" = "PDF-/Dokument Sammanfattning (Kommer snart)";
+"Summarise picture" = "Sammanfatta bilden i några få ord";
+"Upload a photo" = "Ladda upp en bild";
+"No connection" = "Ingen anslutning";
+"We couldn't connect to the internet. Please check network settings and try again." = "Vi kunde inte ansluta till internet. Kontrollera nätverksinställningarna och försök igen.";

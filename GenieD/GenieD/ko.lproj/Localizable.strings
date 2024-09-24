@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "레오와 채팅하기";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Leo에 오신 것을 환영합니다. 언제나 이용 가능한 개인용 AI 어시스턴트로서, 업무, 개인 생활 또는 단순한 채팅에 대한 모든 작업, 질문 또는 대화를 지원합니다. Leo를 사용하는 것이 얼마나 쉽고 즐거운지 보여드릴게요.";
+"Leo Pro Tips" = "Leo 전문 팁";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "자연어를 활용하세요: Leo는 자연어를 이해하는 것을 목표로 하고 있으므로 질문을 하고 대화식으로 말하는 것을 두려워하지 마세요. 다양한 명령어를 시도해보세요: Leo는 단순히 질문에 대답하는 것 이상의 기능을 지원하므로, 다양한 명령어를 시도하여 무엇을 할 수 있는지 확인해보세요. 대화를 이어나가세요: Leo는 항상 채팅 준비가 되어 있으므로 대화를 이어나가 보세요.";
+"Enable Notifications" = "알림 활성화";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "중요한 정보를 놓치지 않도록 알림을 활성화하세요.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "계속 진행함으로써, 당사의 <BUTTON><PRIVACY>개인정보 보호정책<BUTTON>과 <BUTTON><TERMS>이용 약관<BUTTON>에 동의하게 됩니다.";
+"Continue" = "계속";
+
+//Home
+"Ask anything" = "무엇이든 물어보세요";
+"Get instant answers. Start asking now!" = "즉각적인 답변을 얻으세요. 지금 바로 질문해보세요!";
+"Dialog" = "대화창";
+"Get answers with your personal assistant, Leo" = "개인 어시스턴트인 Leo와 함께 답을 얻으세요.";
+"Start" = "시작";
+"Try Leo 3 days for free. Tap to activate premium." = "Leo를 3일 동안 무료로 시도해보세요. 프리미엄 활성화를 위해 탭하세요.";
+"Tap below to start" = "시작하려면 아래를 누르세요";
+
+//Side menu
+"Questions" = "질문";
+"My Chats" = "내 채팅";
+"History" = "기록";
+"Get chatting now! Start your conversation with Leo today." = "지금 채팅을 시작하세요! Leo와 대화를 시작해보세요.";
+
+//Settings
+"OK" = "오케이";
+"Language" = "언어";
+"Your Plan" = "당신의 계획";
+"Voice" = "음성";
+"Support" = "지원";
+"Restore Purchases" = "구매 복원";
+"About" = "소개";
+"Rate Us" = "평가하기";
+"Share with Friends" = "친구들과 공유하기";
+"Restored Successfully" = "복원이 완료되었습니다.";
+"Terms of Use" = "이용 약관";
+"Privacy Policy" = "개인정보처리방침";
+
+//Paywall
+"Lite" = "라이트";
+"Pro" = "프로";
+"Premium" = "프리미엄";
+"Leo: The Smartest Way to Chat, Period." = "Leo: 채팅하는 가장 똑똑한 방법.";
+"Unlock endless knowledge with Leo." = "Leo를 통해 끝없는 지식을 확보하세요.";
+"Ask smarter, live better with Leo." = "Leo를 통해 더 똑똑하게, 더 나은 삶을 살아보세요.";
+"Features" = "특징";
+"Limited Questions and Answers" = "제한된 질문과 답변";
+"Most Advanced AI Model" = "가장 고급스러운 AI 모델";
+"Higher Word Limit" = "최대 단어 수 제한 해제";
+"Unlimited Questions & Answers" = "무제한 질문과 답변";
+"Dialogs (AI remembers chat history)" = "대화 기록 보존 (AI 기억)";
+"Back" = "뒤로";
+"Skip" = "건너뛰기";
+"Your Current Plan" = "현재 계획";
+"Try 3 Days for Free" = "3일 무료 체험하기";
+"<PRICE_WITH_CURRENCY>/week" = "주당 <PRICE_WITH_CURRENCY>.";
+"<PRICE_WITH_CURRENCY>/year" = "연간 <PRICE_WITH_CURRENCY>.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3일 무료 평가판, 그 후 주당 <PRICE_WITH_CURRENCY>.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3일 무료 평가판, 그 후 연간 <PRICE_WITH_CURRENCY>.";
+"Secured with iTunes. Cancel anytime" = "iTunes로 보호됩니다. 언제든지 취소할 수 있습니다.";
+//
+"Subscription purchased" = "구독 구매 ";
+"Nothing to Restore" = "복원할 항목 없음 ";
+"Restore failed" = "복원 실패 ";
+"Unknown error. Please contact support" = "알 수 없는 오류입니다. 고객 지원팀에 문의해주세요. ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "죄송합니다. 알 수 없는 이유로 인해 구매할 수 없습니다. 나중에 다시 시도해주세요.";
+"The purchase cannot be completed. Please, change your account or device" = "구매를 완료할 수 없습니다. 계정이나 기기를 변경하세요. ";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "구매가 거부되었습니다. 결제 세부 정보를 확인하고 계정에 충분한 자금이 있는지 확인하세요.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "선택한 결제 방법으로는 구매할 수 없습니다. 결제 방법이 온라인 구매를 허용하는지 확인하십시오.";
+"This product is not available in your region. Please, change the store and try again" = "이 제품은 귀하의 지역에서 사용할 수 없습니다. 스토어를 변경하고 다시 시도하십시오.";
+"Access to cloud service information is not allowed" = " 클라우드 서비스 정보에 대한 접근이 허용되지 않습니다";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "기기가 인터넷에 연결되어 있지 않아 구매를 완료할 수 없습니다. 안정적인 인터넷 연결로 나중에 다시 시도해주십시오.";
+"Sorry, an error has occurred" = "죄송합니다, 오류가 발생했습니다";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "AppStore의 이용 약관에 동의하지 않았기 때문에 구매를 완료할 수 없습니다. 설정에서 동의를 확인한 후에 다시 구매로 돌아가십시오.";
+"An error has occurred. Please, try again later" = "오류가 발생했습니다. 나중에 다시 시도하세요.";
+"The promotional offer is invalid or expired" = "프로모션 제공이 무효이거나 만료되었습니다.";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "죄송합니다. 프로모션 코드를 적용하는 동안 오류가 발생했습니다. 나중에 다시 시도해주세요.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "죄송합니다. 프로모션 코드 적용 중 오류가 발생했습니다. 나중에 다시 시도해주세요.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "죄송합니다. 구매를 완료할 수 없습니다. 나중에 다시 시도해주세요.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "주간 무료 패키지에 <numberofquestions>개의 질문이 남았습니다. 무제한 질문을 위해 업그레이드하세요.";
+"Upgrade to unlimited" = "무제한 업그레이드하기";
+"Upgrade" = "업그레이드";
+
+//Chat
+"Are you sure you want start a new chat?" = "새 채팅을 시작하시겠습니까?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "진행하면 새로운 채팅이 시작되며, 이 채팅은 채팅 기록에서 여전히 액세스할 수 있습니다.";
+"No" = "아니요";
+"Yes" = "예";
+"Are you sure you want to delete?" = "정말 삭제하시겠습니까?";
+"By proceeding, you'll lose access to this chat." = "계속하면이 채팅에 액세스 할 수 없게됩니다.";
+"Give this one more chance." = "이번에 한 번 더 기회를 주세요";
+"Your answer will be more detailed this time!" = "이번에는 더 자세한 답변이 필요합니다!";
+"Try Again" = "다시 시도해보세요";
+"Are you not satisfied?" = "만족하지 않으세요?";
+"Ask new question" = "새로운 질문을 하다";
+//
+"Explain" = "설명하다";
+"Explain Bitcoin" = "비트코인을 설명하세요";
+"How does the internet work, explain like I am 5 years old" = "인터넷은 어떻게 동작하나요, 5살 아이처럼 설명해주세요.";
+"Write & Edit" = "작성 및 편집";
+"Write a tweet about global warming" = "지구 온난화에 대한 트윗 작성하기";
+"Write a poem about flowers and love" = "꽃과 사랑에 관한 시 쓰기";
+"Write a rap song lyrics about being smart" = "똑똑함에 관한 랩 노래 가사 작성하기";
+"Translate" = "번역";
+"Write a tweet about global warming in Korean" = "지구 온난화에 관한 트윗을 한국어로 써주세요.";
+"Write an email" = "이메일을 작성하세요 ";
+"Write an email to decline the offer but request a discount." = "거절 이메일을 작성하고 할인을 요청하세요.";
+"Get recipes" = "요리 레시피를 구해보세요.";
+"How to make banana pancakes" = "바나나 팬케이크 만드는 방법";
+"Do Math" = "수학 문제 풀기";
+"Solve this math problem: 3^(9)÷3^(2)" = "이 수학 문제를 풀어주세요: 3^(9)÷3^(2) ";
+//
+"Ask Anything" = "아무 것이나 물어보세요";
+"Ask me grade 12 math questions" = "12학년 수학 문제를 물어보세요";
+"Ask me questions as a job interviewer" = "취업 면접관으로서 나에게 질문하세요";
+"Tell me a joke about a kangaroo" = "캥거루에 대한 농담 해줘";
+"Write an essay about Global Warming. Maximum 200 words." = "지구 온난화에 대한 에세이를 쓰십시오. 최대 200 단어.";
+"Business" = "비즈니스";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "인터넷에서 여성용 신발을 판매할 내 회사를 위해 10가지 서로 다른 브랜드 이름을 생성해주세요. 저는 현대적인 브랜드 이름을 원합니다. 대상 시장은 30세 이하의 여성입니다. .com 도메인이 인터넷에서 사용 가능한지 확인해주세요.";
+"Ask for help" = "도움 요청";
+"What's the best marketing channel for second-hand electronics in America?" = "한국에서 중고 전자 제품을 위한 최고의 마케팅 채널은 무엇인가요?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "일일 한도에 도달했습니다. 무제한 답변을 받으려면 구독하세요.";
+"Please try again later" = "나중에 다시 시도해주세요";
+"Copied" = "복사되었습니다";
+"Speak your mind to Leo" = "Leo에게 말해보세요";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "이 설정은 채팅 화면에서 소리 아이콘을 탭하여 재설정할 수 있습니다.";
+"Spoken Responses" = "음성 답변";
+//
+"Share" = "공유";
+
+"Error" = "오류";
+"Camera access is denied." = "카메라 접근이 거부되었습니다.";
+"Photo Library access is denied." = "사진 라이브러리 접근이 거부되었습니다.";
+"Cancel" = "취소";
+"Settings" = "설정";
+"Choose image" = "이미지를 선택하십시오";
+"Camera" = "카메라";
+"Gallery" = "갤러리";
+"What is this image about?" = "이 이미지는 무엇에 대한 것인가요?";
+"Write an Instagram caption for this image." = "이 이미지에 대한 인스타그램 캡션을 작성하세요.";
+"PDF/Document Summary (Coming Soon)" = "PDF/문서 요약 (곧 출시 예정)";
+"Summarise picture" = "그림을 몇 단어로 요약하십시오";
+"Upload a photo" = "사진을 업로드하십시오";
+"No connection" = "연결 없음";
+"We couldn't connect to the internet. Please check network settings and try again." = "우리는 인터넷에 연결하지 못했습니다. 네트워크 설정을 확인하고 다시 시도하십시오.";

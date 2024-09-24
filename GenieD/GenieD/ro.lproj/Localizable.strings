@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Conversați cu Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Bun venit la Leo, asistentul tău personal de inteligență artificială disponibil 24/7 pentru a te ajuta în orice sarcină, întrebare sau conversație. Să-ți arătăm cât de ușor și plăcut este să folosești Leo pentru muncă, viață personală sau doar o conversație distractivă.";
+"Leo Pro Tips" = "Sfaturi Pro pentru Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Folosește limbajul natural: Leo este conceput să înțeleagă limbajul natural, deci nu te teme să pui întrebări și să vorbești într-un ton conversațional. Încearcă diferite comenzi: Leo poate face mult mai mult decât să răspundă la întrebări, așa că încearcă diferite comenzi pentru a vedea ce poate face. Menține conversația: Leo este mereu gata să converseze, deci menține conversația și vezi unde te poartă ea.";
+"Enable Notifications" = "Activează Notificările";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Activează notificările pentru a te asigura că ești mereu la curent și că nu ratezi nicio informație importantă.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Prin continuarea utilizării, sunteți de acord cu <BUTTON><PRIVACY>Politica noastră de confidențialitate<BUTTON> și cu <BUTTON><TERMS>Termenii și condițiile de utilizare<BUTTON>.";
+"Continue" = "Continua";
+
+//Home
+"Ask anything" = "Întreabă orice";
+"Get instant answers. Start asking now!" = "Obține răspunsuri instantanee. Începe să întrebi acum!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Obține răspunsuri cu asistentul tău personal, Leo";
+"Start" = "Începe";
+"Try Leo 3 days for free. Tap to activate premium." = "Încercați Leo gratuit timp de 3 zile. Atingeți pentru a activa versiunea premium.";
+"Tap below to start" = "Atingeți mai jos pentru a începe";
+
+//Side menu
+"Questions" = "Întrebări";
+"My Chats" = "Conversațiile Mele";
+"History" = "Istoric";
+"Get chatting now! Start your conversation with Leo today." = "Începe-ți conversația cu Leo chiar acum!";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Limbă";
+"Your Plan" = "Planul tău";
+"Voice" = "Voce";
+"Support" = "Suport";
+"Restore Purchases" = "Restaurează achizițiile";
+"About" = "Despre";
+"Rate Us" = "Evaluează-ne";
+"Share with Friends" = "Distribuie cu prietenii";
+"Restored Successfully" = "Restaurare cu succes";
+"Terms of Use" = "Termeni și condiții";
+"Privacy Policy" = "Politica de confidențialitate";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Cel mai inteligent mod de a conversa, punct.";
+"Unlock endless knowledge with Leo." = "Deblochează o cunoaștere fără limite cu Leo.";
+"Ask smarter, live better with Leo." = "Întreabă mai inteligent, trăiește mai bine cu Leo.";
+"Features" = "Caracteristici";
+"Limited Questions and Answers" = "Întrebări și răspunsuri limitate";
+"Most Advanced AI Model" = "Cel mai avansat model AI";
+"Higher Word Limit" = "Limită mai mare de cuvinte";
+"Unlimited Questions & Answers" = "Întrebări și răspunsuri nelimitate";
+"Dialogs (AI remembers chat history)" = "Dialoguri (AI își amintește istoricul conversației)";
+"Back" = "Înapoi";
+"Skip" = "Ocoli";
+"Your Current Plan" = "Planul tău curent";
+"Try 3 Days for Free" = "Încearcă timp de 3 zile gratuit";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> pe săptămână.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> pe an.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Perioadă gratuită de încercare de 3 zile, apoi <PRICE_WITH_CURRENCY> pe săptămână.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Perioadă gratuită de încercare de 3 zile, apoi <PRICE_WITH_CURRENCY> pe an.";
+"Secured with iTunes. Cancel anytime" = "Securizat cu iTunes. Anulați oricând";
+//
+"Subscription purchased" = "Abonament cumpărat";
+"Nothing to Restore" = "Nimic de restabilit";
+"Restore failed" = "Restaurarea a eșuat";
+"Unknown error. Please contact support" = "Eroare necunoscută. Vă rugăm să contactați suportul";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Ne pare rău, achiziția nu este disponibilă dintr-un motiv necunoscut. Vă rugăm să încercați din nou mai târziu.";
+"The purchase cannot be completed. Please, change your account or device" = "Achiziția nu poate fi finalizată. Vă rugăm să vă schimbați contul sau dispozitivul.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Achiziția dvs. a fost refuzată. Vă rugăm să verificați detaliile de plată și să vă asigurați că există suficiente fonduri în contul dvs.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Achiziția nu este disponibilă pentru metoda de plată selectată. Asigurați-vă că metoda dvs. de plată permite efectuarea achizițiilor online.";
+"This product is not available in your region. Please, change the store and try again" = "Acest produs nu este disponibil în regiunea dvs. Vă rugăm să schimbați magazinul și încercați din nou.";
+"Access to cloud service information is not allowed" = "Accesul la informațiile despre serviciul de cloud nu este permis";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Achiziționarea nu poate fi finalizată deoarece dispozitivul dvs. nu este conectat la internet. Încercați din nou mai târziu cu o conexiune la internet stabilă.";
+"Sorry, an error has occurred" = "Ne pare rău, a apărut o eroare";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Achiziția nu poate fi finalizată deoarece nu ați acceptat termenii de utilizare ai AppStore. Vă rugăm să vă confirmați consimțământul în setările aplicației și să reveniți la achiziție.";
+"An error has occurred. Please, try again later" = "A apărut o eroare. Vă rugăm să încercați mai târziu.";
+"The promotional offer is invalid or expired" = "Oferta promoțională este invalidă sau a expirat";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Ne pare rău, a apărut o eroare la aplicarea codului promoțional. Vă rugăm să încercați din nou mai târziu.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Ne pare rău, a apărut o eroare la aplicarea ofertei promoționale. Vă rugăm să încercați mai târziu.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Ne pare rău, achiziția dvs. nu poate fi finalizată. Vă rugăm să încercați din nou mai târziu.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Mai sunt <numberofquestions> întrebări rămase în pachetul tău gratuit săptămânal. Upgrade pentru întrebări nelimitate.";
+"Upgrade to unlimited" = "Upgrade pentru nelimitat";
+"Upgrade" = "Actualizare";
+
+//Chat
+"Are you sure you want start a new chat?" = "Sunteți sigur că doriți să începeți o nouă conversație?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Continuarea va porni o nouă conversație și puteți accesa în continuare această conversație din istoricul conversațiilor.";
+"No" = "Nu";
+"Yes" = "Da";
+"Are you sure you want to delete?" = "Sunteți sigur că doriți să ștergeți?";
+"By proceeding, you'll lose access to this chat." = "Prin continuarea, veți pierde accesul la acest chat.";
+"Give this one more chance." = "Dați-i acestuia încă o șansă";
+"Your answer will be more detailed this time!" = "Răspunsul tău va fi mai detaliat de data aceasta!";
+"Try Again" = "Încearcă din nou";
+"Are you not satisfied?" = "Nu sunteți mulțumit?";
+"Ask new question" = "Puneți o întrebare nouă";
+//
+"Explain" = "Explica";
+"Explain Bitcoin" = "Explicați Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Cum funcționează internetul, explică ca și cum ai avea 5 ani";
+"Write & Edit" = "Scriere și editare";
+"Write a tweet about global warming" = "Scrieți un tweet despre încălzirea globală";
+"Write a poem about flowers and love" = "Scrieți o poezie despre flori și dragoste";
+"Write a rap song lyrics about being smart" = "Scrieți versurile unei piese de rap despre a fi deștept";
+"Translate" = "Traduce";
+"Write a tweet about global warming in Korean" = "Scrie-mi un tweet despre încălzirea globală în coreeană";
+"Write an email" = "Scrieți un e-mail";
+"Write an email to decline the offer but request a discount." = "Scrieți un e-mail pentru a respinge oferta, dar a solicita o reducere.";
+"Get recipes" = "Obține rețete de mâncare";
+"How to make banana pancakes" = "Cum să faci clătite cu banane";
+"Do Math" = "Rezolva matematica";
+"Solve this math problem: 3^(9)÷3^(2)" = "Rezolvați această problemă matematică: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Întrebați orice";
+"Ask me grade 12 math questions" = "Puneți-mi întrebări la matematica din clasa a 12-a";
+"Ask me questions as a job interviewer" = "Puneți-mi întrebări ca un interviu de angajare";
+"Tell me a joke about a kangaroo" = "Spune-mi o glumă despre un cangur";
+"Write an essay about Global Warming. Maximum 200 words." = "Scrieți un eseu despre încălzirea globală. Maximum 200 de cuvinte.";
+"Business" = "Afaceri";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Generați 10 nume de brand diferite pentru compania mea care va vinde încălțăminte pentru femei pe internet. Vreau un nume de brand modern. Publicul țintă sunt femeile sub vârsta de 30 de ani. Asigurați-vă că domeniul .com este disponibil pe internet.";
+"Ask for help" = "Cere ajutor";
+"What's the best marketing channel for second-hand electronics in America?" = "Care este cea mai bună canal de marketing pentru electronice second-hand în România?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Limita zilnică a fost atinsă. Abonați-vă pentru răspunsuri nelimitate.";
+"Please try again later" = "Vă rugăm încercați din nou mai târziu";
+"Copied" = "Copiat";
+"Speak your mind to Leo" = "Spune tot ce ai pe suflet lui Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Această setare poate fi anulată pe ecranul de conversație apăsând pe pictograma de sunet.";
+"Spoken Responses" = "Răspunsuri verbale";
+//
+"Share" = "Partajează";
+
+"Error" = "Eroare";
+"Camera access is denied." = "Accesul la camera a fost respins.";
+"Photo Library access is denied." = "Accesul la biblioteca de fotografii a fost respins.";
+"Cancel" = "Anula";
+"Settings" = "Setări";
+"Choose image" = "Alege o imagine";
+"Camera" = "Cameră";
+"Gallery" = "Galerie";
+"What is this image about?" = "Despre ce este această imagine?";
+"Write an Instagram caption for this image." = "Scrieți o descriere pe Instagram pentru această imagine.";
+"PDF/Document Summary (Coming Soon)" = "Rezumat PDF/Document (În curând disponibil)";
+"Summarise picture" = "Rezumați imaginea în câteva cuvinte";
+"Upload a photo" = "Încărcați o fotografie";
+"No connection" = "Fără conexiune";
+"We couldn't connect to the internet. Please check network settings and try again." = "Nu am putut conecta la internet. Vă rugăm să verificați setările de rețea și să încercați din nou.";

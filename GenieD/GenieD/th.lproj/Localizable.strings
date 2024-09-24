@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "พูดคุยกับ Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "ยินดีต้อนรับสู่ Leo ผู้ช่วย AI ส่วนตัวของคุณที่พร้อมให้บริการตลอด 24/7 เพื่อช่วยในการทำงาน คำถาม หรือการสนทนาใดๆ มาเราจะแสดงให้เห็นว่าใช้ Leo สำหรับงาน ชีวิตส่วนตัว หรือแค่การสนทนาสนุก ๆ มันง่ายและสนุกอย่างไร้ขีดจำกัด";
+"Leo Pro Tips" = "เคล็ดลับ Leo Pro";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "ใช้ภาษาธรรมชาติ: Leo ถูกออกแบบมาเพื่อเข้าใจภาษาธรรมชาติ ดังนั้นอย่ากลัวที่จะถามคำถามและพูดในลักษณะการสนทนา ลองใช้คำสั่งต่าง ๆ : Leo สามารถทำอะไรได้มากกว่าเพียงการตอบคำถามเท่านั้น ดังนั้นลองใช้คำสั่งต่าง ๆ เพื่อดูว่ามันสามารถทำอะไรได้บ้าง เก็บสนทนาไว้ต่อไป: Leo พร้อมที่จะคุยตลอดเวลา ดังนั้นคุณสามารถเก็บสนทนาไว้ต่อไปและดูว่ามันจะพาคุณไปสู่ที่ไหนได้บ้าง";
+"Enable Notifications" = "เปิดการแจ้งเตือน";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "เปิดการแจ้งเตือนเพื่อให้แน่ใจว่าคุณจะอัปเดตข้อมูลล่าสุดและไม่พลาดข้อมูลสำคัญใดๆ";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "เมื่อดำเนินการต่อจะหมายความว่าคุณยินยอมกับ<BUTTON><PRIVACY>นโยบายความเป็นส่วนตัวของเรา<BUTTON> และ<BUTTON><TERMS>เงื่อนไขการใช้บริการ<BUTTON>";
+"Continue" = "ดำเนิน";
+
+//Home
+"Ask anything" = "ถามอะไรก็ได้ ";
+"Get instant answers. Start asking now!" = "ได้รับคำตอบทันที จากการถามคำถามเลย!";
+"Dialog" = "กล่องโต้ตอบ";
+"Get answers with your personal assistant, Leo" = "รับคำตอบด้วยผู้ช่วยส่วนตัวของคุณ Leo";
+"Start" = "เริ่ม";
+"Try Leo 3 days for free. Tap to activate premium." = "ลอง Leo 3 วันฟรี แตะเพื่อเปิดใช้งานพรีเมียม";
+"Tap below to start" = "แตะด้านล่างเพื่อเริ่มต้น";
+
+//Side menu
+"Questions" = "คำถาม";
+"My Chats" = "การสนทนาของฉัน";
+"History" = "ประวัติศาสตร์";
+"Get chatting now! Start your conversation with Leo today." = "เริ่มสนทนากันเลย! เริ่มการสนทนากับ Leo ของคุณวันนี้";
+
+//Settings
+"OK" = "ตกลง";
+"Language" = "ภาษา";
+"Your Plan" = "แผนของคุณ";
+"Voice" = "เสียงพูด";
+"Support" = "สนับสนุน";
+"Restore Purchases" = "คืนการซื้อ";
+"About" = "เกี่ยวกับเรา";
+"Rate Us" = "ให้คะแนนเรา";
+"Share with Friends" = "แชร์กับเพื่อน";
+"Restored Successfully" = "เรียกคืนสำเร็จ";
+"Terms of Use" = "เงื่อนไขการใช้งาน";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "พรีเมียม";
+"Leo: The Smartest Way to Chat, Period." = "Leo: วิธีที่ฉลาดที่สุดในการแชท จุด";
+"Unlock endless knowledge with Leo." = "ปลดล็อคความรู้ไม่มีที่สิ้นสุดกับ Leo";
+"Ask smarter, live better with Leo." = "ถามอย่างฉลาด มีชีวิตอย่างดีกว่าด้วย Leo";
+"Features" = "คุณสมบัติ";
+"Limited Questions and Answers" = "คำถามและคำตอบจำกัด";
+"Most Advanced AI Model" = "แบบจำลอง AI ที่ทันสมัยที่สุด";
+"Higher Word Limit" = "ขีด จำกัด คำถาม";
+"Unlimited Questions & Answers" = "ไม่ จำกัด คำถามและคำตอบ";
+"Dialogs (AI remembers chat history)" = "Dialogs (AI จำคำสนทนา)";
+"Back" = "กลับ";
+"Skip" = "ข้าม";
+"Your Current Plan" = "แผนปัจจุบันของคุณ";
+"Try 3 Days for Free" = "ลองใช้งานฟรี 3 วัน";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> ต่อสัปดาห์.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> ต่อปี.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "ทดลองใช้ฟรี 3 วัน ต่อมาคิด <PRICE_WITH_CURRENCY> ต่อสัปดาห์";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "ทดลองใช้ฟรี 3 วัน ต่อมาคิด <PRICE_WITH_CURRENCY> ต่อปี";
+"Secured with iTunes. Cancel anytime" = "ปลอดภัยด้วย iTunes ยกเลิกได้ทุกเมื่อ";
+//
+"Subscription purchased" = "สมัครสมาชิกซื้อแล้ว";
+"Nothing to Restore" = "ไม่มีอะไรให้กู้คืน";
+"Restore failed" = "การกู้คืนล้มเหลว";
+"Unknown error. Please contact support" = "ข้อผิดพลาดที่ไม่รู้จัก กรุณาติดต่อฝ่ายสนับสนุน";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "ขออภัย การซื้อไม่สามารถใช้ได้เนื่องจากเหตุผลที่ไม่ทราบ โปรดลองอีกครั้งในภายหลัง";
+"The purchase cannot be completed. Please, change your account or device" = "ไม่สามารถซื้อได้เต็มรูปแบบ กรุณาเปลี่ยนบัญชีหรืออุปกรณ์ของคุณ";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "การซื้อของคุณถูกปฏิเสธ โปรดตรวจสอบรายละเอียดการชำระเงินและตรวจสอบว่ามีเงินเพียงพอในบัญชีของคุณ";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "การซื้อไม่สามารถทำได้สำหรับวิธีการชำระเงินที่เลือก โปรดตรวจสอบว่าวิธีการชำระเงินของคุณอนุญาตให้คุณทำการซื้อของออนไลน์ได้";
+"This product is not available in your region. Please, change the store and try again" = "สินค้านี้ไม่พร้อมใช้งานในพื้นที่ของคุณ กรุณาเปลี่ยนร้านค้าและลองอีกครั้ง";
+"Access to cloud service information is not allowed" = "การเข้าถึงข้อมูลบริการคลาวด์ไม่ได้รับอนุญาต";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "ไม่สามารถซื้อได้เนื่องจากอุปกรณ์ของคุณไม่ได้เชื่อมต่อกับอินเทอร์เน็ต โปรดลองอีกครั้งในภายหลังด้วยการเชื่อมต่ออินเทอร์เน็ตที่เสถียร";
+"Sorry, an error has occurred" = "ขออภัย มีข้อผิดพลาดเกิดขึ้น";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "การซื้อไม่สามารถทำการเสร็จสิ้นได้เนื่องจากคุณยังไม่ยอมรับข้อตกลงการใช้งานของ AppStore โปรดยืนยันความยินยอมของคุณในการตั้งค่าแล้วกลับไปที่การซื้อ";
+"An error has occurred. Please, try again later" = "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง";
+"The promotional offer is invalid or expired" = "ข้อเสนอโปรโมชั่นไม่ถูกต้องหรือหมดอายุแล้ว";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "ขออภัยเกิดข้อผิดพลาดในการใช้โค้ดโปรโมชั่น โปรดลองอีกครั้งในภายหลัง";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "ขออภัย เกิดข้อผิดพลาดในการใช้โปรโมชั่น โปรดลองอีกครั้งในภายหลัง";
+"Sorry, your purchase cannot be completed. Please, try again later" = "ขออภัย การซื้อของคุณไม่สามารถทำการเสร็จสมบูรณ์ได้ โปรดลองอีกครั้งในภายหลัง";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "คุณมีคำถาม <numberofquestions> ข้อที่เหลือในแพ็คเกจฟรีสัปดาห์ของคุณ อัปเกรดเพื่อคำถามไม่จำกัด";
+"Upgrade to unlimited" = "อัปเกรดเพื่อไม่จำกัด";
+"Upgrade" = "อัพเกรด";
+
+//Chat
+"Are you sure you want start a new chat?" = "คุณแน่ใจหรือว่าต้องการเริ่มแชทใหม่?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "การดำเนินการจะเริ่มต้นการสนทนาใหม่และคุณยังสามารถเข้าถึงการสนทนานี้จากประวัติการสนทนาได้";
+"No" = "ไม่";
+"Yes" = "ใช่";
+"Are you sure you want to delete?" = "คุณแน่ใจหรือไม่ว่าต้องการลบ?";
+"By proceeding, you'll lose access to this chat." = "โดยดำเนินการต่อคุณจะสูญเสียการเข้าถึงการสนทนานี้";
+"Give this one more chance." = "ให้โอกาสอีกครั้ง";
+"Your answer will be more detailed this time!" = "คำตอบของคุณจะมีรายละเอียดมากขึ้นในครั้งนี้!";
+"Try Again" = "ลองอีกครั้ง";
+"Are you not satisfied?" = "คุณไม่พอใจหรือไม่?";
+"Ask new question" = "ถามคำถามใหม่";
+//
+"Explain" = "อธิบาย ";
+"Explain Bitcoin" = "อธิบายบิตคอยน์";
+"How does the internet work, explain like I am 5 years old" = "อินเตอร์เน็ตทำงานอย่างไร อธิบายเหมือนกับเด็ก 5 ขวบ";
+"Write & Edit" = "เขียนและแก้ไข";
+"Write a tweet about global warming" = "เขียนทวีตเกี่ยวกับการเผาไหม้ทั่วโลก";
+"Write a poem about flowers and love" = "เขียนบทกวีเกี่ยวกับดอกไม้และความรัก";
+"Write a rap song lyrics about being smart" = "เขียนเนื้อเพลงแร็ปเกี่ยวกับการฉลาด";
+"Translate" = "แปล";
+"Write a tweet about global warming in Korean" = "เขียนทวีตเกี่ยวกับการเผาไหม้ทั่วโลกในภาษาเกาหลีให้ฉัน";
+"Write an email" = "เขียนอีเมล ";
+"Write an email to decline the offer but request a discount." = "เขียนอีเมลเพื่อปฏิเสธข้อเสนอแต่ขอส่วนลด ";
+"Get recipes" = "หาสูตรอาหาร";
+"How to make banana pancakes" = "วิธีทำแพนเค้กกล้วยหอม";
+"Do Math" = "ทำคณิตศาสตร์";
+"Solve this math problem: 3^(9)÷3^(2)" = "แก้ไขปัญหาคณิตศาสตร์นี้: 3^(9)÷3^(2) ";
+//
+"Ask Anything" = "ถามอะไรก็ได้";
+"Ask me grade 12 math questions" = "ถามคำถามคณิตศาสตร์ชั้น 12 กับฉัน";
+"Ask me questions as a job interviewer" = "ถามฉันเป็นคำถามเหมือนนักสัมภาษณ์งาน";
+"Tell me a joke about a kangaroo" = "บอกฉันเรื่องตลกเกี่ยวกับจังหวัด";
+"Write an essay about Global Warming. Maximum 200 words." = "เขียนเรียงความเกี่ยวกับการโลกร้อน ไม่เกิน 200 คำ";
+"Business" = "ธุรกิจ";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "สร้างชื่อแบรนด์ 10 ชื่อที่แตกต่างกันสำหรับ บริษัทของฉันซึ่งจะขายรองเท้าผู้หญิงบนอินเทอร์เน็ต ฉันต้องการชื่อแบรนด์ที่ทันสมัย กลุ่มเป้าหมายของฉันคือผู้หญิงที่อายุต่ำกว่า 30 ปี ตรวจสอบให้แน่ใจว่าโดเมน .com พร้อมใช้งานบนอินเทอร์เน็ต";
+"Ask for help" = "ขอความช่วยเหลือ";
+"What's the best marketing channel for second-hand electronics in America?" = "ช่องทางการตลาดที่ดีที่สุดสำหรับอิเล็กทรอนิกส์มือสองในประเทศไทยคืออะไร?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "ถึงขีดจำกัดวันละครั้งแล้ว สมัครสมาชิกเพื่อรับคำตอบได้ไม่จำกัด";
+"Please try again later" = "โปรดลองอีกครั้งในภายหลัง";
+"Copied" = "คัดลอกแล้ว";
+"Speak your mind to Leo" = "พูดความคิดของคุณกับ Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "การตั้งค่านี้สามารถถูกไว้วางใจบนหน้าจอแชทโดยแตะไอคอนเสียง";
+"Spoken Responses" = "การตอบสนองทางเสียง";
+//
+"Share" = "แชร์";
+
+"Error" = "ข้อผิดพลาด";
+"Camera access is denied." = "การเข้าถึงกล้องถูกปฏิเสธ";
+"Photo Library access is denied." = "การเข้าถึงห้องสมุดภาพถูกปฏิเสธ";
+"Cancel" = "ยกเลิก";
+"Settings" = "การตั้งค่า";
+"Choose image" = "เลือกรูปภาพ";
+"Camera" = "แกนกล้อง";
+"Gallery" = "ห้องรวมภาพ";
+"What is this image about?" = "ภาพนี้เกี่ยวกับอะไรหรือ?";
+"Write an Instagram caption for this image." = "เขียนแคปชั่น Instagram สำหรับภาพนี้";
+"PDF/Document Summary (Coming Soon)" = "สรุป PDF/เอกสาร (เร็ว ๆ นี้)";
+"Summarise picture" = "สรุปภาพในบางค";
+"Upload a photo" = "อัพโหลดรูปภาพ";
+"No connection" = "ไม่มีการเชื่อมต่อ";
+"We couldn't connect to the internet. Please check network settings and try again." = "เราไม่สามารถเชื่อมต่ออินเทอร์เน็ตได้ โปรดตรวจสอบการตั้งค่าเครือข่ายและลองอีกครั้ง";

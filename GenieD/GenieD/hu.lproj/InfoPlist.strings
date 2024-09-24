@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GenieD
+
+  Created by OK on 12.04.2023.
+  
+*/
+
+NSCameraUsageDescription = "Szükségünk van a kamera eléréséhez, hogy fényképeket és videókat készítsünk.";
+NSPhotoLibraryUsageDescription = "Ez lehetővé teszi számodra, hogy simán importáld a képeket a csevegéseidbe.";

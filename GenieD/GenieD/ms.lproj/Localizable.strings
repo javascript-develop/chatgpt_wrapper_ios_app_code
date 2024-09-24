@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Berbual dengan Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Selamat datang ke Leo, pembantu AI peribadi anda yang tersedia 24/7 untuk membantu dengan sebarang tugas, soalan, atau perbualan. Biarkan kami tunjukkan kepada anda betapa mudah dan menyeronokkan menggunakan Leo untuk kerja, kehidupan peribadi, atau sekadar perbualan yang menyeronokkan.";
+"Leo Pro Tips" = "Petua Pro Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Gunakan bahasa semulajadi: Leo direka untuk memahami bahasa semulajadi, jadi jangan takut untuk bertanya soalan dan bercakap dengan nada perbualan. Cuba pelbagai arahan: Leo boleh melakukan banyak perkara selain menjawab soalan, jadi cuba pelbagai arahan untuk melihat apa yang boleh dilakukan. Teruskan perbualan: Leo sentiasa sedia untuk berbual, jadi teruskan perbualan dan lihat ke mana ia membawa anda.";
+"Enable Notifications" = "Aktifkan Pemberitahuan";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Aktifkan pemberitahuan untuk memastikan anda sentiasa terkini dan tidak terlepas sebarang maklumat penting.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Dengan meneruskan, anda bersetuju dengan <BUTTON><PRIVACY>Polisi Privasi<BUTTON> dan <BUTTON><TERMS>Syarat Penggunaan<BUTTON> kami.";
+"Continue" = "Teruskan";
+
+//Home
+"Ask anything" = "Tanya apa-apa sahaja";
+"Get instant answers. Start asking now!" = "Dapatkan jawapan segera. Mulakan bertanya sekarang!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Dapatkan jawapan dengan pembantu peribadi anda, Leo";
+"Start" = "Mula";
+"Try Leo 3 days for free. Tap to activate premium." = "Cuba Leo selama 3 hari secara percuma. Ketik untuk mengaktifkan premium.";
+"Tap below to start" = "Ketik di bawah untuk memulakan";
+
+//Side menu
+"Questions" = "Soalan";
+"My Chats" = "Perbualan Saya";
+"History" = "Sejarah";
+"Get chatting now! Start your conversation with Leo today." = "Mula berbual sekarang! Mulakan perbualan anda dengan Leo hari ini.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Bahasa";
+"Your Plan" = "Pelan anda";
+"Voice" = "Suara";
+"Support" = "Sokongan";
+"Restore Purchases" = "Pulihkan Pembelian";
+"About" = "Mengenai";
+"Rate Us" = "Beri Nilai Kami";
+"Share with Friends" = "Kongsi dengan Rakan-rakan";
+"Restored Successfully" = "Berjaya Dipulihkan";
+"Terms of Use" = "Terma Penggunaan";
+"Privacy Policy" = "Dasar Privasi";
+
+//Paywall
+"Lite" = "Ringan";
+"Pro" = "Pro";
+"Premium" = "Prima";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Cara Terpantas untuk Berbual, Tanpa Batasan.";
+"Unlock endless knowledge with Leo." = "Buka kunci pengetahuan tanpa had dengan Leo.";
+"Ask smarter, live better with Leo." = "Tanya lebih pintar, hidup lebih baik dengan Leo.";
+"Features" = "Ciri-ciri";
+"Limited Questions and Answers" = "Soalan dan Jawapan Terhad";
+"Most Advanced AI Model" = "Model AI Terkemuka";
+"Higher Word Limit" = "Had Keluasan Kata";
+"Unlimited Questions & Answers" = "Soalan dan Jawapan Tanpa Had";
+"Dialogs (AI remembers chat history)" = "Dialog (AI mengingati sejarah perbualan)";
+"Back" = "Kembali";
+"Skip" = "Langkau";
+"Your Current Plan" = "Pelan Semasa Anda";
+"Try 3 Days for Free" = "Cuba 3 Hari secara Percuma";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> seminggu.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> setahun.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Percubaan percuma selama 3 hari, kemudian <PRICE_WITH_CURRENCY> seminggu.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Percubaan percuma selama 3 hari, kemudian <PRICE_WITH_CURRENCY> setahun.";
+"Secured with iTunes. Cancel anytime" = "Dilindungi dengan iTunes. Batal pada bila-bila masa.";
+//
+"Subscription purchased" = "Langganan dibeliy";
+"Nothing to Restore" = "Tiada apa-apa yang boleh dipulihkan";
+"Restore failed" = "Gagal mengembalikan";
+"Unknown error. Please contact support" = "Ralat tidak diketahui. Sila hubungi sokongan";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Maaf, pembelian tidak tersedia disebabkan alasan yang tidak diketahui. Sila cuba lagi nanti";
+"The purchase cannot be completed. Please, change your account or device" = "Pembelian tidak dapat dilengkapkan. Sila tukar akaun atau peranti anda.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Pembelian anda ditolak. Sila semak butiran pembayaran dan pastikan terdapat dana yang mencukupi dalam akaun anda.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Pembelian tidak tersedia untuk kaedah pembayaran yang dipilih. Pastikan kaedah pembayaran anda membolehkan anda membuat pembelian dalam talian.";
+"This product is not available in your region. Please, change the store and try again" = "Produk ini tidak tersedia di kawasan anda. Sila, tukar kedai dan cuba lagi.";
+"Access to cloud service information is not allowed" = "Akses ke maklumat perkhidmatan awan tidak dibenarkan";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Pembelian tidak dapat dilakukan kerana peranti anda tidak disambungkan ke Internet. Sila cuba lagi nanti dengan sambungan internet yang stabil.";
+"Sorry, an error has occurred" = "Maaf, terdapat ralat";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Pembelian tidak dapat diselesaikan kerana anda tidak menerima terma penggunaan AppStore. Sila sahkan persetujuan anda dalam tetapan dan kemudian kembali ke pembelian.";
+"An error has occurred. Please, try again later" = "Terdapat ralat. Sila cuba lagi nanti.";
+"The promotional offer is invalid or expired" = "Tawaran promosi tidak sah atau telah luput";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Maaf, terdapat ralat semasa mengaplikasi kod promosi. Sila cuba lagi nanti.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Maaf, ralat telah berlaku semasa mengaplikasikan tawaran promosi. Sila cuba lagi nanti.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Maaf, pembelian anda tidak dapat diselesaikan. Sila cuba lagi nanti.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Masih ada <numberofquestions> soalan yang tinggal dalam pakej percuma mingguan anda. Naik taraf untuk soalan tanpa had.";
+"Upgrade to unlimited" = "Naik taraf ke tanpa had";
+"Upgrade" = "Naik taraf";
+
+//Chat
+"Are you sure you want start a new chat?" = "Adakah anda pasti mahu memulakan perbualan baru?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Meneruskan akan memulakan perbualan baru dan anda masih boleh mengakses perbualan ini daripada sejarah perbualan.";
+"No" = "Tidak";
+"Yes" = "Ya";
+"Are you sure you want to delete?" = "Adakah anda pasti mahu memadam?";
+"By proceeding, you'll lose access to this chat." = "Dengan meneruskan, anda akan kehilangan akses ke perbualan ini.";
+"Give this one more chance." = "Beri ini satu peluang lagi";
+"Your answer will be more detailed this time!" = "Jawapan anda akan lebih terperinci kali ini!";
+"Try Again" = "Cuba Lagi";
+"Are you not satisfied?" = "Tidak berpuas hati?";
+"Ask new question" = "Tanyakan soalan baru";
+//
+"Explain" = "Terangkan";
+"Explain Bitcoin" = "Terangkan Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Bagaimana internet berfungsi, terangkan seakan-akan anda berusia 5 tahun";
+"Write & Edit" = "Tulis & Edit";
+"Write a tweet about global warming" = "Tulis tweet tentang pemanasan global";
+"Write a poem about flowers and love" = "Tulis puisi tentang bunga dan cinta";
+"Write a rap song lyrics about being smart" = "Tulis lirik lagu rap tentang menjadi bijak";
+"Translate" = "Terjemahkan";
+"Write a tweet about global warming in Korean" = "Tulis tweet tentang pemanasan global dalam bahasa Korea";
+"Write an email" = "Tulis e-mel";
+"Write an email to decline the offer but request a discount." = "Tulis e-mel untuk menolak tawaran tetapi meminta diskaun.";
+"Get recipes" = "Dapatkan resipi makanan";
+"How to make banana pancakes" = "Cara membuat pancake pisang";
+"Do Math" = "Buat matematik";
+"Solve this math problem: 3^(9)÷3^(2)" = "Selesaikan masalah matematik ini: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Tanya Apa-Apa Saja";
+"Ask me grade 12 math questions" = "Tanyakan saya soalan matematik Tingkatan 12";
+"Ask me questions as a job interviewer" = "Tanyakan saya soalan sebagai pewawancara kerja";
+"Tell me a joke about a kangaroo" = "Ceritakan jenaka tentang kanggaru";
+"Write an essay about Global Warming. Maximum 200 words." = "Tulis esei tentang pemanasan global. Maksimum 200 patah perkataan.";
+"Business" = "Perniagaan";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Cipta 10 nama jenama yang berbeza untuk syarikat saya yang akan menjual kasut wanita di internet. Saya mahukan nama jenama moden. Sasaran audiens saya adalah wanita di bawah umur 30 tahun. Pastikan domain .com tersedia di internet.";
+"Ask for help" = "Minta bantuan";
+"What's the best marketing channel for second-hand electronics in America?" = "Apakah saluran pemasaran terbaik untuk elektronik terpakai di Malaysia?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Had harian dicapai. Langgan untuk jawapan tanpa had.";
+"Please try again later" = "Sila cuba lagi nanti";
+"Copied" = "Disalin";
+"Speak your mind to Leo" = "Luahkan fikiran anda kepada Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Tetapan ini boleh diganti pada skrin berbual dengan mengetuk ikon bunyi.";
+"Spoken Responses" = "Jawapan Lisan";
+//
+"Share" = "Kongsi";
+
+"Error" = "Ralat";
+"Camera access is denied." = "Akses kamera ditolak.";
+"Photo Library access is denied." = "Akses ke Perpustakaan Foto telah ditolak.";
+"Cancel" = "Batal";
+"Settings" = "Tetapan";
+"Choose image" = "Pilih imej";
+"Camera" = "Kamera";
+"Gallery" = "Galeri";
+"What is this image about?" = "Apakah gambar ini tentang?";
+"Write an Instagram caption for this image." = "Tulis kapsyen Instagram untuk gambar ini.";
+"PDF/Document Summary (Coming Soon)" = "Ringkasan PDF/Dokumen (Segera hadir)";
+"Summarise picture" = "Ringkaskan gambar dalam beberapa perkataan";
+"Upload a photo" = "Muat naik gambar";
+"No connection" = "Tiada sambungan";
+"We couldn't connect to the internet. Please check network settings and try again." = "Kami tidak dapat menyambung ke internet. Sila periksa tetapan rangkaian dan cuba lagi.";

@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Discuter avec Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Bienvenue sur Leo, votre assistant personnel d'IA disponible 24h/24 et 7j/7 pour vous aider dans toutes vos tâches, questions ou conversations. Laissez-nous vous montrer à quel point il est facile et agréable d'utiliser Leo pour le travail, la vie personnelle ou juste pour discuter.";
+"Leo Pro Tips" = "Conseils professionnels Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Utilisez un langage naturel : Leo est conçu pour comprendre le langage naturel, alors n'hésitez pas à poser des questions et à parler d'une manière conversationnelle. Essayez différentes commandes : Leo peut faire bien plus que simplement répondre aux questions, alors essayez différentes commandes pour voir ce qu'il peut faire. Maintenez la conversation : Leo est toujours prêt à discuter, alors continuez la conversation et voyez où elle vous mène.";
+"Enable Notifications" = "Activer les notifications";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Activez les notifications pour rester à jour et ne jamais manquer d'informations importantes.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "En continuant, vous acceptez notre <BUTTON><PRIVACY>Politique de confidentialité<BUTTON> et nos <BUTTON><TERMS>Conditions d'utilisation<BUTTON>.";
+"Continue" = "Continuer";
+
+//Home
+"Ask anything" = "Posez toutes les questions que vous voulez";
+"Get instant answers. Start asking now!" = "Obtenez des réponses instantanées. Posez des questions maintenant !";
+"Dialog" = "Dialogue";
+"Get answers with your personal assistant, Leo" = "Obtenez des réponses avec votre assistant personnel, Leo";
+"Start" = "Démarrer";
+"Try Leo 3 days for free. Tap to activate premium." = "Essayez Leo gratuitement pendant 3 jours. Appuyez pour activer le premium.";
+"Tap below to start" = "Appuyez ci-dessous pour commencer";
+
+//Side menu
+"Questions" = "Questions";
+"My Chats" = "Mes Chats";
+"History" = "Historique";
+"Get chatting now! Start your conversation with Leo today." = "Commencez à discuter maintenant ! Lancez votre conversation avec Leo dès aujourd'hui.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Langue";
+"Your Plan" = "Votre Plan";
+"Voice" = "Voix";
+"Support" = "Assistance";
+"Restore Purchases" = "Restaurer les achats";
+"About" = "À propos de nous";
+"Rate Us" = "Nous noter";
+"Share with Friends" = "Partager avec des amis";
+"Restored Successfully" = "Restauré avec succès.";
+"Terms of Use" = "Conditions d’utilisation";
+"Privacy Policy" = "Politique de confidentialité";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo : la façon la plus intelligente de discuter, point final.";
+"Unlock endless knowledge with Leo." = "Débloquez une connaissance infinie avec Leo.";
+"Ask smarter, live better with Leo." = "Posez des questions plus intelligentes, vivez mieux avec Leo.";
+"Features" = "Fonctionnalités";
+"Limited Questions and Answers" = "Nombre limité de questions et réponses";
+"Most Advanced AI Model" = "Le modèle d’IA le plus avancé";
+"Higher Word Limit" = "Limite de mots supérieure";
+"Unlimited Questions & Answers" = "Questions et réponses illimitées";
+"Dialogs (AI remembers chat history)" = "Dialogues (l'IA se souvient de l'historique de chat)";
+"Back" = "Retour";
+"Skip" = "Passer";
+"Your Current Plan" = "Votre Plan actuel";
+"Try 3 Days for Free" = "Essayez gratuitement pendant 3 jours";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> par semaine";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> par année";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 jours d'essai gratuit, puis <PRICE_WITH_CURRENCY> par semaine";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 jours d'essai gratuit, puis <PRICE_WITH_CURRENCY> par année";
+"Secured with iTunes. Cancel anytime" = "Sécurisé avec iTunes. Annulez à tout moment.";
+//
+"Subscription purchased" = "Abonnement acheté";
+"Nothing to Restore" = "Rien à restaurer";
+"Restore failed" = "Échec de la restauration";
+"Unknown error. Please contact support" = "Erreur inconnue. Veuillez contacter le support";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Désolé, l'achat n'est pas disponible pour une raison inconnue. Veuillez réessayer plus tard.";
+"The purchase cannot be completed. Please, change your account or device" = "L'achat ne peut être complété. Veuillez changer votre compte ou appareil.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Votre achat a été refusé. Veuillez vérifier les détails de paiement et vous assurer que vous avez suffisamment de fonds.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "L'achat n'est pas disponible pour le mode de paiement sélectionné. Assurez-vous que votre mode de paiement vous permet de faire des achats en ligne.";
+"This product is not available in your region. Please, change the store and try again" = "Ce produit n'est pas disponible dans votre région. Veuillez changer de magasin et réessayer.";
+"Access to cloud service information is not allowed" = "L'accès aux informations du service de cloud n'est pas autorisé";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "L'achat ne peut pas être complété car votre appareil n'est pas connecté à Internet. Veuillez réessayer plus tard avec une connexion Internet stable.";
+"Sorry, an error has occurred" = "Désolé, une erreur s'est produite";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "L'achat ne peut pas être effectué car vous n'avez pas accepté les conditions d'utilisation de l'AppStore. Veuillez confirmer votre consentement dans les paramètres, puis revenir à l'achat.";
+"An error has occurred. Please, try again later" = "Une erreur s'est produite. Veuillez réessayer plus tard.";
+"The promotional offer is invalid or expired" = "L'offre promotionnelle est invalide ou expirée";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Désolé, une erreur s'est produite lors de l'application du code promotionnel. Veuillez réessayer plus tard.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Désolé, une erreur s'est produite lors de l'application de l'offre promotionnelle. Veuillez réessayer plus tard";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Désolé, votre achat ne peut être complété. Veuillez réessayer plus tard.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Il vous reste <numberofquestions> questions dans votre forfait gratuit hebdomadaire. Passez à un forfait illimité pour continuer.";
+"Upgrade to unlimited" = "Passez à un forfait illimité";
+"Upgrade" = "Mise à niveau";
+
+//Chat
+"Are you sure you want start a new chat?" = "Êtes-vous sûr de vouloir démarrer une nouvelle discussion ?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "La poursuite démarrera une nouvelle discussion et vous pourrez toujours accéder à cette discussion depuis l'historique des discussions.";
+"No" = "Non";
+"Yes" = "Oui";
+"Are you sure you want to delete?" = "Êtes-vous sûr de vouloir supprimer?";
+"By proceeding, you'll lose access to this chat." = "En continuant, vous perdrez l'accès à cette conversation.";
+"Give this one more chance." = "Donnez une autre chance à celui-ci";
+"Your answer will be more detailed this time!" = "Votre réponse sera plus détaillée cette fois-ci !";
+"Try Again" = "Réessayer";
+"Are you not satisfied?" = "N'êtes-vous pas satisfait?";
+"Ask new question" = "Poser une nouvelle question";
+//
+"Explain" = "Expliquer";
+"Explain Bitcoin" = "Expliquer Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Comment fonctionne Internet, expliqué comme si tu avais 5 ans";
+"Write & Edit" = "Écrire et modifier";
+"Write a tweet about global warming" = "Écrivez un tweet sur le réchauffement climatique";
+"Write a poem about flowers and love" = "Écrivez un poème sur les fleurs et l'amour";
+"Write a rap song lyrics about being smart" = "Écrivez les paroles d'une chanson de rap sur le fait d'être intelligent";
+"Translate" = "Traduire";
+"Write a tweet about global warming in Korean" = "Écris-moi un tweet sur le réchauffement climatique en coréen";
+"Write an email" = "Écrivez un e-mail";
+"Write an email to decline the offer but request a discount." = "Écrivez un e-mail pour refuser l'offre mais demander une réduction.";
+"Get recipes" = "Obtenir des recettes de cuisine";
+"How to make banana pancakes" = "Comment faire des crêpes à la banane";
+"Do Math" = "Faire des mathématiques";
+"Solve this math problem: 3^(9)÷3^(2)" = "Résolvez ce problème de mathématiques : 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Posez des questions sur tout";
+"Ask me grade 12 math questions" = "Posez-moi des questions de mathématiques de 12e année";
+"Ask me questions as a job interviewer" = "Posez-moi des questions comme un recruteur";
+"Tell me a joke about a kangaroo" = "Dis-moi une blague sur un kangourou";
+"Write an essay about Global Warming. Maximum 200 words." = "Écrivez un essai sur le réchauffement climatique. Maximum 200 mots.";
+"Business" = "Affaires";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Générez 10 noms de marque différents pour mon entreprise qui vendra des chaussures pour femmes sur internet. Je veux un nom de marque moderne. Mon public cible est les femmes de moins de 30 ans. Assurez-vous que le domaine .com est disponible sur internet.";
+"Ask for help" = "Demander de l'aide";
+"What's the best marketing channel for second-hand electronics in America?" = "Quel est le meilleur canal de marketing pour l'électronique d'occasion au Canada?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Limite quotidienne atteinte. Abonnez-vous pour des réponses illimitées.";
+"Please try again later" = "Veuillez réessayer plus tard";
+"Copied" = "Copié";
+"Speak your mind to Leo" = "Exprimez-vous auprès de Leo.";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Ce paramètre peut être remplacé sur l'écran de discussion en appuyant sur l'icône du son.";
+"Spoken Responses" = "Réponses parlées";
+//
+"Share" = "Partager";
+
+"Error" = "Erreur";
+"Camera access is denied." = "L'accès à l'appareil photo est refusé.";
+"Photo Library access is denied." = "L'accès à la bibliothèque de photos est refusé.";
+"Cancel" = "Annuler";
+"Settings" = "Paramètres";
+"Choose image" = "Choisissez une image";
+"Camera" = "Caméra";
+"Gallery" = "Galerie";
+"What is this image about?" = "De quoi parle cette image?";
+"Write an Instagram caption for this image." = "Écrivez une légende Instagram pour cette image.";
+"PDF/Document Summary (Coming Soon)" = "Résumé PDF/Document (Bientôt disponible)";
+"Summarise picture" = "Résumé l'image en quelques mots";
+"Upload a photo" = "Téléchargez une photo";
+"No connection" = "Pas de connexion";
+"We couldn't connect to the internet. Please check network settings and try again." = "Nous n'avons pas pu nous connecter à Internet. Veuillez vérifier les paramètres du réseau et réessayer.";

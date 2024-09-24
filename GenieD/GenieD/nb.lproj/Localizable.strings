@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Chat med Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Velkommen til Leo, din personlige AI-assistent tilgjengelig 24/7 for å hjelpe med enhver oppgave, spørsmål eller samtale. La oss vise deg hvor enkelt og hyggelig det er å bruke Leo for arbeid, personlige liv eller bare en hyggelig prat.";
+"Leo Pro Tips" = "Leo Pro Tips";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Bruk naturlig språk: Leo er designet for å forstå naturlig språk, så ikke vær redd for å stille spørsmål og snakke i en samtale-tone. Prøv ut forskjellige kommandoer: Leo kan gjøre mye mer enn bare å svare på spørsmål, så prøv ut forskjellige kommandoer for å se hva den kan gjøre. Hold samtalen i gang: Leo er alltid klar for en prat, så hold samtalen i gang og se hvor den tar deg.";
+"Enable Notifications" = "Aktiver varsler";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Aktiver varsler for å sørge for at du holder deg oppdatert og aldri går glipp av viktig informasjon.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Ved å fortsette, samtykker du til vår <BUTTON><PRIVACY>Personvernpolicy<BUTTON> og <BUTTON><TERMS>Vilkår for bruk<BUTTON>.";
+"Continue" = "Fortsett";
+
+//Home
+"Ask anything" = "Spør om hva som helst";
+"Get instant answers. Start asking now!" = "Få øyeblikkelige svar. Begynn å spørre nå!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Få svar med din personlige assistent, Leo.";
+"Start" = "Start";
+"Try Leo 3 days for free. Tap to activate premium." = "Prøv Leo gratis i 3 dager. Trykk for å aktivere premium.";
+"Tap below to start" = "Trykk nedenfor for å starte";
+
+//Side menu
+"Questions" = "Spørsmål";
+"My Chats" = "Mine Chats";
+"History" = "Historie";
+"Get chatting now! Start your conversation with Leo today." = "Kom i gang med chatting nå! Start samtalen med Leo i dag.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Språk";
+"Your Plan" = "Din plan";
+"Voice" = "Stemme";
+"Support" = "Støtte";
+"Restore Purchases" = "Gjenopprett kjøp";
+"About" = "Om";
+"Rate Us" = "Vurder oss";
+"Share with Friends" = "Del med venner";
+"Restored Successfully" = "Gjenopprettet vellykket";
+"Terms of Use" = "Bruksvilkår";
+"Privacy Policy" = "Personvernpolicy";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Den smarteste måten å chatte på, punktum.";
+"Unlock endless knowledge with Leo." = "Få tilgang til ubegrenset kunnskap med Leo.";
+"Ask smarter, live better with Leo." = "Still smartere spørsmål, lev bedre med Leo.";
+"Features" = "Egenskaper";
+"Limited Questions and Answers" = "Begrensede spørsmål og svar";
+"Most Advanced AI Model" = "Mest avanserte AI-modell";
+"Higher Word Limit" = "Høyere ordgrense";
+"Unlimited Questions & Answers" = "Ubegrensede spørsmål og svar";
+"Dialogs (AI remembers chat history)" = "Dialoger (AI husker chatthistorikk)";
+"Back" = "Tilbake";
+"Skip" = "Hopp over";
+"Your Current Plan" = "Din nåværende plan";
+"Try 3 Days for Free" = "Prøv 3 dager gratis";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> per uke.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> per år.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 dagers gratis prøveperiode, deretter <PRICE_WITH_CURRENCY> per uke.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 dagers gratis prøveperiode, deretter <PRICE_WITH_CURRENCY> per år.";
+"Secured with iTunes. Cancel anytime" = "Sikret med iTunes. Avbryt når som helst";
+//
+"Subscription purchased" = "Abonnement kjøpt";
+"Nothing to Restore" = "Ingenting å gjenopprette";
+"Restore failed" = "Gjenoppretting mislyktes";
+"Unknown error. Please contact support" = "Ukjent feil. Kontakt støtte";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Beklager, kjøpet er utilgjengelig av ukjente årsaker. Prøv igjen senere.";
+"The purchase cannot be completed. Please, change your account or device" = "Kjøpet kan ikke fullføres. Vennligst endre kontoen eller enheten din.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Ditt kjøp ble avvist. Vennligst sjekk betalingsdetaljer og sørg for at det er nok midler på kontoen din.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Kjøpet er ikke tilgjengelig for valgt betalingsmåte. Sørg for at betalingsmetoden din tillater deg å gjøre online kjøp.";
+"This product is not available in your region. Please, change the store and try again" = "Dette produktet er ikke tilgjengelig i din region. Vennligst bytt butikk og prøv igjen.";
+"Access to cloud service information is not allowed" = "Tilgang til skytjenesteinformasjon er ikke tillatt";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Kjøpet kan ikke fullføres fordi enheten din ikke er koblet til Internett. Prøv igjen senere med en stabil internettforbindelse.";
+"Sorry, an error has occurred" = "Beklager, en feil har oppstått";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Kjøpet kan ikke fullføres fordi du ikke har akseptert bruksvilkårene for AppStore. Bekreft samtykke i innstillingene og gå deretter tilbake til kjøpet.";
+"An error has occurred. Please, try again later" = "En feil har oppstått. Vennligst prøv igjen senere.";
+"The promotional offer is invalid or expired" = "Det promoterte tilbudet er ugyldig eller utløpt";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Beklager, det har oppstått en feil ved påføring av kampanjekoden. Vennligst prøv igjen senere.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Beklager, det har oppstått en feil ved bruk av kampanjetilbudet. Vennligst prøv igjen senere.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Beklager, kjøpet ditt kan ikke fullføres. Vennligst prøv igjen senere.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Du har <numberofquestions> spørsmål igjen i den ukentlige gratispakken din. Oppgrader for ubegrensede spørsmål.";
+"Upgrade to unlimited" = "Oppgrader til ubegrenset";
+"Upgrade" = "Oppgradering";
+
+//Chat
+"Are you sure you want start a new chat?" = "Er du sikker på at du vil starte en ny chat?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Fortsettelse vil starte en ny chat, og du kan fortsatt få tilgang til denne chatten fra chathistorikken.";
+"No" = "Nei";
+"Yes" = "Ja";
+"Are you sure you want to delete?" = "Er du sikker på at du vil slette?";
+"By proceeding, you'll lose access to this chat." = "Hvis du fortsetter, mister du tilgangen til denne chatten.";
+"Give this one more chance." = "Gi dette en sjanse til";
+"Your answer will be more detailed this time!" = "Svaret ditt vil være mer detaljert denne gangen!";
+"Try Again" = "Prøv igjen";
+"Are you not satisfied?" = "Er du ikke fornøyd?";
+"Ask new question" = "Still et nytt spørsmål";
+//
+"Explain" = "Forklare";
+"Explain Bitcoin" = "Forklar Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Hvordan fungerer internett, forklart som om du var 5 år";
+"Write & Edit" = "Skrive og redigere";
+"Write a tweet about global warming" = "Skriv en tweet om global oppvarming";
+"Write a poem about flowers and love" = "Skriv et dikt om blomster og kjærlighet";
+"Write a rap song lyrics about being smart" = "Skriv rap sangtekster om å være smart";
+"Translate" = "Oversett";
+"Write a tweet about global warming in Korean" = "Skriv en tweet om global oppvarming på koreansk";
+"Write an email" = "Skriv en e-post";
+"Write an email to decline the offer but request a discount." = "Skriv en e-post for å avslå tilbudet, men be om en rabatt.";
+"Get recipes" = "Få oppskrifter på mat";
+"How to make banana pancakes" = "Hvordan lage bananpannekaker";
+"Do Math" = "Gjør matte";
+"Solve this math problem: 3^(9)÷3^(2)" = "Løs denne matteoppgaven: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Spør om hva som helst";
+"Ask me grade 12 math questions" = "Spør meg om matteoppgaver fra 12. klasse";
+"Ask me questions as a job interviewer" = "Spør meg spørsmål som en jobbintervjuer";
+"Tell me a joke about a kangaroo" = "Fortell meg en vits om en kenguru";
+"Write an essay about Global Warming. Maximum 200 words." = "Skriv en essay om global oppvarming. Maksimalt 200 ord.";
+"Business" = "Forretning";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Generer 10 forskjellige merkenavn for mitt firma som vil selge kvinners sko på internett. Jeg ønsker et moderne merkenavn. Målgruppen min er kvinner under 30 år. Sørg for at .com-domene er tilgjengelig på internett.";
+"Ask for help" = "Be om hjelp";
+"What's the best marketing channel for second-hand electronics in America?" = "Hva er den beste markedsføringskanalen for brukt elektronikk i Norge?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Daglig grense nådd. Abonner for ubegrensede svar.";
+"Please try again later" = "Vennligst prøv igjen senere";
+"Copied" = "Kopiert";
+"Speak your mind to Leo" = "Si hva du mener til Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Denne innstillingen kan overstyre på chat-skjermen ved å trykke på lydikonet.";
+"Spoken Responses" = "Talte svar";
+//
+"Share" = "Del";
+
+"Error" = "Feil";
+"Camera access is denied." = "Tilgang til kameraet er avvist.";
+"Photo Library access is denied." = "Tilgang til fotobiblioteket er avvist.";
+"Cancel" = "Avbryt";
+"Settings" = "Innstillinger";
+"Choose image" = "Velg et bilde";
+"Camera" = "Kamera";
+"Gallery" = "Galleri";
+"What is this image about?" = "Hva handler dette bildet om?";
+"Write an Instagram caption for this image." = "Skriv en Instagram-beskrivelse for dette bildet.";
+"PDF/Document Summary (Coming Soon)" = "PDF-/Dokumentsammendrag (Kommer snart)";
+"Summarise picture" = "Sammendrag bildet i noen få ord";
+"Upload a photo" = "Last opp et bilde";
+"No connection" = "Ingen forbindelse";
+"We couldn't connect to the internet. Please check network settings and try again." = "Vi klarte ikke å koble til Internett. Vennligst sjekk nettverksinnstillingene og prøv igjen.";

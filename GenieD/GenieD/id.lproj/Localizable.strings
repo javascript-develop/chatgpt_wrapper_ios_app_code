@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Obrol dengan Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Selamat datang di Leo, asisten AI pribadi Anda yang tersedia 24/7 untuk membantu dalam setiap tugas, pertanyaan, atau percakapan. Biarkan kami menunjukkan betapa mudah dan menyenangkan menggunakan Leo untuk pekerjaan, kehidupan pribadi, atau sekadar obrolan yang menyenangkan.";
+"Leo Pro Tips" = "Tips Pro Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Manfaatkan bahasa alami: Leo dirancang untuk memahami bahasa alami, jadi jangan takut untuk bertanya dan berbicara dengan nada percakapan. Coba perintah yang berbeda: Leo bisa melakukan lebih dari sekadar menjawab pertanyaan, jadi coba perintah yang berbeda untuk melihat apa yang bisa dilakukan. Terus pertahankan percakapan: Leo selalu siap untuk obrolan, jadi terus pertahankan percakapan dan lihat ke mana itu akan membawa Anda.";
+"Enable Notifications" = "Aktifkan Notifikasi";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Aktifkan notifikasi untuk memastikan Anda tetap terkini dan tidak melewatkan informasi penting.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Dengan melanjutkan, Anda menyetujui <BUTTON><PRIVACY>Kebijakan Privasi<BUTTON> dan <BUTTON><TERMS>Syarat Penggunaan<BUTTON> kami.";
+"Continue" = "Lanjutkan";
+
+//Home
+"Ask anything" = "Tanyakan apa saja";
+"Get instant answers. Start asking now!" = "Dapatkan jawaban instan. Mulai bertanya sekarang!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Dapatkan jawaban dengan asisten pribadi Anda, Leo";
+"Start" = "Mulai";
+"Try Leo 3 days for free. Tap to activate premium." = "Coba Leo 3 hari gratis. Ketuk untuk mengaktifkan premium.";
+"Tap below to start" = "Ketuk di bawah untuk memulai";
+
+//Side menu
+"Questions" = "Pertanyaan";
+"My Chats" = "Obrolan Saya";
+"History" = "Riwayat";
+"Get chatting now! Start your conversation with Leo today." = "Mulailah mengobrol sekarang! Mulai percakapan Anda dengan Leo hari ini.";
+
+//Settings
+"OK" = "Oke";
+"Language" = "Bahasa";
+"Your Plan" = "Rencana Anda";
+"Voice" = "Suara";
+"Support" = "Dukungan";
+"Restore Purchases" = "Pulihkan Pembelian";
+"About" = "Tentang";
+"Rate Us" = "Beri Nilai Kami";
+"Share with Friends" = "Bagikan dengan Teman";
+"Restored Successfully" = "Pemulihan berhasil";
+"Terms of Use" = "Persyaratan Penggunaan";
+"Privacy Policy" = "Kebijakan Privasi";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Cara Terpintar untuk Mengobrol, Periode.";
+"Unlock endless knowledge with Leo." = "Buka pengetahuan tak terbatas dengan Leo.";
+"Ask smarter, live better with Leo." = "Tanyakan dengan lebih cerdas, hiduplah lebih baik dengan Leo.";
+"Features" = "Fitur";
+"Limited Questions and Answers" = "Pertanyaan dan Jawaban Terbatas";
+"Most Advanced AI Model" = "Model AI Paling Maju";
+"Higher Word Limit" = "Batas Kata yang Lebih Tinggi";
+"Unlimited Questions & Answers" = "Pertanyaan & Jawaban Tanpa Batas";
+"Dialogs (AI remembers chat history)" = "Dialog (AI mengingat riwayat obrolan)";
+"Back" = "Kembali";
+"Skip" = "Lewati";
+"Your Current Plan" = "Rencana Anda saat Ini";
+"Try 3 Days for Free" = "Coba 3 Hari Gratis";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> per minggu.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> per tahun.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Percobaan gratis 3 hari, kemudian <PRICE_WITH_CURRENCY> per minggu.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Percobaan gratis 3 hari, kemudian <PRICE_WITH_CURRENCY> per tahun.";
+"Secured with iTunes. Cancel anytime" = "Aman dengan iTunes. Batal kapan saja.";
+//
+"Subscription purchased" = "Berlangganan telah dibeli";
+"Nothing to Restore" = "Tidak ada yang dapat dikembalikan";
+"Restore failed" = "Gagal memulihkan";
+"Unknown error. Please contact support" = "Kesalahan tidak diketahui. Harap hubungi dukungan";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Maaf, pembelian tidak tersedia karena alasan yang tidak diketahui. Silakan coba lagi nanti.";
+"The purchase cannot be completed. Please, change your account or device" = "Pembelian tidak dapat diselesaikan. Silakan ubah akun atau perangkat Anda.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Pembelian Anda ditolak. Silakan periksa detail pembayaran dan pastikan bahwa ada cukup dana di akun Anda.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Pembelian tidak tersedia untuk metode pembayaran yang dipilih. Pastikan metode pembayaran Anda memungkinkan Anda untuk melakukan pembelian online.";
+"This product is not available in your region. Please, change the store and try again" = "Produk ini tidak tersedia di wilayah Anda. Silakan ubah toko dan coba lagi.";
+"Access to cloud service information is not allowed" = "Akses informasi layanan awan tidak diizinkan";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Pembelian tidak dapat diselesaikan karena perangkat Anda tidak terhubung ke Internet. Silakan coba lagi nanti dengan koneksi internet yang stabil.";
+"Sorry, an error has occurred" = "Maaf, terjadi kesalahan";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Pembelian tidak dapat diselesaikan karena Anda belum menerima syarat penggunaan AppStore. Harap konfirmasi persetujuan Anda di pengaturan dan kembali ke pembelian.";
+"An error has occurred. Please, try again later" = "Terjadi kesalahan. Silakan coba lagi nanti.";
+"The promotional offer is invalid or expired" = "Penawaran promosi tidak valid atau sudah kedaluwarsa";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Maaf, terjadi kesalahan saat mengaplikasikan kode promo. Silakan coba lagi nanti.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Maaf, terjadi kesalahan saat menerapkan promo. Silakan coba lagi nanti.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Maaf, pembelian Anda tidak dapat diselesaikan. Silakan coba lagi nanti.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Masih ada <numberofquestions> pertanyaan tersisa di paket gratis mingguan Anda. Tingkatkan untuk pertanyaan tanpa batas.";
+"Upgrade to unlimited" = "Tingkatkan ke tanpa batas";
+"Upgrade" = "Peningkatan";
+
+//Chat
+"Are you sure you want start a new chat?" = "Apakah Anda yakin ingin memulai obrolan baru?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Melanjutkan akan memulai obrolan baru dan Anda masih dapat mengakses obrolan ini dari riwayat obrolan.";
+"No" = "Tidak";
+"Yes" = "Ya";
+"Are you sure you want to delete?" = "Apakah kamu yakin ingin menghapus?";
+"By proceeding, you'll lose access to this chat." = "Dengan melanjutkan, Anda akan kehilangan akses ke obrolan ini.";
+"Give this one more chance." = "Berikan satu kesempatan lagi";
+"Your answer will be more detailed this time!" = "Jawaban Anda akan lebih rinci kali ini!";
+"Try Again" = "Coba lagi";
+"Are you not satisfied?" = "Apakah kamu tidak puas?";
+"Ask new question" = "Ajukan pertanyaan baru";
+//
+"Explain" = "Jelaskan";
+"Explain Bitcoin" = "Jelaskan Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Bagaimana internet bekerja, jelaskan seolah-olah saya berusia 5 tahun";
+"Write & Edit" = "Menulis & Mengedit";
+"Write a tweet about global warming" = "Tulis tweet tentang pemanasan global";
+"Write a poem about flowers and love" = "Tulis puisi tentang bunga dan cinta";
+"Write a rap song lyrics about being smart" = "Tulis lirik lagu rap tentang menjadi pintar";
+"Translate" = "Terjemahkan";
+"Write a tweet about global warming in Korean" = "Tulis tweet tentang pemanasan global dalam bahasa Korea";
+"Write an email" = "Tulis email";
+"Write an email to decline the offer but request a discount." = "Tulis email untuk menolak tawaran tetapi meminta diskon.";
+"Get recipes" = "Dapatkan resep makanan";
+"How to make banana pancakes" = "Cara membuat pancake pisang";
+"Do Math" = "Kerjakan Matematika";
+"Solve this math problem: 3^(9)÷3^(2)" = "Selesaikan masalah matematika ini: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Tanyakan Apa Saja";
+"Ask me grade 12 math questions" = "Tanyakan pada saya soal matematika kelas 12";
+"Ask me questions as a job interviewer" = "Ajukan pertanyaan ke saya sebagai pewawancara pekerjaan";
+"Tell me a joke about a kangaroo" = "Ceritakan lelucon tentang kanguru";
+"Write an essay about Global Warming. Maximum 200 words." = "Tulis esai tentang pemanasan global. Maksimal 200 kata.";
+"Business" = "Bisnis";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Buatlah 10 nama merek yang berbeda untuk perusahaan saya yang akan menjual sepatu wanita di internet. Saya ingin nama merek modern. Audiens target saya adalah wanita di bawah usia 30 tahun. Pastikan domain .com tersedia di internet.";
+"Ask for help" = "Minta bantuan";
+"What's the best marketing channel for second-hand electronics in America?" = "Apa saluran pemasaran terbaik untuk elektronik bekas di Indonesia?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Batas harian tercapai. Berlangganan untuk jawaban tanpa batas.";
+"Please try again later" = "Silakan coba lagi nanti";
+"Copied" = "Tersalin";
+"Speak your mind to Leo" = "Ungkapkan pikiran Anda kepada Le";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Pengaturan ini dapat diganti di layar obrolan dengan mengetuk ikon suara.";
+"Spoken Responses" = "Jawaban Terucap";
+//
+"Share" = "Bagikan";
+
+"Error" = "Kesalahan";
+"Camera access is denied." = "Akses kamera ditolak.";
+"Photo Library access is denied." = "Akses ke Perpustakaan Foto ditolak.";
+"Cancel" = "Batalkan";
+"Settings" = "Pengaturan";
+"Choose image" = "Pilih gambar";
+"Camera" = "Kamera";
+"Gallery" = "Galeri";
+"What is this image about?" = "Apa yang ada di gambar ini?";
+"Write an Instagram caption for this image." = "Tulis keterangan Instagram untuk gambar ini.";
+"PDF/Document Summary (Coming Soon)" = "Ringkasan PDF/Dokumen (Segera hadir)";
+"Summarise picture" = "Ringkaskan gambar dalam beberapa perkataan";
+"Upload a photo" = "Unggah foto";
+"No connection" = "Tidak ada koneksi";
+"We couldn't connect to the internet. Please check network settings and try again." = "Kami tidak dapat menyambung ke internet. Sila periksa tetapan rangkaian dan cuba lagi.";

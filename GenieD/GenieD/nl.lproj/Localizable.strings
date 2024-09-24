@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Chat met Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Welkom bij Leo, uw persoonlijke AI-assistent die 24/7 beschikbaar is om te helpen bij elke taak, vraag of gesprek. Laat ons u laten zien hoe gemakkelijk en plezierig het is om Leo te gebruiken voor werk, persoonlijk leven of gewoon voor een leuk gesprek.";
+"Leo Pro Tips" = "Leo Pro-tips";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Maak gebruik van natuurlijke taal: Leo is ontworpen om natuurlijke taal te begrijpen, dus wees niet bang om vragen te stellen en in een conversatietoon te spreken. Probeer verschillende commando's uit: Leo kan veel meer dan alleen vragen beantwoorden, dus probeer verschillende commando's uit om te zien wat het kan doen. Houd het gesprek gaande: Leo is altijd klaar om te chatten, dus houd het gesprek gaande en kijk waar het u brengt.";
+"Enable Notifications" = "Meldingen inschakelen";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Schakel meldingen in om ervoor te zorgen dat u up-to-date blijft en geen belangrijke informatie mist.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Door verder te gaan, gaat u akkoord met ons <BUTTON><PRIVACY>Privacybeleid<BUTTON> en <BUTTON><TERMS>Gebruiksvoorwaarden<BUTTON>.";
+"Continue" = "Doorgaan";
+
+//Home
+"Ask anything" = "Vraag wat dan ook";
+"Get instant answers. Start asking now!" = "Krijg direct antwoorden. Begin nu met vragen stellen!";
+"Dialog" = "Dialog";
+"Get answers with your personal assistant, Leo" = "Krijg antwoorden met uw persoonlijke assistent, Leo";
+"Start" = "Start";
+"Try Leo 3 days for free. Tap to activate premium." = "Probeer Leo 3 dagen gratis. Tik om premium te activeren.";
+"Tap below to start" = "Tik hieronder om te starten";
+
+//Side menu
+"Questions" = "Vragen";
+"My Chats" = "Mijn Chats";
+"History" = "Geschiedenis";
+"Get chatting now! Start your conversation with Leo today." = "Begin nu met chatten! Start vandaag nog uw gesprek met Leo.";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Taal";
+"Your Plan" = "Uw plan";
+"Voice" = "Stem";
+"Support" = "Ondersteuning";
+"Restore Purchases" = "Aankopen herstellen";
+"About" = "Over";
+"Rate Us" = "Beoordeel ons";
+"Share with Friends" = "Deel met vrienden";
+"Restored Successfully" = "Succesvol hersteld";
+"Terms of Use" = "Gebruiksvoorwaarden";
+"Privacy Policy" = "Privacybeleid";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: De slimste manier om te chatten, punt.";
+"Unlock endless knowledge with Leo." = "Ontgrendel eindeloze kennis met Leo.";
+"Ask smarter, live better with Leo." = "Vraag slimmer, leef beter met Leo.";
+"Features" = "Kenmerken";
+"Limited Questions and Answers" = "Beperkte vragen en antwoorden";
+"Most Advanced AI Model" = "Meest geavanceerde AI-model";
+"Higher Word Limit" = "Hoger woordlimiet";
+"Unlimited Questions & Answers" = "Onbeperkte vragen en antwoorden";
+"Dialogs (AI remembers chat history)" = "Dialogen (AI onthoudt chatgeschiedenis)";
+"Back" = "Terug";
+"Skip" = "Overslaan";
+"Your Current Plan" = "Uw huidige plan";
+"Try 3 Days for Free" = "Probeer 3 dagen gratis";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> per week. ";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> per jaar.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 dagen gratis proefperiode, daarna <PRICE_WITH_CURRENCY> per week. ";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 dagen gratis proefperiode, daarna <PRICE_WITH_CURRENCY> per jaar. ";
+"Secured with iTunes. Cancel anytime" = "Beveiligd met iTunes. Altijd annuleerbaar";
+//
+"Subscription purchased" = "Abonnement aangeschaft";
+"Nothing to Restore" = "Niets te herstellen";
+"Restore failed" = "Herstellen mislukt";
+"Unknown error. Please contact support" = "Onbekende fout. Neem contact op met de ondersteuning";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Sorry, de aankoop is niet beschikbaar om een onbekende reden. Probeer het later opnieuw";
+"The purchase cannot be completed. Please, change your account or device" = "De aankoop kan niet worden voltooid. Wijzig uw account of apparaat.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Uw aankoop is geweigerd. Controleer de betalingsgegevens en zorg ervoor dat er voldoende geld op uw account staat.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "De aankoop is niet beschikbaar voor de geselecteerde betaalmethode. Zorg ervoor dat uw betaalmethode online aankopen toestaat.";
+"This product is not available in your region. Please, change the store and try again" = "Dit product is niet beschikbaar in jouw regio. Verander de winkel en probeer opnieuw.";
+"Access to cloud service information is not allowed" = " Toegang tot cloudservice-informatie is niet toegestaan";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "De aankoop kan niet worden voltooid omdat uw apparaat niet is verbonden met internet. Probeer het later opnieuw met een stabiele internetverbinding.";
+"Sorry, an error has occurred" = "Sorry, er is een fout opgetreden";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "De aankoop kan niet worden voltooid omdat u de gebruiksvoorwaarden van de AppStore niet hebt geaccepteerd. Bevestig uw toestemming in de instellingen en ga vervolgens terug naar de aankoop";
+"An error has occurred. Please, try again later" = "Er is een fout opgetreden. Probeer het later opnieuw.";
+"The promotional offer is invalid or expired" = "De promotieaanbieding is ongeldig of verlopen";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Sorry, er is een fout opgetreden bij het toepassen van de promotiecode. Probeer het later opnieuw.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Sorry, er is een fout opgetreden bij het toepassen van de promotieaanbieding. Probeer het later opnieuw";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Sorry, uw aankoop kan niet worden voltooid. Probeer het later opnieuw.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Nog <numberofquestions> vragen over in uw wekelijkse gratis pakket. Upgrade voor onbeperkte vragen.";
+"Upgrade to unlimited" = "Upgrade naar onbeperkt";
+"Upgrade" = "Upgraden";
+
+//Chat
+"Are you sure you want start a new chat?" = "Weet u zeker dat u een nieuwe chat wilt starten?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Doorgaan zal een nieuwe chat starten en u kunt nog steeds toegang krijgen tot deze chat vanuit chatgeschiedenis.";
+"No" = "Nee";
+"Yes" = "Ja";
+"Are you sure you want to delete?" = "Weet u zeker dat u wilt verwijderen?";
+"By proceeding, you'll lose access to this chat." = "Door te gaan verliest u toegang tot deze chat.";
+"Give this one more chance." = "Geef dit nog een kans";
+"Your answer will be more detailed this time!" = "Je antwoord zal deze keer gedetailleerder zijn!";
+"Try Again" = "Probeer opnieuw";
+"Are you not satisfied?" = "Bent u niet tevreden?";
+"Ask new question" = "Stel een nieuwe vraag";
+//
+"Explain" = "Uitleggen";
+"Explain Bitcoin" = "Leg Bitcoin uit";
+"How does the internet work, explain like I am 5 years old" = "Hoe werkt het internet, leg uit alsof je 5 jaar bent";
+"Write & Edit" = "Schrijven en bewerken";
+"Write a tweet about global warming" = "Schrijf een tweet over de opwarming van de aarde";
+"Write a poem about flowers and love" = "Schrijf een gedicht over bloemen en liefde";
+"Write a rap song lyrics about being smart" = "Schrijf rap songteksten over slim zijn";
+"Translate" = "Vertaal";
+"Write a tweet about global warming in Korean" = "Schrijf een tweet over klimaatverandering in het Koreaans";
+"Write an email" = "Schrijf een e-mail";
+"Write an email to decline the offer but request a discount." = "Schrijf een e-mail om het aanbod af te wijzen, maar vraag om korting.";
+"Get recipes" = "Krijg recepten voor eten";
+"How to make banana pancakes" = "Hoe maak je bananenpannenkoeken";
+"Do Math" = "Reken uit";
+"Solve this math problem: 3^(9)÷3^(2)" = "Los dit wiskundige probleem op: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Vraag om alles";
+"Ask me grade 12 math questions" = "Vraag me wiskundevragen uit de 12e klas";
+"Ask me questions as a job interviewer" = "Stel mij vragen als een sollicitatiegesprek-interviewer";
+"Tell me a joke about a kangaroo" = "Vertel me een grap over een kangaroo";
+"Write an essay about Global Warming. Maximum 200 words." = "Schrijf een essay over de opwarming van de aarde. Maximaal 200 woorden.";
+"Business" = "Zaken";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Genereer 10 verschillende merknamen voor mijn bedrijf dat damesschoenen op internet verkoopt. Ik wil een moderne merknaam. Mijn doelgroep zijn vrouwen onder de 30 jaar. Zorg ervoor dat het .com-domein beschikbaar is op internet.";
+"Ask for help" = "Vraag om hulp";
+"What's the best marketing channel for second-hand electronics in America?" = "Wat is het beste marketingkanaal voor tweedehands elektronica in Nederland?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Dagelijks limiet bereikt. Abonneer voor onbeperkte antwoorden.";
+"Please try again later" = "Probeer het later opnieuw";
+"Copied" = "Gekopieerd";
+"Speak your mind to Leo" = "Spreek je gedachten uit tegen Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Deze instelling kan worden overschreven op het chatscherm door op het geluidsicoon te tikken.";
+"Spoken Responses" = "Gesproken antwoorden";
+//
+"Share" = "Delen";
+
+"Error" = "Fout";
+"Camera access is denied." = "Toegang tot de camera is geweigerd.";
+"Photo Library access is denied." = "Toegang tot fotobibliotheek is geweigerd.";
+"Cancel" = "Annuleren";
+"Settings" = "Instellingen";
+"Choose image" = "Kies een afbeelding";
+"Camera" = "Camera";
+"Gallery" = "Galerij";
+"What is this image about?" = "Waar gaat deze afbeelding over?";
+"Write an Instagram caption for this image." = "Schrijf een Instagram-onderschrift voor deze afbeelding.";
+"PDF/Document Summary (Coming Soon)" = "PDF/Document Samenvatting (Binnenkort beschikbaar)";
+"Summarise picture" = "Beschrijf de afbeelding in een paar woorden";
+"Upload a photo" = "Upload een foto";
+"No connection" = "Geen verbinding";
+"We couldn't connect to the internet. Please check network settings and try again." = "We konden niet verbinden met het internet. Controleer de netwerkinstellingen en probeer het opnieuw.";

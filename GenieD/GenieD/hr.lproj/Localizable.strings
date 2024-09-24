@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Razgovarajte s Leom";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Dobrodošli u Leo, vaš osobni asistent s umjetnom inteligencijom dostupan 24 sata dnevno, 7 dana u tjednu, kako bi vam pomogao sa zadatkom, pitanjem ili razgovorom. Dozvolite nam da vam pokažemo koliko je lako i zabavno koristiti Leo za posao, privatni život ili jednostavno za zabavni razgovor.";
+"Leo Pro Tips" = "Savjeti za Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Iskoristite prirodni jezik: Leo je dizajniran da razumije prirodni jezik, pa se ne bojte postavljati pitanja i govoriti u konverzacijskom tonu. Isprobajte različite naredbe: Leo može puno više odgovoriti na pitanja, pa isprobajte različite naredbe da vidite što sve može učiniti. Nastavite razgovor: Leo je uvijek spreman za razgovor, pa nastavite razgovor i vidite gdje vas to vodi.";
+"Enable Notifications" = "Omogućite obavijesti";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Omogućite obavijesti kako biste bili ažurirani i nikada ne propustili važne informacije.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Nastavkom prihvaćate našu <BUTTON><PRIVACY>Politiku privatnosti<BUTTON> i <BUTTON><TERMS>Uvjete korištenja<BUTTON>.";
+"Continue" = "Nastaviti";
+
+//Home
+"Ask anything" = "Pitaj bilo što";
+"Get instant answers. Start asking now!" = "Dobijte trenutne odgovore. Počnite pitati sada!";
+"Dialog" = "Dijalog";
+"Get answers with your personal assistant, Leo" = "Dobijte odgovore od svog osobnog asistenta, Chat Lea.";
+"Start" = "Početak";
+"Try Leo 3 days for free. Tap to activate premium." = "Isprobajte Leo 3 dana besplatno. Dodirnite za aktiviranje premiuma.";
+"Tap below to start" = "Dodirnite ispod za početak";
+
+//Side menu
+"Questions" = "Pitanja";
+"My Chats" = "Moji Razgovori";
+"History" = "Povijest";
+"Get chatting now! Start your conversation with Leo today." = "Započnite razgovor s Leom danas.";
+
+//Settings
+"OK" = "U redu";
+"Language" = "Jezik";
+"Your Plan" = "Vaš plan";
+"Voice" = "Glas";
+"Support" = "Podrška";
+"Restore Purchases" = "Obnovi kupnje";
+"About" = "O nama";
+"Rate Us" = "Ocijenite nas";
+"Share with Friends" = "Podijelite s prijateljima";
+"Restored Successfully" = "Uspješno obnovljeno.";
+"Terms of Use" = "Uvjeti korištenja";
+"Privacy Policy" = "Izjava o privatnosti";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Najpametniji način za razgovor, bez premca.";
+"Unlock endless knowledge with Leo." = "Otkrijte beskrajno znanje s Leom.";
+"Ask smarter, live better with Leo." = "Postavljajte pametnija pitanja, živite bolje s Leom.";
+"Features" = "Značajke";
+"Limited Questions and Answers" = "Ograničen broj pitanja i odgovora";
+"Most Advanced AI Model" = "Najnapredniji AI model";
+"Higher Word Limit" = "Viši limit riječi";
+"Unlimited Questions & Answers" = "Neograničen broj pitanja i odgovora";
+"Dialogs (AI remembers chat history)" = "Dijalozi (AI pamti povijest razgovora)";
+"Back" = "Nazad";
+"Skip" = "Preskočiti";
+"Your Current Plan" = "Vaš trenutni plan";
+"Try 3 Days for Free" = "Isprobajte 3 dana besplatno";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> tjedno.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> godišnje.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Besplatno isprobajte 3 dana, a zatim <PRICE_WITH_CURRENCY> tjedno.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Besplatno isprobajte 3 dana, a zatim <PRICE_WITH_CURRENCY> godišnje.";
+"Secured with iTunes. Cancel anytime" = "Osigurano putem iTunesa. Otkažite kad god želite";
+//
+"Subscription purchased" = "Pretplata kupljena";
+"Nothing to Restore" = "Ništa za vraćanje";
+"Restore failed" = "Neuspjelo vraćanje";
+"Unknown error. Please contact support" = "Nepoznata pogreška. Molimo kontaktirajte podršku";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Nažalost, kupnja nije dostupna iz nepoznatih razloga. Molimo pokušajte ponovo kasnije.";
+"The purchase cannot be completed. Please, change your account or device" = "Kupnja se ne može dovršiti. Molimo, promijenite svoj račun ili uređaj.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Vaša kupnja je odbijena. Molimo provjerite detalje plaćanja i provjerite ima li dovoljno sredstava na vašem računu.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Kupnja nije dostupna za odabrani način plaćanja. Provjerite da vaš način plaćanja omogućava online kupnju.";
+"This product is not available in your region. Please, change the store and try again" = "Ovaj proizvod nije dostupan u vašoj regiji. Molimo, promijenite trgovinu i pokušajte ponovno.";
+"Access to cloud service information is not allowed" = " Pristup informacijama o usluzi u oblaku nije dopušten";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Kupnja se ne može dovršiti jer vaš uređaj nije povezan na internet. Molimo vas da kasnije pokušate s stabilnom internetskom vezom.";
+"Sorry, an error has occurred" = "Žao nam je, došlo je do pogreške";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Kupnja se ne može dovršiti jer niste prihvatili uvjete korištenja AppStorea. Potvrdite svoj pristanak u postavkama, a zatim se vratite na kupnju";
+"An error has occurred. Please, try again later" = "Došlo je do pogreške. Molimo, pokušajte kasnije.";
+"The promotional offer is invalid or expired" = "Promotivna ponuda nije valjana ili je istekla";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Nažalost, došlo je do pogreške prilikom primjene promotivne šifre. Molimo pokušajte ponovno kasnije";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Nažalost, došlo je do pogreške pri primjeni promotivne ponude. Molimo pokušajte ponovno kasnije";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Žao nam je, vaša kupnja ne može biti dovršena. Molimo pokušajte ponovo kasnije.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Preostala su <numberofquestions> pitanja u vašem tjednom besplatnom paketu. Nadogradite za neograničena pitanja.";
+"Upgrade to unlimited" = "Nadogradite na neograničeno";
+"Upgrade" = "Nadogradnja";
+
+//Chat
+"Are you sure you want start a new chat?" = "Jeste li sigurni da želite započeti novi razgovor?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Nastavak će započeti novi chat i još uvijek možete pristupiti ovom chatu iz povijesti chatova.";
+"No" = "Ne";
+"Yes" = "Da";
+"Are you sure you want to delete?" = "Jeste li sigurni da želite izbrisati?";
+"By proceeding, you'll lose access to this chat." = "Nastavkom će vam se izgubiti pristup ovoj razgovoru.";
+"Give this one more chance." = "Dajte mu još jednu šansu";
+"Your answer will be more detailed this time!" = "Vaš će odgovor ovaj put biti detaljniji!";
+"Try Again" = "Pokušajte ponovno";
+"Are you not satisfied?" = "Niste zadovoljni?";
+"Ask new question" = "Postavite novo pitanje";
+//
+"Explain" = "Objasniti";
+"Explain Bitcoin" = "Objasni Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Kako radi internet, objasni kao da imaš 5 godina";
+"Write & Edit" = "Pisanje i uređivanje";
+"Write a tweet about global warming" = "Napišite tweet o globalnom zagrijavanju";
+"Write a poem about flowers and love" = "Napišite pjesmu o cvijeću i ljubavi";
+"Write a rap song lyrics about being smart" = "Napišite stihove rap pjesme o tome kako biti pametan";
+"Translate" = "Prevedi";
+"Write a tweet about global warming in Korean" = "Napiši mi tweet o globalnom zagrijavanju na korejskom";
+"Write an email" = "Napišite e-mail";
+"Write an email to decline the offer but request a discount." = "Napišite e-mail za odbijanje ponude, ali tražite popust.?";
+"Get recipes" = "Dohvatiti recepte za hranu";
+"How to make banana pancakes" = "Kako napraviti bananine palačinke";
+"Do Math" = "Riješi matematiku";
+"Solve this math problem: 3^(9)÷3^(2)" = "Riješite ovaj matematički problem: 3^(9)÷3^(2)";
+//
+"Ask Anything" = "Pitaj bilo što";
+"Ask me grade 12 math questions" = "Pitajte me pitanja matematike 12. razreda";
+"Ask me questions as a job interviewer" = "Pitajte me pitanja kao poslodavac na razgovoru za posao";
+"Tell me a joke about a kangaroo" = "Reci mi vic o kenguruu";
+"Write an essay about Global Warming. Maximum 200 words." = "Napišite esej o globalnom zatopljenju. Najviše 200 riječi.";
+"Business" = "Posao";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Generirajte 10 različitih robnih marki za moju tvrtku koja će prodavati ženske cipele na internetu. Želim moderno ime marke. Moja ciljna publika su žene mlađe od 30 godina. Provjerite je li .com domena dostupna na internetu.";
+"Ask for help" = "Zatraži pomoć";
+"What's the best marketing channel for second-hand electronics in America?" = "Koji je najbolji kanal za marketing rabljene elektronike u Hrvatskoj?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Dnevno ograničenje dostignuto. Pretplatite se za neograničene odgovore.";
+"Please try again later" = "Molimo pokušajte kasnije";
+"Copied" = "Kopirano";
+"Speak your mind to Leo" = "Recite svoje misli Leu";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Ovu postavku možete poništiti na zaslonu za razgovor dodirivanjem ikone zvuka.";
+"Spoken Responses" = "Govorne odgovore";
+//
+"Share" = "Podijeli";
+
+"Error" = "Greška";
+"Camera access is denied." = "Pristup kameri je odbijen.";
+"Photo Library access is denied." = "Pristup knjižnici fotografija je odbijen.";
+"Cancel" = "Otkaži";
+"Settings" = "Postavke";
+"Choose image" = "Odaberite sliku";
+"Camera" = "Kamera";
+"Gallery" = "Galerija";
+"What is this image about?" = "O čemu se radi na ovoj slici?";
+"Write an Instagram caption for this image." = "Napišite opis na Instagramu za ovu sliku.";
+"PDF/Document Summary (Coming Soon)" = "Sažetak PDF/Dokumenta (Uskoro dolazi)";
+"Summarise picture" = "Sažeti sliku u nekoliko riječi";
+"Upload a photo" = "Postavi fotografiju";
+"No connection" = "Nema veze";
+"We couldn't connect to the internet. Please check network settings and try again." = "Nismo se mogli spojiti na internet. Molimo provjerite postavke mreže i pokušajte ponovno.";

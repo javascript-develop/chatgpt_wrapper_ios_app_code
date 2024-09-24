@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "Trò chuyện với Leo";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = "Chào mừng bạn đến với Leo, trợ lý trí tuệ nhân tạo cá nhân của bạn, sẵn sàng giúp đỡ bất kỳ nhiệm vụ, câu hỏi hoặc cuộc trò chuyện nào trong 24/7. Hãy để chúng tôi cho bạn thấy cách sử dụng Leo dễ dàng và thú vị cho công việc, cuộc sống cá nhân hoặc chỉ đơn giản là trò chuyện vui vẻ.";
+"Leo Pro Tips" = "Mẹo Pro của Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "Tận dụng ngôn ngữ tự nhiên: Leo được thiết kế để hiểu ngôn ngữ tự nhiên, vì vậy đừng ngần ngại hỏi câu hỏi và nói theo cách trò chuyện. Thử các lệnh khác nhau: Leo có thể làm nhiều việc hơn chỉ trả lời câu hỏi, vì vậy hãy thử các lệnh khác nhau để xem nó có thể làm gì. Giữ cuộc trò chuyện đi: Leo luôn sẵn sàng để trò chuyện, vì vậy hãy giữ cuộc trò chuyện đi và xem nó sẽ đưa bạn đến đâu.";
+"Enable Notifications" = "Bật thông báo";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "Bật thông báo để đảm bảo bạn luôn cập nhật và không bỏ lỡ bất kỳ thông tin quan trọng nào.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "Tiếp tục, bạn đồng ý với <BUTTON><PRIVACY>Chính sách bảo mật<BUTTON> và <BUTTON><TERMS>Điều khoản sử dụng<BUTTON> của chúng tôi.";
+"Continue" = "Tiếp tục";
+
+//Home
+"Ask anything" = "Hỏi bất cứ điều gì";
+"Get instant answers. Start asking now!" = "Nhận câu trả lời ngay lập tức. Hãy bắt đầu hỏi ngay bây giờ!";
+"Dialog" = "Đối thoại";
+"Get answers with your personal assistant, Leo" = "Nhận câu trả lời từ trợ lý cá nhân của bạn, Leo";
+"Start" = "Bắt đầu";
+"Try Leo 3 days for free. Tap to activate premium." = "Thử Leo 3 ngày miễn phí. Chạm để kích hoạt chế độ cao cấp.";
+"Tap below to start" = "Nhấn vào bên dưới để bắt đầu";
+
+//Side menu
+"Questions" = "Câu hỏi";
+"My Chats" = "Trò chuyện";
+"History" = "Lịch sử";
+"Get chatting now! Start your conversation with Leo today." = "Bắt đầu cuộc trò chuyện với Leo ngay bây giờ!";
+
+//Settings
+"OK" = "Ok";
+"Language" = "Ngôn ngữ";
+"Your Plan" = "Kế hoạch của bạn";
+"Voice" = "Giọng nói";
+"Support" = "Hỗ trợ";
+"Restore Purchases" = "Khôi phục mua hàng";
+"About" = "Giới thiệu";
+"Rate Us" = "Đánh giá cho chúng tôi";
+"Share with Friends" = "Chia sẻ với bạn bè";
+"Restored Successfully" = "Khôi phục thành công";
+"Terms of Use" = "Điều khoản sử dụng";
+"Privacy Policy" = "Chính sách bảo mật";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "Premium";
+"Leo: The Smartest Way to Chat, Period." = "Leo: Cách tốt nhất để trò chuyện, một thời kỳ.";
+"Unlock endless knowledge with Leo." = "Mở khóa kiến thức vô tận với Leo.";
+"Ask smarter, live better with Leo." = "Hỏi thông minh, sống tốt hơn với Leo.";
+"Features" = "Tính năng";
+"Limited Questions and Answers" = "Hạn chế Câu hỏi và Trả lời";
+"Most Advanced AI Model" = "Mô hình AI tiên tiến nhất";
+"Higher Word Limit" = "Giới hạn từ cao hơn";
+"Unlimited Questions & Answers" = "Không giới hạn Câu hỏi & Trả lời";
+"Dialogs (AI remembers chat history)" = "Đối thoại (trợ lý trí nhớ lị";
+"Back" = "Quay lại";
+"Skip" = "Bỏ qua";
+"Your Current Plan" = "Kế hoạch hiện tại của bạn";
+"Try 3 Days for Free" = "Thử 3 ngày miễn phí";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> mỗi tuần.";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> mỗi năm.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "Dùng thử miễn phí 3 ngày, sau đó <PRICE_WITH_CURRENCY> mỗi tuần.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "Dùng thử miễn phí 3 ngày, sau đó <PRICE_WITH_CURRENCY> mỗi năm.";
+"Secured with iTunes. Cancel anytime" = "Được bảo vệ bằng iTunes. Hủy bất cứ lúc nào.";
+//
+"Subscription purchased" = "Đã mua đăng ký";
+"Nothing to Restore" = "Không có gì để phục hồi";
+"Restore failed" = "Khôi phục thất bại";
+"Unknown error. Please contact support" = "Lỗi không rõ. Vui lòng liên hệ hỗ trợ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "Xin lỗi, việc mua hàng không khả dụng vì lý do không xác định. Vui lòng thử lại sau.";
+"The purchase cannot be completed. Please, change your account or device" = "Không thể hoàn thành mua hàng. Vui lòng thay đổi tài khoản hoặc thiết bị của bạn.";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "Giao dịch của bạn bị từ chối. Vui lòng kiểm tra chi tiết thanh toán và đảm bảo rằng có đủ tiền trong tài khoản của bạn.";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "Mua hàng không khả dụng cho phương thức thanh toán đã chọn. Vui lòng đảm bảo phương thức thanh toán của bạn cho phép bạn thực hiện mua hàng trực tuyến.";
+"This product is not available in your region. Please, change the store and try again" = "Sản phẩm này không có sẵn trong khu vực của bạn. Vui lòng thay đổi cửa hàng và thử lại.";
+"Access to cloud service information is not allowed" = "Truy cập vào thông tin dịch vụ đám mây không được phép.";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "Không thể hoàn thành mua hàng do thiết bị của bạn không kết nối với Internet. Vui lòng thử lại sau với kết nối Internet ổn định";
+"Sorry, an error has occurred" = "Xin lỗi, đã xảy ra lỗi.";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "Không thể hoàn thành việc mua hàng do bạn chưa chấp nhận các điều khoản sử dụng của AppStore. Vui lòng xác nhận sự đồng ý của bạn trong cài đặt sau đó quay trở lại mua hàng.";
+"An error has occurred. Please, try again later" = "Đã xảy ra lỗi. Vui lòng thử lại sau.";
+"The promotional offer is invalid or expired" = "Khuyến mãi không hợp lệ hoặc đã hết hạn.";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "Xin lỗi, đã xảy ra lỗi khi áp dụng mã khuyến mại. Vui lòng thử lại sau.";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "Xin lỗi, đã xảy ra lỗi khi áp dụng chương trình khuyến mãi. Vui lòng thử lại sau.";
+"Sorry, your purchase cannot be completed. Please, try again later" = "Xin lỗi, giao dịch mua của bạn không thể hoàn tất. Vui lòng thử lại sau.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "Còn lại <numberofquestions> câu hỏi trong gói miễn phí hàng tuần của bạn. Nâng cấp để có câu hỏi không giới hạn.";
+"Upgrade to unlimited" = "Nâng cấp lên không giới hạn";
+"Upgrade" = "Nâng cấp";
+
+//Chat
+"Are you sure you want start a new chat?" = "Bạn chắc chắn muốn bắt đầu một cuộc trò chuyện mới?";
+"Proceeding will start a new chat and you can still access this chat from chat history." = "Tiếp tục sẽ bắt đầu một cuộc trò chuyện mới và bạn vẫn có thể truy cập cuộc trò chuyện này từ lịch sử trò chuyện.";
+"No" = "Không";
+"Yes" = "Vâng";
+"Are you sure you want to delete?" = "Bạn có chắc chắn muốn xóa không?";
+"By proceeding, you'll lose access to this chat." = "Bằng cách tiếp tục, bạn sẽ mất quyền truy cập vào cuộc trò chuyện này.";
+"Give this one more chance." = "Đưa cho nó một cơ hội nữa";
+"Your answer will be more detailed this time!" = "Câu trả lời của bạn sẽ càng chi tiết hơn lần này!";
+"Try Again" = "Thử lại";
+"Are you not satisfied?" = "Bạn không hài lòng à?";
+"Ask new question" = "Hỏi câu hỏi mới.";
+//
+"Explain" = "Giải thích.";
+"Explain Bitcoin" = "Giải thích Bitcoin";
+"How does the internet work, explain like I am 5 years old" = "Internet hoạt động như thế nào, giải thích như bạn đang giải thích cho một đứa trẻ 5 tuổi.";
+"Write & Edit" = "Viết và Chỉnh sửa";
+"Write a tweet about global warming" = "Viết một tweet về sự nóng lên toàn cầu";
+"Write a poem about flowers and love" = "Viết một bài thơ về hoa và tình yêu";
+"Write a rap song lyrics about being smart" = "Viết lời nhạc rap về việc thông minh";
+"Translate" = "Dịch";
+"Write a tweet about global warming in Korean" = "Viết cho tôi một tweet về hiện tượng toàn cầu nóng lên bằng tiếng Hàn.";
+"Write an email" = "Viết một email.";
+"Write an email to decline the offer but request a discount." = "Viết một email để từ chối đề nghị nhưng yêu cầu giảm giá.";
+"Get recipes" = "Lấy công thức nấu ăn";
+"How to make banana pancakes" = "Làm bánh kếp chuối như thế nào";
+"Do Math" = "Làm toán";
+"Solve this math problem: 3^(9)÷3^(2)" = "Giải bài toán này: 3^(9)÷3^(2).";
+//
+"Ask Anything" = "Hỏi bất cứ điều gì";
+"Ask me grade 12 math questions" = "Hỏi tôi các câu hỏi toán học lớp 12";
+"Ask me questions as a job interviewer" = "Hỏi tôi câu hỏi như một nhà tuyển dụng";
+"Tell me a joke about a kangaroo" = "Kể cho tôi một câu chuyện cười về một con kangaroo";
+"Write an essay about Global Warming. Maximum 200 words." = "Viết một bài luận về hiện tượng toàn cầu nóng lên. Tối đa 200 từ.";
+"Business" = "Kinh doanh";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "Tạo 10 tên thương hiệu khác nhau cho công ty của tôi, chuyên bán giày nữ trên mạng. Tôi muốn một tên thương hiệu hiện đại. Đối tượng khách hàng của tôi là phụ nữ dưới 30 tuổi. Hãy đảm bảo tên miền .com có sẵn trên internet.";
+"Ask for help" = "Xin giúp đỡ";
+"What's the best marketing channel for second-hand electronics in America?" = "Kênh tiếp thị tốt nhất cho điện tử đã qua sử dụng ở Việt Nam là gì?";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "Đã đạt giới hạn hàng ngày. Đăng ký để nhận câu trả lời không giới hạn.";
+"Please try again later" = "Vui lòng thử lại sau.";
+"Copied" = "Đã sao chép";
+"Speak your mind to Leo" = "Hãy nói ý kiến của bạn với Leo";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "Cài đặt này có thể được ghi đè trên màn hình trò chuyện bằng cách chạm vào biểu tượng âm thanh.";
+"Spoken Responses" = "Phản hồi bằng giọng nói";
+//
+"Share" = "Chia sẻ";
+
+"Error" = "Lỗi";
+"Camera access is denied." = "Truy cập camera bị từ chối.";
+"Photo Library access is denied." = "Truy cập thư viện ảnh bị từ chối.";
+"Cancel" = "Hủy bỏ";
+"Settings" = "Cài đặt";
+"Choose image" = "Chọn hình ảnh";
+"Camera" = "Máy ảnh";
+"Gallery" = "Bộ sưu tập";
+"What is this image about?" = "Ảnh này về điều gì?";
+"Write an Instagram caption for this image." = "Viết chú thích Instagram cho hình ảnh này.";
+"PDF/Document Summary (Coming Soon)" = "Tóm tắt PDF/Tài liệu (Sắp ra mắt)";
+"Summarise picture" = "Tóm tắt hình ảnh bằng vài từ";
+"Upload a photo" = "Tải lên một ảnh";
+"No connection" = "Không có kết nối";
+"We couldn't connect to the internet. Please check network settings and try again." = "Chúng tôi không thể kết nối với Internet. Vui lòng kiểm tra cài đặt mạng và thử lại.";

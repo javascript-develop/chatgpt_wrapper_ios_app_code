@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  GenieD
+
+  Created by OK on 12.04.2023.
+  
+*/
+
+NSCameraUsageDescription = "我們需要存取您的攝影機以拍攝照片和影片。";
+NSPhotoLibraryUsageDescription = "這將使您可以無縫地將照片導入聊天對話中。";

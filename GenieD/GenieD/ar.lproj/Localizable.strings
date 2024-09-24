@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  GenieD
+
+  Created by OK on 20.03.2023.
+  
+*/
+
+// Onboarding
+"Chat with Leo" = "دردش مع ليو";
+"Welcome to Leo, your personal AI assistant available 24/7 to help with any task, question, or conversation. Let us show you how easy and enjoyable it is to use Leo for work, personal life, or just a fun chat." = " في Leo ، مساعدك الشخصي للذكاء الاصطناعي المتاح على مدار الساعة للمساعدة في أي مهمة أو سؤال أو محادثة. دعنا نريك كيف يسهل وممتع استخدام Leo للعمل أو الحياة الشخصية أو مجرد محادثة ممتعة.";
+"Leo Pro Tips" = "نصائح Leo";
+"Make use of natural language: Leo is designed to understand natural language, so don't be afraid to ask questions and speak in a conversational tone. Try out different commands: Leo can do a lot more than just answer questions, so try out different commands to see what it can do. Keep the conversation going: Leo is always ready to chat, so keep the conversation going and see where it takes you." = "استخدم اللغة الطبيعية: تم تصميم Leo لفهم اللغة الطبيعية ، لذا لا تخاف من طرح الأسئلة والتحدث بلهجة محادثة. جرب أوامر مختلفة: يمكن لـ Leo القيام بأكثر من مجرد الإجابة على الأسئلة ، لذا جرب الأوامر المختلفة لمعرفة ما يمكنه القيام به. استمر في المحادثة: يعد Leo دائمًا جاهزًا للدردشة ، لذا استمر في المحادثة وانظر إلى أين يأخذك.";
+"Enable Notifications" = "تمكين الإشعارات";
+"Enable notifications to ensure that you stay up-to-date and never miss any important information." = "قم بتمكين الإشعارات للتأكد من أنك على اطلاع دائمًا وأنك لا تفوت أي معلومات هامة.";
+"By continuing, you agree to our <BUTTON><PRIVACY>Privacy Policy<BUTTON> & <BUTTON><TERMS>Terms of Use<BUTTON>" = "بالمتابعة، فأنت توافق على <BUTTON><PRIVACY> سياسة الخصوصية <BUTTON> و <BUTTON><TERMS> شروط الاستخدام <BUTTON> الخاصة بنا.";
+"Continue" = " استمر";
+
+//Home
+"Ask anything" = " اسأل أي شيء ";
+"Get instant answers. Start asking now!" = "احصل على إجابات فورية. ابدأ السؤال الآن!";
+"Dialog" = "الحوار";
+"Get answers with your personal assistant, Leo" = "احصل على الإجابات مع مساعدك الشخصي، Leo";
+"Start" = " بدء";
+"Try Leo 3 days for free. Tap to activate premium." = " جرب Leo لمدة 3 أيام مجانًا. انقر لتنشيط البريميوم.";
+"Tap below to start" = "اضغط أدناه للبدء";
+
+//Side menu
+"Questions" = " أسئلة";
+"My Chats" = "محادثاتي";
+"History" = "تاريخ";
+"Get chatting now! Start your conversation with Leo today." = "ابدأ الدردشة الآن! ابدأ محادثتك مع Leo اليوم.";
+
+//Settings
+"OK" = " حسناً";
+"Language" = " لغة";
+"Your Plan" = "خطتك";
+"Voice" = "صوت";
+"Support" = "الدعم";
+"Restore Purchases" = "استعادة المشتريات";
+"About" = "حول";
+"Rate Us" = "قيّمنا";
+"Share with Friends" = "مشاركة مع الأصدقاء";
+"Restored Successfully" = "تمت استعادته بنجاح";
+"Terms of Use" = "شروط الاستخدام";
+"Privacy Policy" = "سياسة الخصوصية";
+
+//Paywall
+"Lite" = "Lite";
+"Pro" = "Pro";
+"Premium" = "متميز";
+"Leo: The Smartest Way to Chat, Period." = "تشاتليو: الطريقة الأذكى للدردشة، بلا منازع.";
+"Unlock endless knowledge with Leo." = "فتح العلم اللامحدود مع تشاتليو.";
+"Ask smarter, live better with Leo." = "اسأل بذكاء، وعش بشكل أفضل مع تشاتليو.";
+"Features" = " ميزات ";
+"Limited Questions and Answers" = "أسئلة وأجوبة محدودة";
+"Most Advanced AI Model" = "نموذج الذكاء الاصطناعي الأكثر تطورًا";
+"Higher Word Limit" = "حد أعلى لعدد الكلمات";
+"Unlimited Questions & Answers" = "أسئلة وأجوبة غير محدودة";
+"Dialogs (AI remembers chat history)" = "حوارات (يتذكر الذكاء الاصطناعي تاريخ المحادثات)";
+"Back" = "رجوع";
+"Skip" = "تخطى";
+"Your Current Plan" = "خطتك الحالية";
+"Try 3 Days for Free" = "جرب لمدة 3 أيام مجانًا";
+"<PRICE_WITH_CURRENCY>/week" = "<PRICE_WITH_CURRENCY> في الأسبوع. ";
+"<PRICE_WITH_CURRENCY>/year" = "<PRICE_WITH_CURRENCY> في السنة.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/week" = "3 أيام تجريبية مجانية، ثم <PRICE_WITH_CURRENCY> في الأسبوع.";
+"3 days free trial, then <PRICE_WITH_CURRENCY>/year" = "3 أيام تجريبية مجانية، ثم <PRICE_WITH_CURRENCY> في السنة.";
+"Secured with iTunes. Cancel anytime" = "مؤمّن بواسطة iTunes. الإلغاء في أي وقت.";
+//
+"Subscription purchased" = "تم شراء الاشتراك ";
+"Nothing to Restore" = "لا يوجد محتوى للاستعادة ";
+"Restore failed" = "فشل الاستعادة";
+"Unknown error. Please contact support" = "خطأ غير معروف. يرجى الاتصال بالدعم ";
+"Sorry, the purchase is unavailable for an unknown reason. Please try again later" = "عذرًا ، الشراء غير متاح لسبب غير معروف. يرجى المحاولة مرة أخرى في وقت لاحق ";
+"The purchase cannot be completed. Please, change your account or device" = "لا يمكن إتمام الشراء. يرجى تغيير حسابك أو جهازك";
+"Your purchase was declined. Please, check the payment details and make sure there are enough funds in your account" = "تم رفض عملية الشراء الخاصة بك. يرجى التحقق من تفاصيل الدفع والتأكد من وجود ما يكفي من الأموال في حسابك. ";
+"The purchase is not available for the selected payment method. Please, make sure your payment method allows you to make online purchases" = "الشراء غير متاح لطريقة الدفع المحددة. يرجى التأكد من أن طريقة الدفع الخاصة بك تسمح لك بالقيام بالمشتريات عبر الإنترنت.";
+"This product is not available in your region. Please, change the store and try again" = "هذا المنتج غير متوفر في منطقتك. يرجى تغيير المتجر والمحاولة مرة أخرى.";
+"Access to cloud service information is not allowed" = " لا يُسمح بالوصول إلى معلومات خدمة السحابة";
+"The purchase cannot be completed because your device is not connected to the Internet. Please, try again later with a stable internet connection" = "لا يمكن إكمال الشراء لأن جهازك غير متصل بالإنترنت. يرجى المحاولة مرة أخرى لاحقًا باتصال إنترنت مستقر.";
+"Sorry, an error has occurred" = "عذرًا، حدث خطأ";
+"The purchase cannot be completed because you have not accepted the terms of use of the AppStore. Please, confirm your consent in the settings and then return to the purchase" = "لا يمكن إتمام الشراء لأنك لم توافق على شروط استخدام متجر التطبيقات. يرجى تأكيد موافقتك في الإعدادات والعودة إلى العملية الشرائية";
+"An error has occurred. Please, try again later" = "حدث خطأ. يرجى المحاولة مرة أخرى في وقت لاحق.";
+"The promotional offer is invalid or expired" = "العرض الترويجي غير صالح أو انتهت صلاحيته";
+"Sorry, an error has occurred when applying the promo code. Please, try again later" = "عذرًا ، حدث خطأ عند تطبيق رمز العرض الترويجي. يرجى المحاولة مرة أخرى لاحقًا";
+"Sorry, an error has occurred when applying the promo offer. Please, try again later" = "عذرًا ، حدث خطأ عند تطبيق العرض الترويجي. يرجى المحاولة مرة أخرى في وقت لاحق";
+"Sorry, your purchase cannot be completed. Please, try again later" = "عذرًا، لا يمكن إتمام عملية الشراء الخاصة بك. يرجى المحاولة مرة أخرى في وقت لاحق.";
+
+//Counter
+"<numberofquestions> questions left in your weekly free package. Upgrade for unlimited questions." = "أسئلة متبقية في حزمتك الأسبوعية المجانية. الترقية للاستفسارات غير المحدودة.";
+"Upgrade to unlimited" = "الترقية إلى غير محدود ";
+"Upgrade" = "الترقية ";
+
+//Chat
+"Are you sure you want start a new chat?" = "هل أنت متأكد من أنك تريد بدء محادثة جديدة؟";
+"Proceeding will start a new chat and you can still access this chat from chat history." =  "المتابعة ستبدأ محادثة جديدة وما زلت تستطيع الوصول إلى هذه المحادثة من سجل المحادثات السابقة.";
+"No" = " لا";
+"Yes" = " نعم";
+"Are you sure you want to delete?" = " هل أنت متأكد أنك تريد الحذف؟ (Hal 'ant muta'kid 'anak tarid alhazf?)";
+"By proceeding, you'll lose access to this chat." = " بالمتابعة، ستفقد الوصول إلى هذه الدردشة.";
+"Give this one more chance." = " اعطِهِ فرصة اخرى";
+"Your answer will be more detailed this time!" =  "سيكون جوابك أكثر تفصيلاً هذه المرة!";
+"Try Again" = " حاول مرة أخرى";
+"Are you not satisfied?" = " أَلَسْتَ رَاضِيًا؟";
+"Ask new question" = " اسأل سؤالًا جديدًا";
+//
+"Explain" = " شرح ";
+"Explain Bitcoin" = "شرح بيتكوين ";
+"How does the internet work, explain like I am 5 years old" = "كيف يعمل الإنترنت ، شرحه كما لو كنت في الخامسة من عمرك";
+"Write & Edit" = "الكتابة والتحرير";
+"Write a tweet about global warming" = "اكتب تغريدة حول الاحتباس الحراري";
+"Write a poem about flowers and love" = "اكتب قصيدة عن الزهور والحب";
+"Write a rap song lyrics about being smart" = "اكتب كلمات أغنية راب عن كونك ذكيًا";
+"Translate" = "ترجمة";
+"Write a tweet about global warming in Korean" = "اكتب لي تغريدة حول الاحتباس الحراري باللغة الكورية";
+"Write an email" = "اكتب بريدًا إلكترونيًا ";
+"Write an email to decline the offer but request a discount." = "اكتب بريدًا إلكترونيًا لرفض العرض وطلب تخفيض. ";
+"Get recipes" = "الحصول على وصفات الطعام";
+"How to make banana pancakes" = "كيفية صنع فطائر الموز";
+"Do Math" = "احسب";
+"Solve this math problem: 3^(9)÷3^(2)" = " حل هذه المسألة الرياضية: 3^(9)÷3^(2) ";
+//
+"Ask Anything" = "اسأل أي شيء";
+"Ask me grade 12 math questions" = "اسألني أسئلة رياضيات الصف الثاني عشر";
+"Ask me questions as a job interviewer" = "اسألني الأسئلة كمقابلة عمل";
+"Tell me a joke about a kangaroo" = "قل لي نكتة عن الكنغر";
+"Write an essay about Global Warming. Maximum 200 words." = "اكتب مقالة عن الاحتباس الحراري العالمي. الحد الأقصى 200 كلمة.";
+"Business" = "عُمْلٌ";
+"Generate 10 different brand names for my company which will sell women's shoes on the internet. I want a modern brand name. My target audience is women under the age of 30. Make sure the .com domain is available on the internet." = "إنشاء 10 أسماء تجارية مختلفة لشركتي التي ستبيع أحذية نسائية عبر الإنترنت. أريد اسم علامة تجارية حديثة. الجمهور المستهدف هم النساء دون سن الثلاثين. تأكد من توافر نطاق .com على الإنترنت.";
+"Ask for help" = "اطلب المساعدة";
+"What's the best marketing channel for second-hand electronics in America?" = "ما هي أفضل قناة تسويق للإلكترونيات المستعملة في الأردن؟";
+//
+"Daily limit reached. Subscribe for unlimited answers." = "تم الوصول إلى الحد اليومي. اشترك للحصول على إجابات غير محدودة.";
+"Please try again later" = "الرجاء المحاولة مرة أخرى لاحقًا";
+"Copied" = "تم النسخ";
+"Speak your mind to Leo" = "تحدث بصراحتك لليو.";
+
+//Voice
+"This setting can be overriden on the chat screen by tapping on the sound icon." = "يمكن تجاوز هذا الإعداد على شاشة الدردشة عن طريق النقر على أيقونة الصوت.";
+"Spoken Responses" = "الردود الصوتية";
+//
+"Share" = " مشاركة";
+
+"Error" = "خطأ";
+"Camera access is denied." = "الوصول إلى الكاميرا مرفوض.";
+"Photo Library access is denied." = "الوصول إلى مكتبة الصور مرفوض.";
+"Cancel" = "الغاء";
+"Settings" = "الإعدادات";
+"Choose image" = "اختر صورة";
+"Camera" = "كاميرا";
+"Gallery" = "معرض";
+"What is this image about?" = " ما هذه الصورة عنه؟";
+"Write an Instagram caption for this image." = "اكتب عنوانًا لـ Instagram لهذه الصورة.";
+"PDF/Document Summary (Coming Soon)" = "ملخص PDF/المستند (قريبًا)";
+"Summarise picture" = "ألخلاص الصورة في بضع كلمات";
+"Upload a photo" = "حمل صورة";
+"No connection" = "لا اتصال";
+"We couldn't connect to the internet. Please check network settings and try again." = "لم نتمكن من الاتصال بالإنترنت. يرجى التحقق من إعدادات الشبكة والمحاولة مرة أخرى.";

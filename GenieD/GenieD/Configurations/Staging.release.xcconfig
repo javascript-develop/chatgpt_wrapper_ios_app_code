@@ -1,0 +1,18 @@
+//
+//  Staging.release.xcconfig
+//  GenieD
+//
+//  Created by OK on 21.11.2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-GenieD/Pods-GenieD.release.xcconfig"
+
+FIREBASE_LOGIN=LOGIN
+FIREBASE_PASSWORD=PASSWORD
+GPT_FILE_QUERY_TOKEN=TYPE_AND_KEY
+SHARED_SECRET=KEY
+GOOGLE_CLIENT_ID=ID
+

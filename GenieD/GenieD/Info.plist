@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>googleDrive</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.907618205473-6fbhga43me1pgej2n8t10jcm29qtfoej</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>logoGreen</string>
+	</dict>
+    <key>CurrentConfiguration</key>
+    <dict>
+        <key>firebaseLogin</key>
+        <string>$(FIREBASE_LOGIN)</string>
+        <key>firebasePassword</key>
+        <string>$(FIREBASE_PASSWORD)</string>
+        <key>googleClientId</key>
+        <string>$(GOOGLE_CLIENT_ID)</string>
+        <key>gptFileQueryToken</key>
+        <string>$(GPT_FILE_QUERY_TOKEN)</string>
+        <key>sharedSecret</key>
+        <string>$(SHARED_SECRET)</string>
+    </dict>
+</dict>
+</plist>
