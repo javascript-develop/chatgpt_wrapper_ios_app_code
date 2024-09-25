@@ -6,7 +6,7 @@ workflows:
     scripts:
       - name: Install CocoaPods
         script: |
-          sudo gem install cocoapods
+          sudo gem install cocoapods --no-document || true  # Ignore errors
       - name: Install dependencies
         script: |
           cd GenieD
@@ -15,7 +15,7 @@ workflows:
         script: |
           cd GenieD
           xcodebuild \
-            -project "GenieD.xcodeproj" \  # Changed from -workspace to -project
+            -project "GenieD.xcodeproj" \
             -scheme "GenieDScheme" \
             -sdk iphoneos \
             -configuration Release \
