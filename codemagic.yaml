@@ -1,0 +1,24 @@
+workflows:
+  ios-workflow:
+    name: iOS Workflow
+    environment:
+      xcode: latest
+    scripts:
+      - name: Install dependencies
+        script: |
+          pod install
+      - name: Build iOS app
+        script: |
+          xcodebuild \
+            -workspace "GenieD.xcworkspace" \
+            -scheme "GenieDScheme" \
+            -sdk iphoneos \
+            -configuration Release \
+            -archivePath $CM_BUILD_DIR/GenieD.xcarchive \
+            clean archive
+    artifacts:
+      - $CM_BUILD_DIR/GenieD.xcarchive
+    publishing:
+      email:
+        recipients:
+          - your-email@example.com
