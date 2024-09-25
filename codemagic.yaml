@@ -1,31 +1,19 @@
+version: 2.0
 workflows:
-  ios-workflow:
-    name: iOS Workflow
+  ios_build:
+    name: iOS Build
     environment:
       xcode: latest
     scripts:
-      - name: Install CocoaPods
-        script: |
-          sudo gem install cocoapods --no-document || true
-      - name: Install dependencies
+      - name: Install CocoaPods Dependencies
         script: |
           cd GenieD
           pod install
-      - name: Build iOS app
+      - name: Clean Build
         script: |
-          cd GenieD
-          xcodebuild \
-            -workspace "GenieD.xcworkspace" \
-            -scheme "GenieDScheme" \
-            -sdk iphoneos \
-            -configuration Release \
-            -archivePath $CM_BUILD_DIR/GenieD.xcarchive \
-            CODE_SIGN_IDENTITY="iPhone Developer" \
-            PROVISIONING_PROFILE_SPECIFIER="your-provisioning-profile" \
-            clean archive
+          xcodebuild clean -workspace GenieD.xcworkspace -scheme GenieD
+      - name: Build iOS App
+        script: |
+          xcodebuild -workspace GenieD.xcworkspace -scheme GenieD -sdk iphoneos -configuration Release CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
     artifacts:
-      - $CM_BUILD_DIR/GenieD.xcarchive
-    publishing:
-      email:
-        recipients:
-          - rubelrana019914@gmail.com
+      - GenieD/build/Release-iphoneos/*.ipa
